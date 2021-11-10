@@ -5,6 +5,9 @@ import pathlib
 import os
 from urllib.request import Request
 # Class which extracts text from websites and puts them into text files.
+from manipulateText import manipulateText
+
+
 class textData:
 
     def __init__(self, category, lines):
@@ -26,6 +29,7 @@ class textData:
                 req = Request(website, headers={'User-Agent': 'Mozilla/5.0'})
                 html = urllib.request.urlopen(req)
             except Exception as e:
+                #sometimes error bc website doesn't respond in time.
                 print(str(e) + " website : " + website)
             parse = BeautifulSoup(html, "lxml")
             # unicode encoding to deal with weird characters.
@@ -37,7 +41,7 @@ class textData:
                 with open(newDir/filename, "w", encoding='utf-8') as file:
                     divider = "p"
                     #zero because beowulf is 0.
-                    if count ==0:
+                    if count ==0 or self.lines:
                         divider = "div"
                     for data in parse.find_all(divider):
                         text = data.get_text()
@@ -52,8 +56,8 @@ class textData:
     # gets the list of websites from the websites file.
     def getWebsiteList(self):
         try:
-            # list of websites from the Websites OE file.
-            with open('Websites OE', 'r') as f:  # with closes the file automatically once it's done.
+            # list of websites from the Websites Old English file.
+            with open('Websites ' + self.category, 'r') as f:  # with closes the file automatically once it's done.
                 # gets rid of newline characters gotten from file.
                 list = [line.strip() for line in f.readlines()]
                 # gets rid of last extra empty line in list.
@@ -66,10 +70,14 @@ class textData:
 
 
 def main():
-    language = "Old English"
-    text = textData(language, False)
+    text = textData("Old English", False)
+    text2 = textData("Old French", True)
     fileList = text.getData()
+    frenchList = text2.getData()
     print(fileList)
+    print(frenchList)
+    count = manipulateText()
+    print(count.countWords(fileList, os.getcwd() + "/Old English"))
 
 if __name__== "__main__":
     main()
