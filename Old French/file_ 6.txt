@@ -15,7 +15,7 @@ BIBLIOTHECA AUGUSTANA
 
 
 Albéric de Pisançon
-vers 1120
+vers 
 
 
 
@@ -28,7 +28,7 @@ Roman d'Alexandre
  
 Texte: 
 The Medieval French Roman d'Alexandre
-Éd.: M. S. La Du/E. C. Armstrong, Princeton 1937
+Éd.: M. S. La Du/E. C. Armstrong, Princeton 
  
 
 
@@ -43,9 +43,9 @@ ______________________________________________________________________________
  
 
 
-Alexandre (Pompeii, vers 50)
+Alexandre (Pompeii, vers )
 
-Alexandre et les griffons (cathédrale de Freiburg, vers 1200)
+Alexandre et les griffons (cathédrale de Freiburg, vers )
  
  
 I
@@ -53,71 +53,71 @@ Dit Salomon, al primier pas,
 Quant de son libre mot lo clas:
 «Est vanitatum vanitas 
 Et universa vanitas.»
-5Poyst lou me fay m'enfirmitas, 
+Poyst lou me fay m'enfirmitas, 
 Toylle s'en otiositas!
 Solaz nos faz' antiquitas 
 Que tot non sie vanitas!
  
 II
 En pargamen no·l vid escrit 
-10Ne per parabla non fu dit 
+Ne per parabla non fu dit 
 Del temps novel ne del antic
 Nuls hom vidist un rey tan ric 
 Chi per batalle et per estric 
 Tant rey fesist mat ne mendic 
-15Ne tanta terra cunquesist 
+Ne tanta terra cunquesist 
 Ne tan duc nobli occisist
 Cum Alexander Magnus tist.
 Qui fud de Grecia natiz.
  
 III
 Rey furent fort et mul podent 
-20Et de pecunia manent,
+Et de pecunia manent,
 Rey furent sapi et prudent 
 Et exaltat sor tota gent, 
 Mais non i ab un plus valent
 D'echest dun faz l'alevament. 
-25Contar vos ey pleneyrament 
+Contar vos ey pleneyrament 
 Del Alexandre mandament
  
 IV
 Dicunt alquant estrobatour
 Que·l reys fud filz d'encantatour.
 Mentent, fellon losengetour.
-30Mal en credreyz nec un de lour,
+Mal en credreyz nec un de lour,
 Qu'anz fud de ling d'enperatour
 Et filz al rey macedonor.
  
 V
 Philippus ab ses pare non
 Meyllor vasal non vid ainz hom.
-35Echel ten Gretia la region
+Echel ten Gretia la region
 E·ls porz de mar en aveyron.
 Fils fud Amint', al rey baron
 Qui al rey Xersen ab tal tenzon.
  
 VI
 Et prist moylier dun vos say dir
-40Pot sub cel genzor jausir,
+Pot sub cel genzor jausir,
 Sor Alexandre, al rey d'Epir
 Qui hanc no degnet d'estor fugirer
 Ne ad enperadur servir:
 Olimpias, donna gentil, 
-45Dun Alexandre genuit.
+Dun Alexandre genuit.
  
 VII
 Reys Alexander quant fud naz
 Per granz ensignes fud mostraz.
 Crollet la terra de toz laz,
 Toneyres fud et tempestaz,
-50Lo sol perdet sas claritaz,
+Lo sol perdet sas claritaz,
 Per pauc no fud toz obscuraz,
 Janget lo cels sas qualitaz,
 Que reys est forz en terra naz.
  
 VIII
 En tal forma fud naz lo reys
-55Non i fud naz emfes anceys.
+Non i fud naz emfes anceys.
 Mays ab virtud de dies treys 
 Que altre emfes de quatro meys.
 Si·l toca res chi micha peys,
@@ -129,47 +129,47 @@ Tot cresp cum coma de leon;
 L'un uyl ab glauc cum de dracon
 Et l'altre neyr cum de falcon.
 De la figura en aviron
-65Beyn resemplet fil de baron.
+Beyn resemplet fil de baron.
  
 X
 Clar ab lo vult, beyn figurad, 
 Saur lo cabeyl recercelad, 
 Plen lo collet et colorad. 
 Ample lo peyz et aformad,
-70Lo bu subtil, non trob delcad,
+Lo bu subtil, non trob delcad,
 Lo corps d'aval beyn enforcad,
 Lo poyn e·l braz avigurad, 
 Fer lo talent et apensad.
  
 XI
 Mels vay et cort de l'an primeyr
-75Que altre emfes del soyientieyr.
+Que altre emfes del soyientieyr.
 Eylay o vey franc cavalleyr, 
 Son corps presente volunteyr; 
 A fol omen ne ad escueyr 
 No deyne fayr regart semgleyr.
-80Aysi·s conten en magesteyr
+Aysi·s conten en magesteyr
 Cum trestot teyne ja l'empeyr.
  
 XII
 Magestres ab beyn affactaz, 
 De totas arz beyn enseynaz, 
 Qui·l duystrunt beyn de dignitaz 
-85Et de conseyl et de bontaz, 
+Et de conseyl et de bontaz, 
 De sapientia et d'onestaz.
 De fayr estorn et prodeltaz.
  
 XIII
 L'uns l'enseyned, beyn parv mischin.
 De grec sermon et de latin,
-90Et lettra fayr en pargamin
+Et lettra fayr en pargamin
 Et en ebrey et en ermin,
 Et fayr a seyr et a matin 
 Agayt encuntre son vicin.
  
 XIV
 Et l'altre doyst d'escud cubrir 
-95Et de ss'esspaa grant ferir 
+Et de ss'esspaa grant ferir 
 Et de sa lanci en loyn jausir 
 Et senz fayllenti altet ferir; 
 Li terz ley leyre et playt cabir 
@@ -181,6 +181,6 @@ Et rotta et leyra clar sonar
 Et en toz tons corda temprar, 
 Per se medips cant ad levar;
 Li qinz des terra misurar
-105Cum ad de cel entrob e mar.
+Cum ad de cel entrob e mar.
 . . . . . . . . . . . . . . . . . . 
 

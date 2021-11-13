@@ -99,13 +99,18 @@ class textData:
 
         return list
 #does the creation of the text files with the sources and writes the list of websites to a file.
-def initialize_files(self, list):
+def initialize_files(list):
     listOfFileLists = []
     for text in list:
         specList = text.getData()
         listOfFileLists.append(specList)
         text.writeListToFile(specList)
-
+def remove(list, category):
+    man = manipulateText()
+    subDirectory = os.getcwd() + "/" + category
+    for file in list:
+        man.remove(subDirectory + "/" + file,0)
+        man.remove(subDirectory + "/" + file, 1)
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
@@ -117,7 +122,7 @@ def main():
     #print(frenchList)
     latinList = text3.getListFromFile()
     #print(latinList);
-
+    remove(frenchList, "Old French")
     count = manipulateText()
     subDirectory = os.getcwd() + "/" + "Old French"
     count.removeNumbers(subDirectory + "/" + frenchList[16])
