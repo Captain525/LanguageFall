@@ -110,7 +110,7 @@ def remove(list, category):
     subDirectory = os.getcwd() + "/" + category
     for file in list:
         man.remove(subDirectory + "/" + file,0)
-        man.remove(subDirectory + "/" + file, 1)
+        #man.remove(subDirectory + "/" + file, 1)
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
@@ -125,7 +125,7 @@ def main():
     remove(frenchList, "Old French")
     count = manipulateText()
     subDirectory = os.getcwd() + "/" + "Old French"
-    count.removeNumbers(subDirectory + "/" + frenchList[16])
+    #count.removeNumbers(subDirectory + "/" + frenchList[16])
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
     print(count.countWords(frenchList, os.getcwd() + "/Old French"))
     print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))

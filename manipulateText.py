@@ -29,13 +29,6 @@ class manipulateText():
     # removes numbers from a file, changing the file itself.
     # used to format files pre putting them into csvs.
     def remove(self, file, choice):
-        var_function = None
-        if(choice ==0):
-            var_function = self.deleteNums()
-        elif choice == 1:
-            var_function = self. removeBrackets()
-        else:
-            print("Not a valid choice\n")
         try:
             with open(file, "r", encoding="utf-8") as f:
                 print(file)
@@ -43,15 +36,25 @@ class manipulateText():
             with open(file, "w", encoding="utf-8") as f:
                 print(len(list))
                 for i in range(0, len(list)):
-                    list[i] = var_function(list[i])
+                    list[i] = self.chooseFunction(list[i], choice)
                     f.write(list[i])
         except Exception as e:
             print(str(e))
+    #choose which helper function to call, ie, what you want to remove.
+    def chooseFunction(self, string, choice):
+        if (choice == 0):
+            var_function = self.deleteNums(string)
+        elif choice == 1:
+            var_function = self.removeBrackets(string)
+        else:
+            print("Not a valid choice\n")
+        return var_function
     # helper method to removeNumbers, it cuts out all the nums from a string and returns it.
     def deleteNums(self, string):
         result = ''.join([i for i in string if not i.isdigit()])
         return result
 
-
+    #removes the brackets from a given string.
     def removeBrackets(self, string):
         result = ''.join([ i for i in string if not (i=='[' or i==']')])
+        return result
