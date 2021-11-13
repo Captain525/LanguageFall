@@ -14,9 +14,9 @@ de SM, ainsi que les propositions de corrections des divers éditeurs ou com-
 mentateurs (sauf celles de mon édition de ), dans le livre suivant, dont je 
 ne saurais trop recommander l'emploi aux étudiants en philologie française : 
 Altfranzpsisches Uebungsbuch... heratisgegehen von W. Foerster iind E. Kos- 
-chwitz, Erster Theil {Zweite vermehrte Atiflagc), Leipzig, . [Voir 
+chwitz, Erster Theil {Zweite vermehrte Atiflagc), Leipzig, . Voir 
 aujourd'hui la quatrième édition, Leipzig,   ; on y trouvera aussi les indi- 
-cations bibliographiques nécessaires.] 
+cations bibliographiques nécessaires. 
 
 
 
@@ -245,7 +245,7 @@ Tu m'ies foïz, dolente en sui remese.
 
 Ne sai le lueu ne ne sai la contrede 
 
-O t'alge querre : tote en sui esguarede. [) 
+O t'alge querre : tote en sui esguarede. ) 
 
 Ja mais n'ier liede, chiers filz, ne n'iert tes pedre. » 
 
@@ -362,7 +362,7 @@ XLii « E neporuec mes pedrç me desidret,
 Si fait ma medre plus que feme qui vivet, 
 Avuec ma spouse que jo lour ai guerpide. 
 
-— Or ne lairai nem mete en lour baillie : [ 
+— Or ne lairai nem mete en lour baillie :  
 
 Nem conoistront : tanz jorz at que nem vidrent. » 
 
@@ -732,7 +732,7 @@ l LA VIH Dt; SAINT ALEXIS
 Lxxxix « A ! lasse, mesdre, corne oi fort aventure ! 
 Ci vei jo morte tote Iiia portedure. 
 Ma longe atente a grant duel est venude. 
-Que podrai faire, dolente, malfadude ? [ 
+Que podrai faire, dolente, malfadude ?  
 
 Çost grant merveille que li miens cuers tant duret ! 
 
@@ -1962,7 +1962,7 @@ empor , , .
 en, prèp., , ,,, ,, 
 , , , , , , 
 , , ,, ,, 
-,  [, , , , , 
+,  , , , , , 
 , , , , , , 
 ,,, , , , 
 ,, , , , , 
@@ -2614,7 +2614,7 @@ as, des, es.
 , , , . Voy. jos' 
 nés, quis. 
 
-\ts,art.f.,'], , , , $. 
+\ts,art.f.,', , , , $. 
 
 les, pron. /., . 
 
@@ -3981,7 +3981,7 @@ tolir .
 tolut . 
 ton, . a. atone, , , , 
 
-[,, , , , - 
+,, , , , - 
 ton, . a. tonique, , , . 
 tons, . //. tonique, , . 
 torbçs . 
@@ -5393,9 +5393,9 @@ de SM, ainsi que les propositions de corrections des divers éditeurs ou com-
 mentateurs (sauf celles de mon édition de ), dans le livre suivant, dont je 
 ne saurais trop recommander l'emploi aux étudiants en philologie française : 
 Altfranzpsisches Uebungsbuch... heratisgegehen von W. Foerster iind E. Kos- 
-chwitz, Erster Theil {Zweite vermehrte Atiflagc), Leipzig, . [Voir 
+chwitz, Erster Theil {Zweite vermehrte Atiflagc), Leipzig, . Voir 
 aujourd'hui la quatrième édition, Leipzig,   ; on y trouvera aussi les indi- 
-cations bibliographiques nécessaires.] 
+cations bibliographiques nécessaires. 
 
 
 
@@ -5624,7 +5624,7 @@ Tu m'ies foïz, dolente en sui remese.
 
 Ne sai le lueu ne ne sai la contrede 
 
-O t'alge querre : tote en sui esguarede. [) 
+O t'alge querre : tote en sui esguarede. ) 
 
 Ja mais n'ier liede, chiers filz, ne n'iert tes pedre. » 
 
@@ -5741,7 +5741,7 @@ XLii « E neporuec mes pedrç me desidret,
 Si fait ma medre plus que feme qui vivet, 
 Avuec ma spouse que jo lour ai guerpide. 
 
-— Or ne lairai nem mete en lour baillie : [ 
+— Or ne lairai nem mete en lour baillie :  
 
 Nem conoistront : tanz jorz at que nem vidrent. » 
 
@@ -6111,7 +6111,7 @@ l LA VIH Dt; SAINT ALEXIS
 Lxxxix « A ! lasse, mesdre, corne oi fort aventure ! 
 Ci vei jo morte tote Iiia portedure. 
 Ma longe atente a grant duel est venude. 
-Que podrai faire, dolente, malfadude ? [ 
+Que podrai faire, dolente, malfadude ?  
 
 Çost grant merveille que li miens cuers tant duret ! 
 

@@ -31,10 +31,8 @@ class manipulateText():
     def remove(self, file, choice):
         try:
             with open(file, "r", encoding="utf-8") as f:
-                print(file)
                 list = f.readlines()
             with open(file, "w", encoding="utf-8") as f:
-                print(len(list))
                 for i in range(0, len(list)):
                     list[i] = self.chooseFunction(list[i], choice)
                     f.write(list[i])
@@ -58,3 +56,7 @@ class manipulateText():
     def removeBrackets(self, string):
         result = ''.join([ i for i in string if not (i=='[' or i==']')])
         return result
+    def removeDot(self, string):
+        if string[0] == '.' and len(string)<3:
+            return " "
+        return string

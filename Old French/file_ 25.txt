@@ -1,4 +1,4 @@
-[.]  
+.  
 Devant les murs
 de Tyr, la dedens en la mer,
 Li rois de Mascedoine fist un chastel fremer.
@@ -9,7 +9,7 @@ Q'a la cité ne puissent ne venir ne aler,
 Ne barges ne galies n'i puissent ariver.
 Li rois i commanda de sa gent a entrer,
 Armes et garnisons i fait assés porter.
-Souvent de jor en autre lor fait assaut livrer  []
+Souvent de jor en autre lor fait assaut livrer  
 Et cil se deffendirent a traire et a geter,
 Que la cité ne veulent ne rendre ne livrer.
 Alixandre i anuie forment a sejorner,
@@ -27,10 +27,10 @@ Qui bien set le païs et les destrois passer.
 Li rois retint Cliçon o lui et Tholomer;
 Et cil issent de l'ost si font lor gent monter.
                                
-[.]  
+.  
 Mult
 fu fiers...asses orent comment.
-[.]  
+.  
 Li Grieu issent
 de l'ost por querre la vitaille,
 Et Sanses les conduit el val de Josafaille,
@@ -44,7 +44,7 @@ En sera il perciés mains pis et mainte entraille,
 Et de maint blanc hauberc desrompue la maille.
 Trop vont a eschari, ne cuit que preu lor vaille;
 Ançois qu'il s'en retornent, le comperront sans faille.
-[.]  
+.  
 Le jor vont bien
 li Grieu en guise de forriers,
 Chauces de fer chaucies, et font as escuiers 
@@ -61,7 +61,7 @@ Li Grieu sont descendu les un brueil d'oliviers.
 Chascuns de soi armer ne fu mie laniers;
 Emenidus d'Arcage est montés tous premiers
 Et est alés avant a tout cent chevaliers.
-[.]  
+.  
 El val de Josafaille
 lor font li Grieu saillie
 Et acuellent la proie, une si grant partie
@@ -77,7 +77,7 @@ S'or ne se puet vengier, ne se prise une alie;
 Lors reclaime sa gent et s'ensegne rescrie,
 Et li Grieu s'espandirent par mi la praerie.
 Ja sera de deus pars commencie folie.
-[.]  
+.  
 Emenidus ot ire
 quant vit ses compaignons
 Morir por la vitaille dont li rois l'ot semons.
@@ -90,7 +90,7 @@ De deus pars s'entrevienent, baissiés les gonfanons,
 Des mors et des navrés fu sanglans li sablons.
 Tant forment s'entrefierent n'ont cure de prisons,
 As espees d'acier paient lor raençons.
-[.]  
+.  
 El val de Josafaille
 vont li Grieu proie prendre,
 Mais cil ont bon talent qui lor veulent deffendre,
@@ -100,7 +100,7 @@ Et fiert Lucianor que l'escu li fait fendre, 
 Le plus hardi des lor et si estoit li mendre,
 Niés fu Oteserie, el champ le fist estendre,
 Si l'a a mort feru l'ame li estuet rendre.
-[.]  
+.  
 Molt ont bien
 li Grigois la mellee tenue,
 Cel jor i ot doné maint caup d'espee nue.
@@ -124,7 +124,7 @@ Par mi une montaigne s'en fuit toute esperdue.
 Et li Grieu de la proie i ont tant retenue
 Dont l'ost peüst bien estre un lonc tans repeüe,
 Mais avant que il l'aient lor sera chier vendue.
-[.]  
+.  
 Li Grieu s'en
 retornerent vers l'ost molt lïement,
 Mais ançois qu'il soit nuis seront mat et dolent,
@@ -155,7 +155,7 @@ Hui vausist li gaains cent mile mars d'argent."
 Li Grieu sont descendu tost et isnelement,
 De lor cors atorner ne furent mie lent,
 Et montent es chevaus, qui ot escu sel prent.
-[.]  
+.  
 Emenidus esgarde
 vers les puis d'Anemonde
 Et voit la gent de Gadres dont tos li vaus soronde;
@@ -178,7 +178,7 @@ Et ne laisse por qant que son sens ne responde:
 Ains parra mes escus estre targe reonde,
 Et avrai detrenchie du cors la maistre esponde,
 Q'ançois isse du champ que des lor nen i tonde."
-[.]  
+.  
 Emenidus a dit:
 "Car i alés, Filote,
 Et dites Alixandre que toute terre est mote
@@ -200,7 +200,7 @@ Se lors vois en message ne diront: 'Cis asote,'
 Ne ne m'en blasmera li rois ne Aristote.
 Or soions tuit seür comme chastel seur mote;
 Honis soit li preudom qui por un jor radote."
-[.]  
+.  
 Emenidus esgarde
 vers les puis de Nimoie
 Et voit la gent de Gadres dont li païs ondoie,
@@ -222,7 +222,7 @@ Li rois les m'a chargiés et sans aus m'en iroie;
 Dont porroit on bien dire que traïtres seroie.
 Mieus veul avoir percié d'une lance le foie
 Que ja aie tesmoingne que vis recreans soie."
-[.]  
+.  
 Emenidus apele
 le hardi Perdicas:
 "Car nous fai cest message, biaus amis, car i vas."
@@ -236,7 +236,7 @@ Se je venoie au roi armes saines et dras
 Et vos laissoie mors el val de Josaphas,
 Molt avroie bien fait le service Judas;
 Li rois seroit malvais se demain n'estoie ars."
-[.]  
+.  
 Emenidus a dit:
 "Car i alés, Caulus,
 Uns des douze pers estes, tant vos crera on plus,
@@ -248,7 +248,7 @@ Et cil li respondi: "Cest afaire refus.
 Par la foi que vos doi, biau sire Emenidus,
 Qant de cest champ istrai, nen i remanra nus
 Se ne sui mors ou pris ou tornés au dejus."
-[.]  
+.  
 Emenidus a dit:
 "Alés i, Aristé.
 Ja a il tant en vos vasselage et bonté-
@@ -273,7 +273,7 @@ Ne dira pas li rois, Dans Clins et Tholomé
 Que m'en voient parti comme couart prové.
 Je n'en prendroie mie tout paradis en gré
 Por ce que je n'eüsse en cest besoing esté."
-[.]  
+.  
 Qant voit Emenidus
 por noient se travaille,
 Que por lui ne feront vaillant une maaille,
@@ -291,7 +291,7 @@ Mieus veul estre aveuc vous en iceste bataille.
 Certes plus le desir, ce sachiés vos sans faille,
 Q'estre sires de Rome ne rois de Cornouaille.
 Je remanrai o vous, querés autre qui aille." 
-[.]  
+.  
 Emenidus d'Arcage
 Antigonon apele:
 "Vos irés el message sor Bauçant de Castele,
@@ -308,7 +308,7 @@ Et sor l'arçon devant me gerra ma boiele,
 Lors m'en irai au roi a Tyr sor la gravele;
 Adonc crera il bien que voire iert la novele.
 Dehais ait, s'ains i vois, qui honi ne m'apele."
-[.]  
+.  
 Emenidus d'Arcage
 en apele Sanson:
 "Car i alés, fait il, gentieus fieus a baron,
@@ -335,10 +335,10 @@ Ja guerpissiés la proie, nos la vos chalengom.
 De vos cors ne prendroie nisune raençon,
 Trestuit perdrés les testes sans autre devison."
                                
-[.]  
+.  
 Or
 voit Emenidus...ne me remue."
-[.]  
+.  
 Qant voit Emenidus,
 qui tant fait a loër,
 Q'en nul de ciaus ne puet nul bon conseil trover,
@@ -386,7 +386,7 @@ Or sachiés bien de voir, et ce vos puis jurer,
 Qant partirai du champ n'i vauriés demorer."
 Emenidus respont: "Dieus te laist bien ouvrer!
 Par bon cuer i remains, je ne t'en puis blasmer."
-[.]  
+.  
 Emenidus d'Arcage
 apela Festion.
 Cil iert bien d'Alixandre, du mieus de sa maison,
@@ -436,7 +436,7 @@ As premerains s'en fuit qui trop doute prison,
 Qui muert por son segnor o Dieu a sa maison.
 Les amis Alixandre encor hui conoistrom;
 Se nus l'aime de cuer, au ferir le verrom."
-[.]  
+.  
 Emenidus resgarde
 desous un olivier,
 Descendu vit a terre un povre saudoier.
@@ -486,7 +486,7 @@ Mais d'une autre parole me vaurai afichier,
 Que ja Dieus ne garisse le mien cors d'encombrier
 Se de l'estor partir me veés hui premier;
 Molt avrai grant ensoine se je premiers n'i fier."
-[.]  
+.  
 Emenidus regarde
 par mi le champ a destre
 Et vit un chevalier qui mieudres ne puet estre,
@@ -502,7 +502,7 @@ Se en cest mien escu ne voi ains tel fenestre
 Que bien savra li rois que autre ne puet estre
 Et li champs dont je part n'iert pas jeus de palestre
 Ne li chevaus sous moi n'a trop alé en destre."
-[.]  
+.  
 Emenidus d'Arcage
 vit le duc aatir
 De grant meslee rendre et de l'estor souffrir,
@@ -538,7 +538,7 @@ Sans bien voires ensegnes ne veul le champ guerpir,
 Ne m'en devra nus hom gaber au departir
 Ne li rois trop blasmer se a lui puis venir."
 De deus pars s'entrevienent apresté de ferir.
-[.]  
+.  
 Molt furent peu
 li Grieu, mais bien se conforterent.
 Tuit descendent a pié, communalment s'armerent;
@@ -558,7 +558,7 @@ Dont en icel besoing plus se desconforterent.
 Alixandre le jor maintes fois regreterent;
 Por qant tant i esturent que chier le compererent,
 Car il par sont si poi q'a paines entr'aus perent.
-[.]  
+.  
 A l'assambler
 des Grieus josta premiers Sansons,
 Desirrans de sa terre dont li fu fais li dons.
@@ -575,7 +575,7 @@ Dont ja par vostre bouche jugement n'en orrons;
 Hui savra Alixandres que de riens ne l'amons
 Et li sires de Tyr que de vous le vengons.
 Ne tenrés en sa terre fremetés ne dongons."
-[.]  
+.  
 La fu molt grans
 li dels ou Sanses fu chaois
 Et jut mors a la terre sor son escu tous frois;
@@ -595,7 +595,7 @@ L'eschine li trencha o l'acier qui fu frois.
 De la mort de Sanson fu iluec pris li drois,
 Et li Grieu s'entralïent et plevissent lor fois
 Que l'uns ne faudra l'autre tant soit de mort destrois. 
-[.]  
+.  
 Salatons fu armés
 sor Liart blancherale,
 Un fort destrier isnel qui fu nes de Valfale,
@@ -613,7 +613,7 @@ Estes vos une eschiele de gent noire et de pale,
 Ars portent et saietes, molt par est laide et sale;
 Toute jor en estor de ferir communale,
 A la gent Alixandre fu molt crüeuse et male.
-[.]  
+.  
 Ciaus apeloient
 Turs qui portent les roieles,
 Les ars et les saietes qui tant ierent isneles.
@@ -627,7 +627,7 @@ Vers les Turs esperonent par mi unes combeles,
 As espees lor trenchent les pis et les mameles.
 Emenidus escrie: "Ferés, baron, chaeles!
 Se Dieu plaist, encor hui orrons bones noveles."
-[.]  
+.  
 Corneüs sist
 el bai q'a Cesaire ot conquis,
 Des esperons le hurte, es grans galos s'est mis;
@@ -639,7 +639,7 @@ Mort l'abat des arçons ou li ors iert assis.
 Molt li a bien mostré qu'il n'iert pas ses amis;
 Cil ne s'en pot gaber se Sanses est ocis,
 Tel le plouront ancui qui ançois orent ris.
-[.]  
+.  
 Antigonus de Gresce
 vint par l'estor poingnant,
 Lance droite sor fautre et l'escu trait avant,
@@ -663,7 +663,7 @@ Sa lance li peçoie mais nel laist pas a tant,
 Met la main au costé si en a trait le branc
 Et guenchist vers les autres en la presse plus grant;
 Il nel tenront hui mais du ferir por enfant.
-[.]  
+.  
 Androines sist
 armés et galope sor frain,
 Lance roisde levee et l'enarme en la main.
@@ -690,7 +690,7 @@ Le clavain li fausa, qui iert du tans Elain,
 Et li trencha le cuer o l'acier corroçain.
 Tant com hanste li dure l'abat mort el terain,
 Le cors en laist sanglent et sans arme tot vain.
-[.]  
+.  
 Festions sist
 armés sor un amoravi,
 Ainc hom ne vit mellor gascon ne arrabi; 
@@ -708,7 +708,7 @@ El cors li met l'espié a tout le fer burni,
 Si que dedens le pis la hante li croissi.
 Tant roisdement l'enpaint q'a terre l'abati;
 Cil est mors a dolor et maint autre autresi.
-[.]  
+.  
 Aristés
 vint poingnant par mi l'estor plenier,
 Hante roisde sor fautre a loi de bon guerrier;
@@ -745,7 +745,7 @@ Li caup de vostre espee nos font tous rehaitier,
 Car aprés vostre main n'a nus entrais mestier. 
 Honis soit cui il poise se li rois vos a chier,
 Car nus mieudres de vos ne puet lance baillier."
-[.]  
+.  
 Emenidus d'Arcage
 vit la gent honoree
 Por l'amor Alixandre de mort abandonee,
@@ -795,7 +795,7 @@ L'ensegne qu'il escrie les la bruelle ramee, 
 Que li Grigois avoient d'une part acostee,
 Lor a tel hardement et seürté donee
 Tuit recuevrent ensamble, n'i ot regne tiree.
-[.]  
+.  
 La ou li Grieu
 recuevrent fu li chaples molt grans,
 Et selonc le meschief li afaires pesans,
@@ -806,7 +806,7 @@ Car uns ne se fuiroit por un mui de besans;
 Il cuideroit bien estre plus vieus que recreans.
 Mais molt se vendent chier as Mors et as Persans,
 Qu'il nes tenront hui mais de ferir por enfans.
-[.]  
+.  
 Grieu se vendent
 molt chier, qu'il n'i truevent manaie
 Envers la pute gent qui de pres les ensaie.
@@ -818,7 +818,7 @@ Li solaus s'esbaudist qui en lor armes raie,
 Tel hardement lor done tous li cuers lor esgaie.
 La baniere Alixandre contre le vent balaie;
 Or dïent q'as espees querent acorde et paie.
-[.]  
+.  
 La maisnie le
 roi fu molt affebloïe,
 Por l'estor maintenir malmise et enpirie;
@@ -864,7 +864,7 @@ Ne fust Emenidus, qui proëce n'oublie,
 Qui deerrains se mist o la lance burnie.
 Cel tant qu'il ot de gent aveuc lui se ralie,
 Grant hardement lor done quant Mascedoine crie.
-[.]  
+.  
 Devant ses compaignons
 vint armés Salatins
 Baus des Grieus desconfire, tous les tint a frarins;
@@ -888,7 +888,7 @@ Dont le jor fu perciés mains peliçons hermins,
 Et maint bon chevalier aprochié de lor fins.
 Des mors et des navrés fu jonchiés li chemins,
 La meslee commence les le bruel de sapins. 
-[.]  
+.  
 Par le champ esperone
 li povres desarmés,
 Niés fu Emenidun et de sa seror nes.
@@ -954,7 +954,7 @@ Li estors est molt fiers, tost serions sevrés."
 "Sire, dist li vallés, ains sera comparés,
 Li brans de ceste espee tains et ensanglentés
 Que ja parte de vos s'a mort ne sui navrés."
-[.]  
+.  
 Licanors et Filotes
 vont irié par l'estor,
 Et sont andui li frere armé d'une color.
@@ -984,7 +984,7 @@ Qui vers la gent de Gresse n'orent onques amor;
 Contre terre le fierent par mi son elme a flor.
 Cil crie Mascedoine, que l'entendent pluisor,
 Ja i porra bien perdre s'il n'a secors des lor.
-[.]  
+.  
 Li Grieu oient
 l'ensegne Alixandre crïer,
 Por Filote rescourre courent i quatre per,
@@ -1001,7 +1001,7 @@ Ireement guenchissent si vont a aus joster,
 Ja convenra as febles les plus fors comparer.
 Nel porront li Grigois longement endurer,
 Ou aus convient morir ou du besoing torner.
-[.]  
+.  
 Pour Filote rescourre
 sont li Greu assamblé,
 La ot as brans d'acier maint pesant caup doné.
@@ -1041,7 +1041,7 @@ Que s'il savoient ore de son mal la purté,
 N'i avroit puis samblant de bien faire mostré; 
 Lor termine atendroient du tout desconforté,
 Car s'il seus lor defaut malement ont erré.
-[.]  
+.  
 Cil de Gadres
 n'ont mie conneüe l'ovraigne,
 Si com Emenidus d'Arcage la sovraigne
@@ -1072,7 +1072,7 @@ Tels rais li saut du nes qui son visage baigne.
 Or li avra mestier mires qui plaie estraigne,
 Car cil l'a encontré qui maint orguel mehaigne;
 Des or mais est bien drois que ses orgeus remaigne.
-[.]  
+.  
 Por rescorre Betys
 i sont ses gens venues,
 Trois eschieles qui sont du tertre descendues;
@@ -1094,7 +1094,7 @@ La retint le cheval dont paines ot eües;
 Se les resnes ansdeus li avoit Dieus rendues,
 As Gadrains reseroient dures paines creües.
 Por rescourre Betys sont les gens assamblees,
-[.]  
+.  
 Trois eschieles
 qui furent des tertres devalees.
 A cheval le ront mis, ses armes recouvrees,
@@ -1128,7 +1128,7 @@ Car lor mellors batailles avons tels conreees
 Toutes sont derrompues, n'ierent mais assamblees.
 Gardés hui vos honors, franches gens honorees,
 Hui mais verrés mes caus et mes pointes doblees."
-[.]  
+.  
 Qant voit li dus
 Betys des Grieus la contenance,
 C'onques si poi de gent n'orent si grant poissance,
@@ -1153,7 +1153,7 @@ Dont li rois avra ire et dolor et pesance.
 Cil de Gadres les outrent, or ont li Grieu errance;
 La bataille grigoise a cest poindre balance,
 Il n'i a si hardi qui n'ait de mort doutance.
-[.]  
+.  
 Cel jor fu li
 besoins fierement commenciés.
 Molt i ot de Grigois malmis et enpiriés;
@@ -1194,7 +1194,7 @@ Au devaler d'un tertre s'est en un val plungiés,
 Li chevaus desous lui a bien rompu ses giés.
 Tresq'au tref Alixandre n'iert mais ses frains sachiés;
 Ja dira tel parole dont li rois iert iriés.
-[.]  
+.  
 Tholomés
 et li rois et Dans Clins sont venu
 D'un assaut mervelleus q'a Tyr orent eü,
@@ -1229,7 +1229,7 @@ El val de Josafaille delés un bos fuellu.
 Ançois que cil de Gadres soient aperceü,
 Lor sourdent li Grigois, qui molt sont irascu;
 Tels a son escu sain qui ja l'avra fendu.
-[.]  
+.  
 Qant li Grigois
 conurent Alixandre d'Alier
 Et le secors des lor qui leur venoit aidier,
@@ -1252,7 +1252,7 @@ Gardés q'a cest estor soions et fort et fier
 Et maintenons le chaple as espees d'acier,
 C'onques mais ne trovames tel gent a acointier.
 Mieus vaut amis en voie que argent ne or mier."
-[.]  
+.  
 Qant Alixandres
 vint, grant mestiers en iert lors;
 Emenidus d'Arcage estoit navrés el cors
@@ -1263,7 +1263,7 @@ N'issoient mais du pas bruns ne bauçans ne sors.
 S'auques tardast li rois, ja preïssent tel mors
 Que de lor set cens homes n'en fuissent dis estors.
 Lors josterent li Grieu as Gadrains et as Mors.
-[.]  
+.  
 Iluec ou li Grigois
 sont as Gadrains josté
 Veïssiés un estor molt felon et douté;
@@ -1294,7 +1294,7 @@ La veïssiés des brans maint ruiste cop donné;
 Au chaple des espees sont li Grigois outré,
 Cil de Gadres s'esmaient et sont tuit reüsé;
 Li dus vit le meschief si a son frain tiré.
-[.]  
+.  
 Gadiffer de Larris,
 ou croissent li paumier,
 Qui la terre d'entour a toute a justicier,
@@ -1336,7 +1336,7 @@ En piece ne peüst par seul lui redrecier.
 Et des autres refist tels trois deschevalchier
 Dont li pires est preus por ses armes baillier;
 Ja mais ne vauront gaires por lor segnor aidier. 
-[.]  
+.  
 Pirrus voit Gadifer
 qui se melle as Grigois,
 Qui a molt cest afaire entrepris sans gabois;
@@ -1356,7 +1356,7 @@ Ains quidissiés qu'il fust uns natureus François.
 Emenidus s'en rist et dist un mot cortois:
 "Cil li a tost apris de ses gieus alenois,
 A mellor chevalier ne josta il des mois."
-[.]  
+.  
 Del conte Sabilor,
 qui ert mors a dolor,
 Sont li Grigois dolent et demainent tel plor
@@ -1386,7 +1386,7 @@ Se Emenidus puet de lui avoir laissor,
 Il en avra merite comme de tel labor;
 Ja savront li Gadrain a cest premerain tour
 S'entre lui et l'enfant avoit bien grant amor. 
-[.]  
+.  
 Emenidus d'Arcage
 vit son neveu morir,
 De cui avancement iert en molt grant desir
@@ -1424,7 +1424,7 @@ Q'il n'en face le sanc de molt parfont issir
 Ou la teste voler ou le cervel boulir.
 Ne n'osent envers lui autrement escremir
 Ne mais par eschiever et de ses caus fuïr.
-[.]  
+.  
 Li dus Betys de
 Gadres ne se vaut pas refraindre
 De la gent Alixandre damagier et contraindre;
@@ -1445,7 +1445,7 @@ Ou il ot deus lions fait novelement paindre;
 El cors li a baignié son espié a l'enpaindre,
 Si que du penon fait le blanc en vermeil taindre.
 Cist gieus ne puet hui mais sans grant perte remaindre.
-[.]  
+.  
 Dolens s'en vait
 li dus, coreçous et iriés,
 Car onques mais ne fu de nul besoing chaciés,
@@ -1516,7 +1516,7 @@ Gadiffer de Larris, ne sai sel connoissiés.
 Par vos nen iert hui mais mes fuïrs reprochiés,
 Vers Gadres m'en irai delivres, ce sachiés,
 Se par mellor de vos ne sui deschevalchiés."
-[.]  
+.  
 Or s'en vait Gadiffers,
 qui les Gadrains en maine,
 Por son lige segnor est entrés en grant paine,
@@ -1546,7 +1546,7 @@ Qui n'out lasche le cuer ne la pensee vaine,
 La trestorne souvent ou force les en maine,
 Cui il encontre bien de son orguel le saine,
 Tous les plus desreés de l'enchaucier afraine.
-[.]  
+.  
 Bien s'en alast
 sans perte Gadifer, ce cuidons,
 A ce qu'il estoit preus et ses chevaus si bons,
@@ -1575,7 +1575,7 @@ C'onques teus chevaliers ne gousta de poisons;
 Il trenche par mi fer, os et ners et braons.
 Bien en doit li rois faire segnor de ses maisons,
 Que par lui seul est ce que nos le champ vuidons."
-[.]  
+.  
 Ne porent li Gadrain
 plus l'estor maintenir,
 Ou il veullent ou non, la lor estuet guerpir.
@@ -1599,7 +1599,7 @@ Il covient l'un de nos envers l'autre escremir;
 Mieus veul metre mon cors du tout au covenir
 Que faire por paor dont me doive honnir;
 Plus criem et redout honte que je ne fais morir."
-[.]  
+.  
 Gadifer fu molt
 preus, d'un arrabi lignage,
 En berrie iert norris et cil de son parage;
@@ -1618,7 +1618,7 @@ Molt sont pres de joster, qui que tourt a damage.
 Ja n'en seront doné ne pleges ne ostage,
 Ne fiance rompue ne deguerpi homage,
 Ains cuit bien q'au partir laira li uns le gage.
-[.]  
+.  
 Fier furent li
 vassal et de grant estoutie,
 Prouece et maltalens et fiertés et envie
@@ -1662,7 +1662,7 @@ Et li rois fu venus, qui l'uevre ot esjoïe,
 Rist soi de la parole que il a bien oïe,
 Puis a dit: "Molt est voirs que frans cuers s'umelie,
 Molt sai bien de felon que il nel desist mie."
-[.]  
+.  
 Cil ot feru grant
 caup qui doné en ot maint.
 Ou est nus hom tant fiers qui refuser nel daint?
@@ -1688,7 +1688,7 @@ D'une bende de porpre par mi le cors le çaint.
 Molt li poise du roi qui si dolens se plaint,
 Ne veut qu'il se gramisse ne s'ire li engraint,
 A tous le fait entendre bien est fis qu'il le saint.
-[.]  
+.  
 Sor une coute
 pointe de paile d'auqueton,
 Forree espessement et plaine de coton,
@@ -1712,7 +1712,7 @@ Lors se firent logier li Grieu par contençon,
 Assés en poi de terme fichierent maint paisson;
 Qui n'ot tente ne tref de rains fist sa maison.
 Icele nuit passerent a poi de livraison.
-[.]  
+.  
 Cel soir jurent
 li Grieu el val a la froidor.
 Lié furent, qant la nuit virent mellee au jor,
@@ -1730,7 +1730,7 @@ Droit vers Gadres s'en vont li noble poingneor,
 N'avra mie Betys, ce m'est vis, lonc segor.
 Et li rois devant aus fait drecier l'oriflor,
 Tuit li Grieu qui l'esgardent chevalchent sans peor. 
-[.]  
+.  
 Li rois porsieut
 le duc, qui de sejor n'a cure,
 Droit vers Gadres s'en vet la pleniere ambleüre,
@@ -1754,7 +1754,7 @@ Par entrait l'a gari de raancle et d'ardure,
 Armes porra porter s'on lor fait desmesure,
 Vin boivre, char mengier quant qu'il vaut a mesure,
 Car bien le garira de trestote enfleüre.
-[.]  
+.  
 Aprés eure
 de tierce, un poi devant midi,
 Ot li rois tant erré et chevauchié ensi
@@ -1772,7 +1772,7 @@ Et Betys maneciés et lor autre enemi.
 De tel chose se sont par lor gas aati
 Qui tornera a certes ains le vespre acompli;
 Se Dieus ne lor aïe, mort sont et escharni.
-[.]  
+.  
 Quant
 voit li dus Betys Alixandre et s'ensaigne,
 Qui si est orgelleus et sa gent si grifaigne
@@ -1791,7 +1791,7 @@ Et commande a sa gent que s'alit et estraigne.
 Tels vait entr'aus joster qui en son sanc se
 baigne;
 Molt se set bien garder qui ne muert ou mehaigne.
-[.b]  
+.b  
 El chief de la
 montaigne josterent li Gadrain.
 Li tertre furent haut et li val sont soutain,
@@ -1819,7 +1819,7 @@ Li rois de Mascedoine le prist par le chaufrain,
 Aprés le commanda Masidor et Galain,
 A deus barons de Gresse qui sont cousin germain,
 Et cil li offre ostages de mil mars au demain.
-[.]  
+.  
 A molt grant seürtance
 torna li dus Betys
 Qant en tel fremeté se sont entré et mis
@@ -1841,7 +1841,7 @@ Et hurterent a terre toutes les flors de lis;
 Puis l'en mena o lui en maint lointaing païs,
 Li rois de Mascedoine l'ot le jor, ce m'est vis,
 Qant il fist la bataille ou Porrus fu ocis.
-[.]  
+.  
 Molt ot li dus
 grant ire et li plais fu molt maus
 De Nassal qui fu pris, uns siens amis charnaus.
@@ -1861,7 +1861,7 @@ Li oel lor estincelent si rompent lor frontaus,
 Frains, estriers ne enarmes n'i vaut un denier faus,
 Les arçons ont brisiés et rompent les poitraus,
 Sor les crupes s'enversent ambedui des chevaus.
-[.]  
+.  
 Molt se furent
 malmis li vassal au joster,
 Onques nus n'oïplus deus homes estoner;
@@ -1889,7 +1889,7 @@ Tant poing et tante teste a chevalier voler
 Se li dus ot paor ne fait mie a blasmer.
 Tres bien cuida li dus que il deüst finer,
 Car de si grant estor n'oïmais nus parler.
-[.]  
+.  
 Molt fu grans
 la bataille par les plains d'Orïus
 Et l'estors perilleus ou li dus fu cheüs.
@@ -1899,7 +1899,7 @@ Desor lui fu li chaples as espees tenus,
 Li branc d'acier tentissent sor les hiaumes agus.
 Guimadochés d'Aufrique lor a dit tels salus:
 "Or penst chascuns de soi, car l'estors est vaincus."
-[.]  
+.  
 Le duc Betys remontent
 si home natural,
 Mais ançois i ot fait as espees maint mal.
@@ -1911,7 +1911,7 @@ Les langes de l'ensegne li batent contre val,
 Molt par vint gentement la compaigne roial;
 Cil feront a court terme le duc müer estal;
 S'as espees se truevent, ja vuideront cheval.
-[.]  
+.  
 Li dus voit Alixandre
 sor le cheval armé,
 Onques n'ot en cest siecle home tant redouté;
@@ -1922,7 +1922,7 @@ S'as poins le puet baillier, malement a ouvré;
 Por trestout l'or du siecle, tant l'a cuelli en hé,
 Nel laisseroit il vivre un seul jor ajorné.
 Sa lance gete a terre s'a l'escu adossé.
-[.]  
+.  
 Molt par fu grant
 la perte, ce nos raconte Estace,
 Des mors et des navrés qui gisent en la place.
@@ -1946,7 +1946,7 @@ Assés en petit d'eure fu si frois comme glace.
 Dans Clins vint au cheval, par les resnes l'enbrace,
 Li fieus Caduit l'en maine, qui qu'en poist ne qui place,
 Puis l'ot es desers d'Ynde et el regne Candace.
-[.]  
+.  
 Li dus fu desconfis
 et sa gent ot perdue,
 Droit vers Gadres s'en fuit toute une voie herbue.
@@ -1961,7 +1961,7 @@ Ja fuissent tuit aprés par mi la maistre rue;
 Mais la vile est si fors q'a paines iert rendue,
 Ne crient assaut de gent ne perriere qui rue.
 Qui ot tente ne tref si l'a entor tendue.
-[.]  
+.  
 Li dus fu desconfis
 et sa terre gastee.
 L'ost grigoise s'i fu quatre jors sejornee.
@@ -1997,7 +1997,7 @@ Et traient les quarriaus de cele tour muree
 D'a val devers le pié si comme ele est fondee."
 Si com li dus lor a la parole contee
 Li fu bien par ses homes otroïe et graee.
-[.]  
+.  
 A l'aube aparissant,
 quant il dut esclairier,
 Li dus Balés commande  ses perrieres drecier,
@@ -2028,7 +2028,7 @@ Sous ciel n'a home en terre quil poïst respitier."
 Qant li Grieu entendirent cest mortel encombrier,
 Lors sont cuelli li tref et charchié li somier,
 Tout droitement a Tyr pensent de repairier.
-[.]  
+.  
 Li rois de Mascedoine
 en est venus a Tyr,
 Son chastel vit fondu et en la mer gesir,
@@ -2043,7 +2043,7 @@ Se je puis le duc prendre et a mes mains tenir,
 Se nel fais pendre en haut ou en un fu rostir.
 Or ferai la cité en tous sens si ordir
 Que par mer ne par terre n'en porra nus issir."
-[.]  
+.  
 Molt a li rois
 grant duel de sa gent qu'est perie,
 A lui en apela Licanor et Elie:
@@ -2061,7 +2061,7 @@ Q'il li a de tous sens sa cité si hordie
 Que par mer ne par terre de l'issue n'a mie.
 Molt i a de sa gent ou il preu ne se fie,
 Ne mais de nule part n'atent secours n'aïe.
-[.]  
+.  
 Icel jor sejornerent
 les compaignes le roi,
 Tresq'au matin a l'aube reposent et sont coi. 
@@ -2086,7 +2086,7 @@ Nous assaudrons ensamble belement sans desroi
 Et toutes nos perrieres geteront de ravoi
 Et metrons ciaus dedens en si pesant effroi
 Que d'aus et de la vile abatrons le bufoi."
-[.]  
+.  
 Au matin par son
 l'aube, quant li jors lor esclaire,
 Li rois fist ses engiens et ses perrieres faire,
@@ -2106,7 +2106,7 @@ Li dus vit Alixandre el berfroi ou il ere,
 Molt le het en son cuer, car en champ l'ot fait taire.
 Ançois qu'il en descende li fera tel contraire,
 Se il puet esploitier, ne verra son repaire.
-[.]  
+.  
 Li dus vit Alixandre,
 bien l'a reconneü,
 Tout seul le vit monter seur le berfroi tendu;
@@ -2164,7 +2164,7 @@ Bastres et Oriant tresq'a Occeanu.
 Ilueques veïssiés un estor maintenu;
 Cil qui sont pris a force sont destruit et pendu,
 Et cil orent merci qui sain se sont rendu. 
-[.]  
+.  
 Li rois prist
 la cité par itel vasselage
 Que du berfroi el mur sailli par itel rage
@@ -2181,7 +2181,7 @@ Tout droitement vers Gadres acuelli son voiage.
 Or sache bien Betys n'i metra autre gage,
 Se li rois le puet prendre ne lui ne son barnage,
 Que la teste au partir li laira en ostage.
-[.]  
+.  
 Qant li rois mut
 de Tyr, bele compaigne en maine
 Et trespasse Sulie, une terre soutaine.
@@ -2197,7 +2197,7 @@ Sire en serai clamés ains que past la semaine,
 Ou j'abatrai les murs de mortier et d'araine."
 Cil respont tel parole qui ne fu pas vilaine:
 "Molt me seroit plus bel se la rendoient saine."
-[.]  
+.  
 Alixandres asist
 la cité environ,
 Es plains desous la vile tendi son pavellon
@@ -2228,7 +2228,7 @@ Et se il nos assaut, et nos nos deffendrons.
 Se ainsi nos demaine, dont somes nos bricon."
 Li mes s'en sont torné qant ont dit lor raison,
 Tresq'au tref Alixandre n'i ot arestison.
-[.]  
+.  
 En la tente Alixandre
 s'en sont li mes entré
 Et content tout l'afaire si com il ont mandé:
@@ -2260,7 +2260,7 @@ Qu'il iront a sa tente faire sa volenté,
 Et si li porteront les cles de la cité.
 Et respont Alixandres: "Ce me vient molt a gré;
 Mieus la veul avoir saine que il soient gasté." 
-[.]  
+.  
 Li rois vit la
 cité qui envers lui se plie,
 Et q'ençois la rendront qu'ele soit agastie.
@@ -2291,7 +2291,7 @@ Tien, je te doins Araine et la terre en baillie;
 Ja n'en perdras plain pié en trestote ma vie."
 "Va avant, chevalier, dist Dans Clins, sel mercie."
 Et cil li respondi: "Par foi, je n'en quier mie."
-[.]  
+.  
 "Chevaliers,
 dist li rois, vien avant si avras
 Ceste bone cité et de moi la tenras
@@ -2311,7 +2311,7 @@ Ja malvais hom n'iert riches, qui li donroit Baudas."
 La cité fist garnir et mist ens satrapas.
 Au prisonier commande a doner cinq cent mars;
 Ce fu li menres dons au roi macedonas. 
-[.]  
+.  
 Qant cil orent
 la vile Alixandre rendue,
 Li rois la fist garnir et autres gardes mue.
@@ -2328,7 +2328,7 @@ Et porte chascuns hache ou tinel ou maçue;
 Qui uns d'aus fiert a cop mervelle est se nel tue.
 Tant chevalchent a force que la vile ont veüe,
 Qui ot tente ne tref el pré l'a estendue.
-[.]  
+.  
 Li Grieu assirent
 Gadres et devant et derriere,
 Li rois as maistres portes mist de sa gent plus fiere,
@@ -2343,7 +2343,7 @@ Et prenent la vitaille par la terre pleniere,
 De ciaus qui la deffendent i ot fait mainte biere.
 Qant il furent garni, si s'en revont arriere,
 Ja tant com il i soient n'en sera mais l'ost chiere.
-[.]  
+.  
 Li dus Betys de
 Gadres ot molt le cuer dolant
 Qant vit gaster sa terre et livrer a torment,
@@ -2371,7 +2371,7 @@ Devers la vostre porte s'en istra coiement."
 Et respont Tholomers: "Bien l'otroi et creant;
 Tous soie je honis se je ne l'i atent,
 Molt iert fors ses haubers se ma lance nel fent."
-[.]  
+.  
 Li mes se part
 de l'ost s'est a Gadres venus,
 Au duc Betys retorne, de cui il iert meüs,
@@ -2390,7 +2390,7 @@ Toute nuit s'eschargaitent tant que jors fu parus,
 Sonent cors et buisines et ces grailles menus.
 Main montent cil de Gadres et prenent lor escus,
 As tentes Tholomé fu li tornois tenus.
-[.]  
+.  
 Cil de Gadres
 s'armerent et montent par matin,
 Li dus s'en est issus par la porte Ludin,
@@ -2406,7 +2406,7 @@ Escus et haubers rompent, froissent cist fust fraisnin,
 Sor les hiaumes tentissent cil bon branc acerin.
 Li hardi desarmé furent tost a lor fin,
 De ciaus qui sont a terre veïssiés grant traïn.
-[.]  
+.  
 Cil de Gadres
 s'en issent tuit rengié et serré,
 Et li Grieu les encontrent orgelleus et armé. 
@@ -2424,7 +2424,7 @@ Au redrecier d'aus deus i ot maint caup doné.
 Et Dans Clins ses compains a Dilas encontré,
 Un prince de Persie, de Galenie né,
 Que des chevaus se sont a la terre porté.
-[.]  
+.  
 Dans Clins fu
 a la terre entre lui et Dilas.
 Li fieus Caduit se drece, mais cil ne ressort pas,
@@ -2438,7 +2438,7 @@ Ja l'eüst mort ou pris, nel tenés mie a gas,
 Qant la bataille au duc vint armee le pas.
 Cil voit sa demorance si s'est ferus el tas,
 Puis lor fist grant damage d'un parent Perdicas.
-[.]  
+.  
 La noise fu levee
 et li mort sont confus,
 Lor vint par mi le champ poingnant Antiocus,
@@ -2450,7 +2450,7 @@ Li Persans saut en piés, mais li Grieus fu ains sus
 Sel fiert par mi le chief qu'il le rabati jus;
 Ja en preïst la teste se n'i venist li dus;
 Et fu en la bataille Abilans de Lerus.
-[.]  
+.  
 Li renc sont espessié
 et la gent estormie,
 Et li Grigois s'armerent qant la noise ont oïe.
@@ -2471,7 +2471,7 @@ Et li Grieu les ferirent, qui nes espargnent mie,
 En fuiant en ont mort une molt grant partie.
 Par mi la maistre porte rest en Gadres flatie,
 Cist ne feront hui mais as Grigois envaïe.
-[.]  
+.  
 Li Grieu ont desconfit
 la pute gent boçue,
 Par mi la maistre porte est en Gadres ferue,
@@ -2496,7 +2496,7 @@ Li agus de son elme fiert en l'erbe menue;
 Dans Clins prist le cheval, qui de corre s'argüe.
 Es vous la grant bataille fors de Gadres issue,
 Et la gent Tholomé est encontre venue.
-[.]  
+.  
 Matin leva li
 rois et ot fait s'orison,
 Et entendi la noise a la porte Cliçon.
@@ -2518,7 +2518,7 @@ Toute plaine sa lance l'abat mort el sablon.
 Cil conurent le roi a l'escu au lion,
 Tuit ensamble se traient vers la porte Mabon
 Et dïent que hui mais ne feront se mal non.
-[.]  
+.  
 Cil de Gadres
 se traient vers la porte Mabin;
 A tant es vos le prince, qui sist sor Seraphin,
@@ -2535,7 +2535,7 @@ Li Grieu virent la plaie du prince palasin,
 Environ lui s'arestent li viel et li meschin;
 La ot mené grant duel et desrompu maint crin,
 Et cuident d'Alixandre que il aut a sa fin.
-[.]  
+.  
 Li Grieu sont
 en grant ire por le roi lor segnor,
 Durement se dolousent li grant et li menor,
@@ -2547,7 +2547,7 @@ Et garissent la plaie et traient la dolor;
 Ains n'en laissa ses armes a porter icel jor.
 Or sache bien li princes, s'ui mais point par 'estor,
 Se del roi s'escremist, molt savra de trestor.
-[.]  
+.  
 Cil de Gadres
 sont lié de la plaie le roi,
 Molt en mainent grant joie, mais ne sevent por coi.
@@ -2562,7 +2562,7 @@ Molt par ot riches armes et avenant conroi.
 Alixandres li vait poignant tout un chaumoi,
 La lance sor le fautre, le gonfanon d'esploi,
 Ja comperra la plaie uns de ces deus, ce croi.
-[.]  
+.  
 Li princes fu
 molt fiers, de petite persone,
 La ou voit Alixandre durement s'abandone,
@@ -2573,7 +2573,7 @@ Autresi les perça com se fust une gone,
 El cors li mist le fust et le fer d'Escalone.
 Alixandres l'enpaint, qui si grant caup li done
 Et tant forment l'abat que la terre en resonne.
-[.]  
+.  
 Pinçons
 jut a la terre en mi le champ pasmés,
 L'ame s'en est alee, assés tost est finés.
@@ -2588,7 +2588,7 @@ Tost li orent les menbres fors du cors dessevrés.
 Cil des murs l'esgarderent, de qui il est amés,
 La ot paumes batues et cheveus detirés,
 Cist plais a ciaus de Gadres durement effreés.
-[.]  
+.  
 Molt ot li dus
 grant ire de la mort de Pinçon,
 En la terre de Gadres n'avoit mellor baron;
@@ -2610,7 +2610,7 @@ Aveuc aus ens la vile, qui qu'en poist ne qui non, 
 A entré des Grigois, ce sachiés, a foison.
 La oïssiés des hiaumes et des brans tel tençon
 D'une lieue et demie en oïst on le son.
-[.]  
+.  
 Ensamble o ciaus
 de Gadres se sont li Grigois mis,
 En la vile par force ont tout le borc espris
@@ -2623,7 +2623,7 @@ Et por le grant damage qu'il li ot fait des Gris,
 Mieus veut morir a glave que devant lui aut vis.
 Molt ot li rois grant joie qant le regne ot conquis,
 Il a mises ses gardes es fremetés Betys.
-[.]  
+.  
 Qant li rois ot
 pris Gadres et saisi les deffois,
 Por la terre garder i laissa des Grigois.
@@ -2637,7 +2637,7 @@ Les chevaus et les armes et les muls espanois.
 Quatre jors sejornerent et au quint mut li rois,
 Des or sache bien Dayres et Porrus li Yndois
 Teus afaires lor sort qui n'est mie a gabois.
-[.]  
+.  
 Au quint jor mut
 li rois, il et si chevalier;
 El premier chief devant sont li gonfanonier,
@@ -2650,13 +2650,13 @@ Cel jor i ot doné maint drap de soie chier.
 L'endemain mut li rois, ne vaut plus atargier;
 Par la terre s'espandent quatre mile forrier,
 Qui ne laissent chastel ne mur a peçoier.
-[.]  
+.  
 Alixandres trespasse
 le regne de Surie,
 Droit vers Jherusalem a sa voie acuellie,
 Q'il veut la cité prendre et avoir en baillie.
 Bien tost l'eüst destruite et la terre gastie, 
-Mais la gent citoiaine envers lui s'umelie,  []
+Mais la gent citoiaine envers lui s'umelie,  
 Contre lui est venue molt gente compaignie,
 De dras religïeus fu toute revestie.
 La loi li aporterent du tans saint Jheremie;
@@ -2672,7 +2672,7 @@ Lors fu li pueples liés et forment l'en mercie,
 Grans presens li porterent, mais li rois nes prist mie.
 Outre s'en est passés et s'amor lor otrie
 Et s'autre gent les grieve il lor fera aïe.
-[.]  
+.  
 Alixandres chevalche,
 c'onques puis ne fina,
 Tresq'en la terre Dayre onques ne s'aresta,
@@ -2686,7 +2686,7 @@ Et qant Dayres l'ot dire, durement l'en pesa,
 Lors demande conseil comment le destruira.
 Un present li envoie li rois dont s'apensa,
 Par tant li est avis qu'il l'espoëntera.
-[.]  
+.  
 D'une chose fist
 Dayres que preus et que cortois,
 Qu'il prist graine novele menue de pavois,
@@ -2702,7 +2702,7 @@ En bataille nomee les troveront tous frois.
 Mais Dayres ne sot mie q'Alixandres li rois
 Mosterra tel parole as messages ançois
 Q'il tornera son conte le chief devant detrois.
-[.]  
+.  
 Li mes s'en est
 tornés qui le present en maine,
 Tant chevalche et esploite q'ains que past la quinsaine 
@@ -2723,7 +2723,7 @@ Vos conquerront en champ, vostre mors est prochaine;
 La terre dont venistes vos samblera lointaigne."
 Qant l'entent Alixandres, de respondre se paine
 Et a dit tel parole qui molt par est soutaine.
-[.]  
+.  
 Alixandres s'oï
 devant soi manecier
 Et vit le present Daire, qui gaires ne l'ot chier,
@@ -2743,7 +2743,7 @@ Se nos avons poi homes, il sont tout costumier
 D'autre gent desconfire et desrompre et chacier."
 Li rois fait apeler son maistre despensier,
 Tout plain son gant de poivre li fait apareillier.
-[.]  
+.  
 Li rois fait aporter
 tout plain son gant de poivre.
 "Oés, fait il au mes, que vos vuel amentoivre:
@@ -2755,7 +2755,7 @@ Ausi com li lyons prent et ocist l'atoivre,
 Qui est haus et creüs comme rains de genoivre,
 Vos conquerrons en champ et vostre gent atoivre;
 Qant partirés de nous, des testes serés soivre." 
-[.]  
+.  
 Qant orent li
 message lor besoigne furnie
 Et voient q'Alixandres ne s'en tornera mie,
@@ -2777,7 +2777,7 @@ Q'il semongnent le regne qui vers lui s'umelie
 Que tuit viegnent par force a Dayre a l'ost banie;
 Et ciaus qui n'i venront de s'amor les deffie,
 Car cil qui n'i venra n'i perdra que la vie.
-[.]  
+.  
 Dayres a fait
 semonre le regne d'entor soi
 Et trestoute la gent qui maintienent sa loi,
@@ -2791,7 +2791,7 @@ Ou il n'eüst cors d'ome, cheval ou palefroi
 Ou harnois d'autre guise, la n'estoient pas coi;
 Cel jor i veïssiés maint gonfanon d'esploi.
 D'aler contre Alixandre ierent tuit en effroi.
-[.]  
+.  
 Qant Dayres ot
 josté les gens de ses regniés,
 A plus de cinc cens mile les ont le jor prisiés.
@@ -2803,7 +2803,7 @@ Li Grieu saillent as armes, lors les veïssiés liés;
 Ilueques veïssiés gonfanons desploiés,
 Mais desi au matin fu l'estors respitiés
 Por sorveoir les Grieus a lor tentes logiés. 
-[.]  
+.  
 Par mi les pres
 de Paile s'est Dayres ostelés,
 Et Alixandres ot devant tendu ses tres
@@ -2821,7 +2821,7 @@ Et dist qu'avoirs n'est preus qui trop par est gardés,
 Mais beneois soit cil dont on est alosés.
 Pire est riches malvais que povres honorés,
 Bone chevalerie est molt grans richetés.
-[.]  
+.  
 Cele nuit sejornerent
 les os sans assambler,
 Car les compaignes firent ambesdeus a douter.
@@ -2845,7 +2845,7 @@ Et la terre conquise toute quite clamer.
 Par itant nos porroit en pais laissier ester."
 Et cil li respondirent: "Nel vos devons blasmer;
 Ci a bon mariage quil porroit atorner."
-[.]  
+.  
 Dayres a pris
 messages, des mellors de sa gent,
 Des barons de sa terre, atornés richement.
@@ -2860,7 +2860,7 @@ Qui a roisde le fust et le fer si trenchant
 Qui bien en iert ferus de mort n'avra garant.
 Li mes le salüerent bel et cortoisement
 De par Dayre de Perse, que on claime soudant.
-[.]  
+.  
 Devant le roi
 s'esturent li Persant en estage,
 De la part lor segnor conterent le message.
@@ -2878,7 +2878,7 @@ La moitié de son regne avras a mariage,
 Et la terre conquise t'otroie en heritage,
 Car ne veut pas que tort li païs a damage,
 S'en seront avancié tout cil de ton lignage."
-[.]  
+.  
 Li rois vit les
 mes Dayre et entent lor raisons,
 Un respit lor demande, mais ne fu mie lons,
@@ -2906,7 +2906,7 @@ Ja le vostre conseil, se Dieu plaist, ne crerons,
 Ains en iert en maint cors baigniés mes gonfanons
 Et en serai en sanc trestous tresq'as talons
 Que ja compaignon aie ne partis soit mes nons."
-[.]  
+.  
 Li rois a la raison
 des deus barons oïe
 Et entent la parole dont Perdicas li prie;
@@ -2919,12 +2919,12 @@ Ne per ne compaignon n'avrai ja en ma vie."
 Puis a dit as messages: "Ceste pais est faillie.
 Ralés vos ent et dites a Daire de Persie
 Face sa gent armer, que mes cors le deffie,
-Et la moie iert molt tost conr[e]ee et garnie.
+Et la moie iert molt tost conreee et garnie.
 Ne veul avoir sa fille o sa terre demie,
 Ou ele iert toute moie ou je ne l'avrai mie.
 Ja n'avrai compaignon, soit savoirs, soit folie,
 Ains iert, se Dieu plaist, moie du mont la segnorie."
-[.]  
+.  
 Li message de
 Perse revienent a Dayron,
 La parole Alixandre li dïent trusq'en son:
@@ -2941,7 +2941,7 @@ N'i puis amor trover ne q'aigniaus en lion.
 Par mi ceste bataille nos entrepasserom;
 Se li dieu nos aïdent, voirement la vaintrom."
 Et cil li respondirent: "Vostre plaisir ferom."
-[.]  
+.  
 Au matin qant
 il virent le soleil esclairier,
 Dayres li rois de Perse monta sor un destrier,
@@ -2973,7 +2973,7 @@ Alixandres meïsmes les oïdesrainier,
 Qui en l'ost se fu mis a guise d'escuier,
 Puis s'en revint as Grieus si coiement arrier
 C'onques cel jor nel porent conoistre n'acointier.
-[.]  
+.  
 Qant li rois vit
 Dayron ses corres deviser
 Et les chevaliers ens haubregier et armer
@@ -3000,7 +3000,7 @@ Si qu'il facent lor curres contre terre verser;
 Puis s'aïrent sor aus et pensent de chapler,
 Si que ja nus de ciaus ne puisse relever.
 "Par itant les porrons desconfire et mater." 
-[.]  
+.  
 Qant Alixandres
 ot ordené en tel guise
 Ses batailles a poindre, en aprés lor devise
@@ -3009,12 +3009,12 @@ Poindra par la bataille si com chose est enprise;
 Gart que si bien l'açaingnent que tote soit sorprise
 Et se ele puet estre detrenchie et occise,
 Puis reviegnent a l'autre qui el champ est assise,
-Et se tant pue[e]nt faire q'a la fuite soit mise,
+Et se tant pueent faire q'a la fuite soit mise,
 As espees trenchans soit fierement requise.
 Autresi com la noif est par le chaut remise
 Iert hui la force Daire par la soie conquise,
 Hui prendront li Grigois des Persans la justice.
-[.]  
+.  
 La bataille est
 jostee des Grigois et des lor.
 Ainsi com Dayres ot devisé celui jor
@@ -3031,7 +3031,7 @@ D'olifans et de curres lor ont fait tel atour
 Tout ocïent a glaive et metent a dolor.
 Cis plais torna a joie au roi mascedonor,
 Et Dayres li Persans en ot duel et iror.
-[.]  
+.  
 Qant Dayres vit
 ses curres chaoir a tel martire
 Et les chevaliers ens trebuchier et ocire,
@@ -3045,7 +3045,7 @@ As barons de sa terre les commande a conduire
 Et apele ses homes si lor commence a dire:
 "Qui or iert chevaliers de m'amor sera sire,
 Car molt ai grant paor de perdre mon enpire."
-[.]  
+.  
 Molt fu liés
 Alixandres et ses gens plus haities
 Qant il orent des curres les batailles vuidies
@@ -3063,7 +3063,7 @@ La ot molt grant meschief, mais les gens sont proisies,
 Qant a quarante eschieles se sont douze apoïes,
 Mais, s'Alixandres puet, anqui seront percies
 Et les compaignes Daire matees et brisies.
-[.]  
+.  
 En la premiere
 eschiele, Emenidus d'Arcage,
 Vint li rois tous armés, espris de vasselage.
@@ -3082,7 +3082,7 @@ Autresi les ocïent comme beste salvage.
 De la premiere eschiele lor ont fait tel damage
 Quatre cens en ont mort a dolor et a rage.
 Et qant Dayres le voit, a poi que il n'esrage.
-[.]  
+.  
 L'eschiele Tholomé
 vint aprés la premiere
 A une autre bataille Dayron grant et pleniere;
@@ -3096,7 +3096,7 @@ Et li Persant bahif comme cerf en gaschiere,
 Et li Grieu les feroient comme gent costumiere,
 Derompue l'en mainent sor les autres arriere.
 Ce fu une aventure que Dayres n'ot pas chiere.
-[.]  
+.  
 Aprés la
 Tholomé joint l'eschiele Cliçon
 A une autre bataille mervelleuse Mabon, 
@@ -3119,7 +3119,7 @@ Les eschieles de Persse n'i font se perdre non,
 Toutes desbaretees les mainent sor Dayron.
 Lors josterent les os si hurtent li dragon,
 Or n'i avra parlé mais se de ferir non.
-[.]  
+.  
 Les deus os sont
 jostees, li Persant et li Gri;
 Qant les lances baissierent, si leverent li cri.
@@ -3139,7 +3139,7 @@ As espees trenchans lor ont un gieu parti
 De qoi li desarmé se tinrent por traï.
 En la melee furent li couart estordi,
 Au deffendre lor testes i sont preu li hardi.
-[.]  
+.  
 Par mi les pres
 de Paile fu fiere la bataille;
 La ou les os s'encontrent, n'est mie devinaille,
@@ -3157,7 +3157,7 @@ Alixandres le fiert de l'espee qui taille,
 Tout le cors li fendi desi q'en la coraille;
 Et li Grieu li escrïent: "Ferés i! Dieus i vaille!
 La mort de Filardos la lor gent anoaille."
-[.]  
+.  
 Li rois s'en passa
 outre qant ot mort Filardos,
 Et fiert Silocïen, qui sire iert des Herlos,-
@@ -3170,7 +3170,7 @@ Emenidus d'Arcage ra ocis Quinargos.
 Les compaignes se mellent et fremissent les os,
 Or se gart bien chascuns q'au partir ne soit sos,
 Ne remandra sans perte et des lor et des nos.
-[.]  
+.  
 La bataille fu
 fiere, n'i ot ne ris ne gas;
 Li douze pers de Gresse ne s'aseürent pas,
@@ -3185,7 +3185,7 @@ Emenidus d'Arcage joint o Corberias;
 A terre les abatent des chevaus qui sont cras.
 La ot elmes trenchiés et maint fort escu quas;
 Sor hiaumes des espees i oïssiés grans glas.
-[.]  
+.  
 Durement se combatent
 li Grieu et li Persant.
 Alixandres estoit el premier chief devant,
@@ -3201,7 +3201,7 @@ Mort l'abati a terre, la ot un duel pesant. 
 Desor lui s'aresterent li petit et li grant;
 Karidés d'Ethyope le regrete forment,
 Ambedui ierent frere et d'un regne tenant.
-[.]  
+.  
 Karidés
 d'Ethyope a son frere esgardé
 Qu'il vit mort a la terre sor son escu bouclé,
@@ -3225,7 +3225,7 @@ A icele rescouse ot feru et josté
 Et vassal abatu et chevalier armé.
 Karidés d'Ethyope i ot le poing caupé,
 Et maint bon chevalier i furent afolé.
-[.]  
+.  
 La bataille a
 duré tant que vespres fu tart;
 Dayres vait par l'estor tous armés sor Liart,
@@ -3243,7 +3243,7 @@ A la fuie se metent vers le val de Pinart.
 La gent Dayre s'en fuit toute ensamble une part,
 Et li Grieu les enchaucent, qui ne sont pas couart,
 Autresi les abatent com vilains son essart.
-[.]  
+.  
 Dayres fu si navrés
 tous s'encline et chancele,
 Li sans vermaus li raie sor l'arçon de sa sele, 
@@ -3257,7 +3257,7 @@ A sa tente de paile les chierist et dansele,
 Gentement les honore et molt bel les apele.
 Dayres en ot tel duel qant en ot la novele
 Que ses cheveus derront et debat sa maissele.
-[.]  
+.  
 Molt fu bele aventure
 Alixandre avenue
 Qant Dayre ot desconfit et sa gent derompue,
@@ -3273,7 +3273,7 @@ S'il en i remaint nus qui ne viegne en s'aiue
 Les talons avra cuis et la plante fendue.
 Nel laissera, ce dist, par la loi q'a creüe,
 Que ne soit Alixandre ceste honte rendue.
-[.]  
+.  
 Molt fu liés
 Alixandres et ses pris est montés
 Qant il ot les Persans de bataille getés
@@ -3302,7 +3302,7 @@ Qu'il li voloient faire et des hontes assés,
 Par itant si est morte et ses cors devïés;
 Mais par tous les roiaumes dont je sui roi clamés,
 Se ne veng ceste honte, ne sui rois coronés."
-[.]  
+.  
 Dayres fu por
 sa feme coureceus et pensis.
 Estes vos un prison qui vint de l'ost des Gris,
@@ -3331,7 +3331,7 @@ Li rois la prist par force, qu'il n'i a gaires sis,
 Dedens s'en est entrés o l'eschec qu'a conquis.
 Tant ot entor la vile des mors qu'il ot ocis
 Q'a mervelleuse paine i duroit nus hom vis.
-[.]  
+.  
 Grieu et Mascedonois
 sont en la vile entré.
 Por ce q'en l'estor furent travellié et pené,
@@ -3354,7 +3354,7 @@ Faites prendre des mors a vostre volenté
 Et soient par mes homes hautement honoré."
 Puis li a cuitement rendue la cité
 Si c'onques n'en retint ne tour ne fremeté.
-[.]  
+.  
 Molt par fist
 Alixandres que frans rois de bon aire,
 Qant il ot la bataille vaincue es pres de Paile,
@@ -3365,7 +3365,7 @@ Aveuc soi l'en mena, q'en deüst il el faire?
 D'aler aprés Dayron ne tardera mais gaire,
 Ne li vaura laissier ne chastel ne repaire.
 Au quint jor est meüs si fait son ator faire.
-[.]   
+.   
 Qant li rois ot
 conquis Sulie et les cités
 Et Dayre desconfit et ses homes matés,
@@ -3392,6 +3392,6 @@ Qant li solaus torna et midis fu passés.
 A sa tente de paile est li rois retornés.
 Alixandres nos dist, qui de Bernai fu nes
 Et de Paris refu ses sornons apelés,
-Que ci a les siens vers o les Lambert jostés.   []
+Que ci a les siens vers o les Lambert jostés.   
  
  
