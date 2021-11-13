@@ -36,6 +36,7 @@ class textData:
            # for script in parse(["script", "style"]):
                 #script.extract()
             try:
+                #accidentally put a space after _.
                 filename = "file_ " + str(count) + ".txt"
                 self.listFiles.append(filename)
                 with open(newDir/filename, "x", encoding='utf-8') as file:
@@ -97,24 +98,29 @@ class textData:
             return None
 
         return list
+#does the creation of the text files with the sources and writes the list of websites to a file.
+def initialize_files(self, list):
+    listOfFileLists = []
+    for text in list:
+        specList = text.getData()
+        listOfFileLists.append(specList)
+        text.writeListToFile(specList)
+
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
     text3 = textData("Old Latin", False)
-    #fileList = text.getData()
-    #frenchList = text2.getData()
-    #latinList = text3.getData();
-    #text.writeListToFile(fileList)
-    #text2.writeListToFile(frenchList)
-    #text3.writeListToFile(latinList)4
+    list = [text,text2,text3]
     fileList = text.getListFromFile();
-    print(fileList)
+    #print(fileList)
     frenchList = text2.getListFromFile()
-    print(frenchList)
+    #print(frenchList)
     latinList = text3.getListFromFile()
-    print(latinList);
+    #print(latinList);
 
     count = manipulateText()
+    subDirectory = os.getcwd() + "/" + "Old French"
+    count.removeNumbers(subDirectory + "/" + frenchList[16])
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
     print(count.countWords(frenchList, os.getcwd() + "/Old French"))
     print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))

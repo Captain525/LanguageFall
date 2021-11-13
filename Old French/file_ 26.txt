@@ -1,5 +1,5 @@
-[3.1]Or
-entendés, segnor, que ceste estoire dist.
+[3.1]
+Or entendés, segnor, que ceste estoire dist.
 De Dayre le Persant qu'Alixandres conquist,
 De Porron le roi d'Ynde qu'il chaça et ocist
 Et de la grant vermine qu'es desers desconfist
@@ -14,8 +14,8 @@ Ainsi com Aristotes l'entroduist et aprist,
 La verté de l'estoire, si com li rois la fist,
 Uns clers de Chastiaudun, Lambers li Tors, l'escrist,
 Qui du latin la traist et en romans la mist.
-[3.2]Qant
-repaire Alixandres du deduit des faucons
+[3.2]
+Qant repaire Alixandres du deduit des faucons
 O son maistre Aristote et o ses compaignons,
 Il li a commencié un livre de sarmons:
 Dist li qu'il n'ait sergans covoiteus ne larrons,
@@ -88,8 +88,8 @@ Fossés ne murs ne tors, dongons ne plaisseïs.
 Ja ne remanra mais la noise ne li cris
 Tant que li qués que soit en soit mors ou honis."
 A tant demande l'eaue si est en piés saillis.
-[3.4]Li
-mengiers est tous pres, que li quieu l'ont hasté,
+[3.4]
+Li mengiers est tous pres, que li quieu l'ont hasté,
 Puis sont li siege fait et li tapit geté.
 Li chevalier s'assieent qant il orent lavé
 Et on lor a le vin en hanas aporté.
@@ -101,8 +101,8 @@ Aristotes a dont Alixandre apelé:
 Tel chose vos veul dire qui me vient molt a gré."
 Alixandres respont: "Je l'ai molt desirré."
 Es le vos en gisant delés lui acosté.
-[3.5]"Alixandres,
-fait il, dire te veul novele;    [100]
+[3.5]
+"Alixandres,fait il, dire te veul novele;    [100]
 Qant tu l'avras oïe, ne te sera pas bele.
 Dayres, li rois de Perse, de servage t'apele:
 Tes peres est ses sers et ta mere s'ancele.
@@ -155,8 +155,8 @@ S'il ançois ne s'en fuit ou il ne se remue,
 Bataille puet avoir, ainc tel ne fu veüe;
 Del duel esragera se la desconvenue    [150]
 Que fait li a el champ ne li est chier vendue.
-[3.7]Dayres
-tramet ses mes au fort roi Alixandre
+[3.7]
+Dayres tramet ses mes au fort roi Alixandre
 Et cil i sont alé, ne l'oserent offendre,
 Et sont venu au roi par main a un devenre.
 Noncent li la bataille, se Dayron ose atendre,
@@ -167,8 +167,8 @@ Et a unes grans forches par mi la goule pendre,
 Et menace ses homes que chier lor cuide vendre    [160]
 Sa terre qu'il li gastent et tel merite rendre
 Que n'estordra de l'ost li graindres ne li mendre.
-[3.8]Par
-briés et par messages qant Dayres ot apris
+[3.8]
+Par briés et par messages qant Dayres ot apris
 Q'Alixandres s'estoit de la guerre entremis,
 Par toute sa contree envoia ses corlis
 Et mande a tous ses homes que bien soit chascuns fis
