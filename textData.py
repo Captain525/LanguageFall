@@ -83,7 +83,8 @@ class textData:
             subDirectory = os.getcwd() + "/" + self.category
             with open(subDirectory/(self.category + " list"), "r", encoding='utf-8') as file:
 
-
+        except Exception as e:
+            print(str(e))
 
 
 def main():
