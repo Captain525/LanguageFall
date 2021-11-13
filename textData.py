@@ -40,8 +40,8 @@ class textData:
                 self.listFiles.append(filename)
                 with open(newDir/filename, "w", encoding='utf-8') as file:
                     divider = "p"
-                    #zero because beowulf is 0.
-                    if count ==0 or self.lines:
+                    #checks for the texts which don't work the other way.
+                    if (self.category == "Old English" and count ==0) or (self.category =="Old French" and count<24):
                         divider = "div"
                     for data in parse.find_all(divider):
                         text = data.get_text()
@@ -50,6 +50,7 @@ class textData:
 
             except Exception as e:
                 print(str(e))
+                continue
         return self.listFiles
 
 
@@ -66,18 +67,42 @@ class textData:
         except Exception as e:
             print(str(e))
 
+    def writeListToFile(self, list):
+        try:
+            subDirectory = os.getcwd() + "/" + self.category
+            with open(subDirectory/(self.category + " list"), "x", encoding='utf-8') as file:
+                for fileName in list:
+                    #write the names to this new file.
+                    file.writelines(fileName)
+        except Exception as e:
+            print(str(e))
+
+
+    def getListFromFile(self):
+        try:
+            subDirectory = os.getcwd() + "/" + self.category
+            with open(subDirectory/(self.category + " list"), "r", encoding='utf-8') as file:
+
 
 
 
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
+    text3 = textData("Old Latin", False)
     fileList = text.getData()
     frenchList = text2.getData()
+    latinList = text3.getData();
+    text.writeListToFile(fileList)
+    text2.writeListToFile(frenchList)
+    text3.writeListToFile(latinList)
     print(fileList)
     print(frenchList)
+    print(latinList);
+
     count = manipulateText()
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
-
+    print(count.countWords(frenchList, os.getcwd() + "/Old French"))
+    print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
 if __name__== "__main__":
     main()
