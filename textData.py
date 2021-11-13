@@ -18,7 +18,7 @@ class textData:
         # gets list of websites to examine.
         websites = self.getWebsiteList()
         print(websites)
-        count = 0;
+        count = 0
         newDirName = self.category
         newDir = pathlib.Path(os.getcwd(), newDirName)
         newDir.mkdir(parents=True,exist_ok=True)
@@ -38,7 +38,7 @@ class textData:
             try:
                 filename = "file_ " + str(count) + ".txt"
                 self.listFiles.append(filename)
-                with open(newDir/filename, "w", encoding='utf-8') as file:
+                with open(newDir/filename, "x", encoding='utf-8') as file:
                     divider = "p"
                     #checks for the texts which don't work the other way.
                     if (self.category == "Old English" and count ==0) or (self.category =="Old French" and count<24):
@@ -47,7 +47,11 @@ class textData:
                         text = data.get_text()
                         file.writelines(text)
                 count += 1
-
+            #if file already exists, don't overwrite .
+            except FileExistsError:
+                print("file " + filename + " exists\n");
+                count+=1;
+                continue;
             except Exception as e:
                 print(str(e))
                 continue
@@ -69,36 +73,45 @@ class textData:
 
     def writeListToFile(self, list):
         try:
-            subDirectory = os.getcwd() + "/" + self.category
-            with open(subDirectory/(self.category + " list"), "x", encoding='utf-8') as file:
+
+            directory = pathlib.Path(os.getcwd(), self.category)
+            with open(directory/(self.category + " list"), "x", encoding='utf-8') as file:
                 for fileName in list:
                     #write the names to this new file.
-                    file.writelines(fileName)
+                    var = "\n" + fileName
+                    file.writelines(var)
+        except FileExistsError:
+            print("Didn't write new list\n");
         except Exception as e:
             print(str(e))
 
 
     def getListFromFile(self):
+        list =[];
         try:
             subDirectory = os.getcwd() + "/" + self.category
-            with open(subDirectory/(self.category + " list"), "r", encoding='utf-8') as file:
-
+            with open(subDirectory + "/" + (self.category + " list"), "r", encoding='utf-8') as file:
+                list = [line.strip() for line in file.readlines()]
         except Exception as e:
             print(str(e))
+            return None
 
-
+        return list
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
     text3 = textData("Old Latin", False)
-    fileList = text.getData()
-    frenchList = text2.getData()
-    latinList = text3.getData();
-    text.writeListToFile(fileList)
-    text2.writeListToFile(frenchList)
-    text3.writeListToFile(latinList)
+    #fileList = text.getData()
+    #frenchList = text2.getData()
+    #latinList = text3.getData();
+    #text.writeListToFile(fileList)
+    #text2.writeListToFile(frenchList)
+    #text3.writeListToFile(latinList)4
+    fileList = text.getListFromFile();
     print(fileList)
+    frenchList = text2.getListFromFile()
     print(frenchList)
+    latinList = text3.getListFromFile()
     print(latinList);
 
     count = manipulateText()
