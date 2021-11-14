@@ -109,9 +109,9 @@ def initialize_files(list):
 def remove(list, category):
     man = manipulateText()
     subDirectory = os.getcwd() + "/" + category
-    for file in list:
-        man.remove(subDirectory + "/" + file, -1)
-        print("done " + file + "\n")
+    file = list[4]
+    man.remove(subDirectory + "/" + file, -1)
+    print("done " + file + "\n")
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
