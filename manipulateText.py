@@ -58,14 +58,18 @@ class manipulateText():
 
     #removes the brackets from a given string.
     def removeBrackets(self, string):
-        result = ''.join([ i for i in string if not (i=='[' or i==']')])
-        return result
-    def removeParentheses(self,string):
+        #result = ''.join([ i for i in string if not (i=='[' or i==']')])
+        return self.removeDividers(string, "[", "]")
+    #removes stuff between parentheses as well as parentheses themselves.
+    def removeParentheses(self, string):
+        return self.removeDividers(string, "(", ")")
+    #removes all the characters between the two specified characters from the string.
+    def removeDividers(self,string, char1, char2):
         notDone = True
         while(notDone):
             for i in range(0,len(string)-2):
-                endIndex = self.findNextOccurence(")", string, i, "(")
-                if string[i] == "(" and endIndex>i:
+                endIndex = self.findNextOccurence(char2, string, i, char1)
+                if string[i] == char1 and endIndex>i:
                     beginning = string[0:i]
                     if endIndex == len(string)-1:
                         string = beginning

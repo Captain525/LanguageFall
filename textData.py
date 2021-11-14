@@ -133,7 +133,7 @@ def main():
     subDirectory = os.getcwd() + "/" + "Old French"
    # for i in range (24,28):
         #count.remove(subDirectory + "/" + frenchList[i], 2)
-    file = frenchList[1]
+    file = subDirectory + "/" + frenchList[1]
     count.remove(file, 3)
     #count.removeNumbers(subDirectory + "/" + frenchList[16])
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
