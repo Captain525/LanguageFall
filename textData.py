@@ -112,8 +112,8 @@ def remove(list, category):
     for file in list:
         #man.remove(subDirectory + "/" + file,0)
         #man.remove(subDirectory + "/" + file, 1)
-        if file == "file_ 8.txt":
-            man.remove(subDirectory + "/" + file, 5)
+
+        man.remove(subDirectory + "/" + file, 5)
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
