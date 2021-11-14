@@ -101,10 +101,13 @@ class manipulateText():
         space = set(" \t\n")
         count = 0
         if len(string)==0:
+            print("got here\n")
             return string
         char = string[0]
         while char in space:
             count += 1
+            if count==len(string):
+                return ""
             char = string[count]
         string = string[count:]
         return string
