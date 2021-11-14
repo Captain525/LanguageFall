@@ -10,8 +10,12 @@ def makeCSV(listOfTuples):
         listOfFiles = tuple[0]
         category = tuple[1]
         for file in listOfFiles:
+            print(file + "\n")
+            print(getPath(category, file))
             #list of tuples of text line and category, want to concatenate these for all of them.
             listLines += getListLinesFile(getPath(category, file), category)
+           # print(listLines)
+            print("\n")
 
     print(listLines)
     data = pd.DataFrame(listLines, columns=headers)
@@ -21,11 +25,11 @@ def getListLinesFile(file, category):
     listOfLineTuples = []
     try:
         with open(file, "r",encoding='utf-8') as f:
-            line= f.readline().strip()
-            while line:
+            list = f.readlines()
+            for line in list:
                 element = [line, category]
                 listOfLineTuples.append(element)
-                line =f.readline()
+
     except Exception as e:
         print(str(e))
     return listOfLineTuples
