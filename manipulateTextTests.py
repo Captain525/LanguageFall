@@ -19,5 +19,5 @@ def testParenthesesRemove():
         string = "howdy i don't (   r3242353 )want to be a hero ()\n"
         text = manipulateText()
         newString = text.removeParentheses(string)
-        print(string)
+        print(newString)
         assert(newString == "howdy i don't want to be a hero \n")

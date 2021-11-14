@@ -121,19 +121,20 @@ def main():
     list = [text,text2,text3]
     fileList = text.getListFromFile();
     #print(fileList)
-    #frenchList = text2.getListFromFile()
-    frenchList = text2.getData()
+    frenchList = text2.getListFromFile()
+    #frenchList = text2.getData()
     #print(frenchList)
     latinList = text3.getListFromFile()
     #print(latinList);
-    remove(frenchList, "Old French")
+    #remove(frenchList, "Old French")
     #remove(fileList, "Old English")
     count = manipulateText()
     test = manipulateTextTests.runTests()
     subDirectory = os.getcwd() + "/" + "Old French"
    # for i in range (24,28):
         #count.remove(subDirectory + "/" + frenchList[i], 2)
-
+    file = frenchList[1]
+    count.remove(file, 3)
     #count.removeNumbers(subDirectory + "/" + frenchList[16])
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
     print(count.countWords(frenchList, os.getcwd() + "/Old French"))

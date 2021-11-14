@@ -61,15 +61,23 @@ class manipulateText():
         result = ''.join([ i for i in string if not (i=='[' or i==']')])
         return result
     def removeParentheses(self,string):
-        for i in range(0,len(string)-2):
-            endIndex = self.findNextOccurence(")", string, i, "(")
-            if string[i] == "(" and endIndex>i:
-                beginning = string[0:i]
-                if endIndex == len(string)-1:
-                    string = beginning
-                else:
-                    end = string[endIndex+1:]
-                    string = beginning+end
+        notDone = True
+        while(notDone):
+            for i in range(0,len(string)-2):
+                endIndex = self.findNextOccurence(")", string, i, "(")
+                if string[i] == "(" and endIndex>i:
+                    beginning = string[0:i]
+                    if endIndex == len(string)-1:
+                        string = beginning
+                    else:
+                        end = string[endIndex+1:]
+                        string = beginning+end
+                    #break out of for loop bc can't change string while in it.
+                    break
+                elif i == len(string) - 3:
+                    # if get here, get out of for loop meaning done.
+                    notDone = False
+
         return string
     def findNextOccurence(self, character, string, startingIndex, otherChar):
         if startingIndex == len(string)-1:
