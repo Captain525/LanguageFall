@@ -42,17 +42,17 @@ class manipulateText():
     def chooseFunction(self, string, choice):
         if choice == -1:
             var_function = self.removeParentheses(string)
-            print("done 1\n")
+
             var_function = self.removeBrackets(var_function)
-            print("done 2\n")
+
             var_function = self.deleteNums(var_function)
-            print("done 3\n")
+
             var_function = self.removeDot(var_function)
-            print("done 4\n")
+
             var_function = self.addNewLine(var_function)
-            print("done 5\n")
+
             var_function = self.removeBlankLine(var_function)
-            print("done 6\n")
+            print("done line\n")
         elif choice == 0:
             var_function = self.deleteNums(string)
         elif choice == 1:
