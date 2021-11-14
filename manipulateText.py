@@ -40,7 +40,14 @@ class manipulateText():
             print(str(e))
     #choose which helper function to call, ie, what you want to remove.
     def chooseFunction(self, string, choice):
-        if choice == 0:
+        if choice == -1:
+            var_function = self.removeParentheses(string)
+            var_function = self.removeBrackets(var_function)
+            var_function = self.deleteNums(var_function)
+            var_function = self.removeDot(var_function)
+            var_function = self.addNewLine(var_function)
+            var_function = self.removeBlankLine(var_function)
+        elif choice == 0:
             var_function = self.deleteNums(string)
         elif choice == 1:
             var_function = self.removeBrackets(string)
