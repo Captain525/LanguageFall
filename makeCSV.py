@@ -20,8 +20,8 @@ def makeCSV(listOfTuples):
 def getListLinesFile(file, category):
     listOfLineTuples = []
     try:
-        with open(file, "r") as f:
-            line= f.readline()
+        with open(file, "r",encoding='utf-8') as f:
+            line= f.readline().strip()
             while line:
                 element = [line, category]
                 listOfLineTuples.append(element)

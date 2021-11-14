@@ -126,24 +126,24 @@ def main():
     latinList = text3.getListFromFile()
     #print(latinList);
     #remove(frenchList, "Old French")
-    remove(fileList, "Old English")
-    count = manipulateText()
-    test = manipulateTextTests.runTests()
-    subDirectory = os.getcwd() + "/" + "Old French"
+    #remove(fileList, "Old English")
+    #count = manipulateText()
+    #test = manipulateTextTests.runTests()
+   #subDirectory = os.getcwd() + "/" + "Old French"
    # for i in range (24,28):
         #count.remove(subDirectory + "/" + frenchList[i], 2)
-    file = subDirectory + "/" + frenchList[1]
-    count.remove(file, 3)
+    #file = subDirectory + "/" + frenchList[1]
+    #count.remove(file, 3)
     #count.removeNumbers(subDirectory + "/" + frenchList[16])
-    print(count.countWords(fileList, os.getcwd() + "/Old English"))
-    print(count.countWords(frenchList, os.getcwd() + "/Old French"))
-    print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
+    #print(count.countWords(fileList, os.getcwd() + "/Old English"))
+    #print(count.countWords(frenchList, os.getcwd() + "/Old French"))
+    #print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
 
     cv = makeCSV
     list = []
-    list.append(cv.makeTuple(fileList, "Old English"))
+    #list.append(cv.makeTuple(fileList, "Old English"))
     list.append(cv.makeTuple(frenchList, "Old French"))
-    list.append(cv.makeTuple(latinList, "Old Latin"))
+    #list.append(cv.makeTuple(latinList, "Old Latin"))
     csv = cv.makeCSV(list)
 if __name__== "__main__":
     main()
