@@ -62,3 +62,17 @@ class manipulateText():
         if string[0] == '.' :
             return string[1:]
         return string
+    def addNewLine(self,string):
+        punctuation = set(",.;!?:")
+        #increment down through string
+        for i in range (len(string) - 1, -1, -1):
+            if string[i] in punctuation:
+                beginning = string[0:i+1]
+                val = i+1
+                if string[i+1] == " " or string[i+1] == "\n":
+                    val = i+2
+                end = string[val:]
+                string = beginning + "\n" + end
+        return string
+
+
