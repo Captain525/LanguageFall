@@ -7,8 +7,8 @@ def makeCSV(listOfTuples):
     headers = ["text", "language"]
     listLines = []
     for tuple in listOfTuples:
-        category = tuple[0]
-        listOfFiles = tuple[1]
+        listOfFiles = tuple[0]
+        category = tuple[1]
         for file in listOfFiles:
             #list of tuples of text line and category, want to concatenate these for all of them.
             listLines += getListLinesFile(getPath(category, file), category)
