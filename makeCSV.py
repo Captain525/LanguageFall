@@ -19,6 +19,9 @@ def makeCSV(listOfTuples):
 
     print(listLines)
     data = pd.DataFrame(listLines, columns=headers)
+    nan_value = float("NaN")
+    data.replace("", nan_value, inplace=True)
+    data.dropna(subset=["text"], inplace=True)
     return data.to_csv('languageData.csv', index=False)
 
 def getListLinesFile(file, category):
@@ -27,6 +30,10 @@ def getListLinesFile(file, category):
         with open(file, "r",encoding='utf-8') as f:
             list = f.readlines()
             for line in list:
+                line = line.strip()
+                set = '"\n'
+                for char in set:
+                    line = line.replace(char, "")
                 element = [line, category]
                 listOfLineTuples.append(element)
 
