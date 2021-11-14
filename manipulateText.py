@@ -100,11 +100,15 @@ class manipulateText():
     def removeBlankLine(self, string):
         space = set(" \t\n")
         count = 0
-        while string[0] in space and len(string) != 0:
-            string = string[1:]
-        if len(string) == 0:
-            return "\n"
+        if len(string)==0:
+            return string
+        char = string[0]
+        while char in space:
+            count += 1
+            char = string[count]
+        string = string[count:]
         return string
+
 
     def removeDot(self, string):
         if string[0] == '.' :
