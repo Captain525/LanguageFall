@@ -52,7 +52,7 @@ class manipulateText():
             var_function = self.addNewLine(var_function)
 
             var_function = self.removeBlankLine(var_function)
-            print("done line\n")
+            #print("done line\n")
         elif choice == 0:
             var_function = self.deleteNums(string)
         elif choice == 1:
