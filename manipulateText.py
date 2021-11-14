@@ -40,7 +40,7 @@ class manipulateText():
             print(str(e))
     #choose which helper function to call, ie, what you want to remove.
     def chooseFunction(self, string, choice):
-        if (choice == 0):
+        if choice == 0:
             var_function = self.deleteNums(string)
         elif choice == 1:
             var_function = self.removeBrackets(string)
@@ -103,7 +103,7 @@ class manipulateText():
         while string[0] in space and len(string) != 0:
             string = string[1:]
         if len(string) == 0:
-            return ""
+            return "\n"
         return string
 
     def removeDot(self, string):

@@ -29,5 +29,5 @@ def testRemoveBlankLine():
         string = "      \n Hi hello how are you"
         text= manipulateText()
         newString = text.removeBlankLine(string)
-        //print(newString)
+        #print(newString)
         assert(newString == "Hi hello how are you")
