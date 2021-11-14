@@ -35,6 +35,7 @@ class manipulateText():
             with open(file, "w", encoding="utf-8") as f:
                 for i in range(0, len(list)):
                     list[i] = self.chooseFunction(list[i], choice)
+                    print("done line " + i + "\n")
                     f.write(list[i])
         except Exception as e:
             print(str(e))
@@ -52,7 +53,7 @@ class manipulateText():
             var_function = self.addNewLine(var_function)
 
             var_function = self.removeBlankLine(var_function)
-            print("done line\n")
+
         elif choice == 0:
             var_function = self.deleteNums(string)
         elif choice == 1:
