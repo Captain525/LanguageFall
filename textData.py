@@ -124,8 +124,11 @@ def main():
     #print(latinList);
     remove(frenchList, "Old French")
     count = manipulateText()
-    print("result : "+ count.removeDot(".   ") + "\n")
+
     subDirectory = os.getcwd() + "/" + "Old French"
+    for i in range (24,28):
+        count.remove(subDirectory + "/" + frenchList[i], 2)
+
     #count.removeNumbers(subDirectory + "/" + frenchList[16])
     print(count.countWords(fileList, os.getcwd() + "/Old English"))
     print(count.countWords(frenchList, os.getcwd() + "/Old French"))

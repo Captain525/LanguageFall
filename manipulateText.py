@@ -44,6 +44,8 @@ class manipulateText():
             var_function = self.deleteNums(string)
         elif choice == 1:
             var_function = self.removeBrackets(string)
+        elif choice == 2:
+            var_function = self.removeDot(string)
         else:
             print("Not a valid choice\n")
         return var_function
@@ -57,6 +59,6 @@ class manipulateText():
         result = ''.join([ i for i in string if not (i=='[' or i==']')])
         return result
     def removeDot(self, string):
-        if string[0] == '.' and len(string)<3:
-            return " "
+        if string[0] == '.' :
+            return string[1:]
         return string
