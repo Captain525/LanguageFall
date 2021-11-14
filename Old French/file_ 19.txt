@@ -15,7 +15,7 @@ BIBLIOTHECA AUGUSTANA
 
 
 Thomas d'Angleterre
-vers 
+vers
 
 
 
@@ -24,7 +24,7 @@ vers
 
  
 
-Le mariage de Tristan et d'Yseut 
+Le mariage de Tristan et d'Yseut
 aux Blanches Mains
  
 (Fragment du manuscrit Sneyd)
@@ -937,7 +937,6 @@ E Ysolt molt grant dolor fait.
 En sun corage est anguissee.
 E de ceste novele iree
 ...
-
 
 
 

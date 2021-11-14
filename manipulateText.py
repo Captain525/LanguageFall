@@ -46,6 +46,8 @@ class manipulateText():
             var_function = self.removeBrackets(string)
         elif choice == 2:
             var_function = self.removeDot(string)
+        elif choice == 3:
+            var_function = self.addNewLine(string)
         else:
             print("Not a valid choice\n")
         return var_function
@@ -58,6 +60,36 @@ class manipulateText():
     def removeBrackets(self, string):
         result = ''.join([ i for i in string if not (i=='[' or i==']')])
         return result
+    def removeParentheses(self,string):
+        for i in range(0,len(string)-2):
+            endIndex = self.findNextOccurence(")", string, i, "(")
+            if string[i] == "(" and endIndex>i:
+                beginning = string[0:i]
+                if endIndex == len(string)-1:
+                    string = beginning
+                else:
+                    end = string[endIndex+1:]
+                    string = beginning+end
+        return string
+    def findNextOccurence(self, character, string, startingIndex, otherChar):
+        if startingIndex == len(string)-1:
+            return -1
+
+        for i in range (startingIndex+1, len(string)):
+            if string[i] == character:
+                return i
+            elif string[i] == otherChar:
+                return -1
+        return -1
+    def removeBlankLine(self, string):
+        space = set(" \t\n")
+        count = 0
+        while string[0] in space and count<len(string):
+            string = string[1:]
+        if count == len(string):
+            return ""
+        return string
+
     def removeDot(self, string):
         if string[0] == '.' :
             return string[1:]

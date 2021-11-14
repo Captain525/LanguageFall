@@ -112,6 +112,8 @@ def remove(list, category):
     for file in list:
         man.remove(subDirectory + "/" + file,0)
         man.remove(subDirectory + "/" + file, 1)
+        #if(category == "Old English"):
+            #man.remove(subDirectory+ "/" + file, 3)
 def main():
     text = textData("Old English", False)
     text2 = textData("Old French", True)
@@ -119,13 +121,15 @@ def main():
     list = [text,text2,text3]
     fileList = text.getListFromFile();
     #print(fileList)
-    frenchList = text2.getListFromFile()
+    #frenchList = text2.getListFromFile()
+    frenchList = text2.getData()
     #print(frenchList)
     latinList = text3.getListFromFile()
     #print(latinList);
     remove(frenchList, "Old French")
+    #remove(fileList, "Old English")
     count = manipulateText()
-    test = manipulateTextTests.testAddNewLine()
+    test = manipulateTextTests.runTests()
     subDirectory = os.getcwd() + "/" + "Old French"
    # for i in range (24,28):
         #count.remove(subDirectory + "/" + frenchList[i], 2)
