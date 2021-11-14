@@ -48,6 +48,10 @@ class manipulateText():
             var_function = self.removeDot(string)
         elif choice == 3:
             var_function = self.addNewLine(string)
+        elif choice == 4:
+            var_function = self.removeParentheses(string)
+        elif choice == 5:
+            var_function = self.removeBlankLine(string)
         else:
             print("Not a valid choice\n")
         return var_function
@@ -96,9 +100,9 @@ class manipulateText():
     def removeBlankLine(self, string):
         space = set(" \t\n")
         count = 0
-        while string[0] in space and count<len(string):
+        while string[0] in space and len(string) != 0:
             string = string[1:]
-        if count == len(string):
+        if len(string) == 0:
             return ""
         return string
 

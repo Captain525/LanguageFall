@@ -6,6 +6,7 @@ def runTests():
         testAddNewLine()
         testParenthesesRemove()
         testBracketsRemove()
+        testRemoveBlankLine()
 
 def testAddNewLine():
         string =  "hello there. I don't know what your problem is, but i want it to stop!\n"
@@ -23,3 +24,10 @@ def testBracketsRemove():
         text = manipulateText()
         newString = text.removeBrackets(string)
         assert(newString=="howdy i don't  how three")
+
+def testRemoveBlankLine():
+        string = "      \n Hi hello how are you"
+        text= manipulateText()
+        newString = text.removeBlankLine(string)
+        //print(newString)
+        assert(newString == "Hi hello how are you")
