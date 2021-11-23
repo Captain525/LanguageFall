@@ -66,6 +66,10 @@ class manipulateText():
             var_function = self.removeParentheses(string)
         elif choice == 5:
             var_function = self.removeBlankLine(string)
+        elif choice == 6:
+
+            listChars = {"\"","\'" }
+            var_function = self.removeChars(string, )
         else:
             print("Not a valid choice\n")
         return var_function
@@ -146,5 +150,13 @@ class manipulateText():
                 end = string[val:]
                 string = beginning + "\n" + end
         return string
+
+    def removeChars(self, string, listChars):
+        newString = string
+        for char in listChars:
+            newString = newString.replace(char, "")
+        return newString
+
+
 
 

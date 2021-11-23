@@ -9,6 +9,7 @@ def runTests():
         testBracketsRemove()
         testRemoveBlankLine()
         testRemoveDividers()
+        testRemoveQuotes()
 
 def testAddNewLine():
         string =  "hello there. I don't know what your problem is, but i want it to stop!\n"
@@ -38,6 +39,16 @@ def testRemoveDividers():
         text = manipulateText();
         newString = text.removeDividers(string, 'c', 'b')
         print(newString)
-        assert(newString == " what you can do to stop me.");
+        assert(newString == " what you can do to stop me.")
+
+def testRemoveQuotes():
+        string = "'hello there'"
+        string2 = "hello" + "\"" +" hodwy" + "\""
+        text=manipulateText()
+        newString2 = text.removeChars(string2, {"\""})
+
+        assert(newString2 == "hello hodwy")
+        newString = text.removeChars(string, {"\'"})
+        assert(newString == "hello there")
 if __name__== "__main__":
     main()
