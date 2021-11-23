@@ -67,9 +67,8 @@ class manipulateText():
         elif choice == 5:
             var_function = self.removeBlankLine(string)
         elif choice == 6:
-
             listChars = {"\"","\'" }
-            var_function = self.removeChars(string, )
+            var_function = self.removeChars(string, listChars)
         else:
             print("Not a valid choice\n")
         return var_function
