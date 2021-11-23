@@ -138,12 +138,13 @@ def main():
     #print(count.countWords(fileList, os.getcwd() + "/Old English"))
     #print(count.countWords(frenchList, os.getcwd() + "/Old French"))
     #print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
-    count.remove(subDirectory +"/"+ latinList[28],0)
+    for i in range(0, 29):
+        count.remove(subDirectory +"/"+ latinList[i],0)
     cv = makeCSV
     list = []
     list.append(cv.makeTuple(fileList, "Old English"))
     list.append(cv.makeTuple(frenchList, "Old French"))
     list.append(cv.makeTuple(latinList, "Old Latin"))
-    csv = cv.makeCSV(list)
+    #csv = cv.makeCSV(list)
 if __name__== "__main__":
     main()

@@ -35,7 +35,7 @@ class manipulateText():
             with open(file, "w", encoding="utf-8") as f:
                 for i in range(0, len(list)):
                     list[i] = self.chooseFunction(list[i], choice)
-                    print("done line " + i + "\n")
+                    print("done line " + str(i) + "\n")
                     f.write(list[i])
         except Exception as e:
             print(str(e))

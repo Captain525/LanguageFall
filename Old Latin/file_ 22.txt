@@ -14,7 +14,7 @@ consequitur minimeque invidiosus, minimeque male cogitantes sunt qui in
 eo studio occupati sunt. Nunc, ut ad rem redeam, quod promisi institutum
 principium hoc erit.
 
-[1] Praedium quom parare cogitabis, sic in animo habeto: uti
+[] Praedium quom parare cogitabis, sic in animo habeto: uti
 ne cupide emas neve opera tua parcas visere et ne satis habeas semel circumire;
 quotiens ibis, totiens magis placebit quod bonum erit. Vicini quo pacto
 niteant, id animum advertito: in bona regione bene nitere oportebit. Et
@@ -36,7 +36,7 @@ est; secundo loco hortus irriguus; tertio salictum; quarto oletum; quinto
 pratum; sexto campus frumentarius; septimo silva caedua; octavo arbustum;
 nono glandaria silva.
 
-[2] Pater familias, ubi ad villam venit, ubi larem familiarem
+[] Pater familias, ubi ad villam venit, ubi larem familiarem
 salutavit, fundum eodem die, si potest, circumeat; si non eodem die, at
 postridie. Ubi cognovit quo modo fundus cultus siet, opera quaeque facta
 infectaque sient, postridie eius diei vilicum vocet, roget quid operis
@@ -66,7 +66,7 @@ oves deliculas, lanam, pelles, plostrum vetus, ferramenta vetera, servum
 senem, servum morbosum, et si quid aliud supersit, vendat. Patrem familias
 vendacem, non emacem esse oportet.
 
-[3] Prima adulescentia patrem familiae agrum conserere studere
+[] Prima adulescentia patrem familiae agrum conserere studere
 oportet. Aedificare diu cogitare oportet, conserere cogitare non oportet,
 sed facere oportet. Ubi aetas accessit ad annos XXXVI, tum aedificare oportet,
 si agrum consitum habeas. Ita aedifices, ne villa fundum quaerat nec fundus
@@ -87,7 +87,7 @@ Trochileas Graecanicas binis funis sparteis ducunt: orbiculis
 superioribus octonis, inferioribus senis citius duces; si rotas voles facere,
 tardius ducetur, sed minore labore.
 
-[4] Bubilia bona, bonas praesepis, faliscas clatratas, clatros
+[] Bubilia bona, bonas praesepis, faliscas clatratas, clatros
 inesse oportet pede. Si ita feceris, pabulum boves non eicient. Villam
 urbanam pro copia aedificato.
 
@@ -99,7 +99,7 @@ facilius tua vendes, opera facilius locabis, operarios facilius conduces;
 si aedificabis, operis, iumentis, materie adiuvabunt; siquid bona salte
 usus venerit, benigne defendent.
 
-[5] Haec erunt vilici officia. Disciplina bona utatur. Feriae
+[] Haec erunt vilici officia. Disciplina bona utatur. Feriae
 serventur. Alieno manum abstineat, sua servet diligenter. Litibus familia
 supersedeat; siquis quid deliquerit, pro noxa bono modo vindicet. Familiae
 male ne sit, ne algeat, ne esuriat; opere bene exerceat, facilius malo
@@ -138,7 +138,7 @@ ulmeam, querneam caedito per tempus: eam condito non peraridam, pabulum
 ovibus. Item faenum cordum, sicillimenta de prato, ea arida condito. Post
 imbrem autumnum rapinam, pabulum lupinumque serito.
 
-[6] Agrum quibus locis conseras, sic observari oportet. Ubi
+[] Agrum quibus locis conseras, sic observari oportet. Ubi
 ager crassus et laetus est sine arboribus, eum agrum frumentarium esse
 oportet. Idem ager si nebulosus est, rapa, raphanos, milium, panicum, id
 maxime seri oportet. In agro crasso et caldo oleam conditivam, radium maiorem,
@@ -163,7 +163,7 @@ geminum eugeneum, helvolum minusculum conserito. Qui locus crassus erit
 aut nebulosior, ibi Aminnium maius aut Murgentinum, Apicium, Lucanum serito.
 Ceterae vites, miscellae maxime, in quemvis agrum conveniunt.
 
-[7] Fundum suburbanum arbustum maxime convenit habere; et
+[] Fundum suburbanum arbustum maxime convenit habere; et
 ligna et virgae venire possunt, et domino erito qui utatur. In eodem fundo
 suum quidquid conseri oportet; vitem compluria genera Aminnium minusculum
 et maius et Apicium. Uvae in olla in vinaceis conduntur; eadem in sapa,
@@ -179,7 +179,7 @@ confriato dies V; postea salem excutito, in sole ponito biduum, vel sine
 sale in defrutum condito. Sorba in sapa condere vel siccare; arida facias.
 Item pira facias.
 
-[8] Ficos Marsicas in loco cretoso et aperto serito; Africanas
+[] Ficos Marsicas in loco cretoso et aperto serito; Africanas
 et herculaneas, Sacontinas, hibernas, Tellanas atras pediculo longo, eas
 in loco crassiore aut stercorato serito. Pratum si inrigivum habebis, si
 non erit siccum, ne faenum desiet, summitto. Sub urbe hortum omne genus,
@@ -189,13 +189,13 @@ Praenestinas, Graecas, haec facito uti serantur. Fundum suburbanum, et
 qui eum fundum solum habebit, ita paret itaque conserat, uti quam sollertissimum
 habeat.
 
-[9] Salicta locis aquosis, umectis, umbrosis, propter amnes
+[] Salicta locis aquosis, umectis, umbrosis, propter amnes
 ibi seri oportet; et id videto uti aut domino opus siet aut ut vendere
 possit. Prata inrigiva, si aquam habebis, id potissimum facito; si aquam
 non habebis, sicca quam plurima facito. Hoc est praedium quod ubi vis expedit
 facere.
 
-[10] Quo modo oletum agri iugera CCXL instruere oporteat. Vilicum,
+[] Quo modo oletum agri iugera CCXL instruere oporteat. Vilicum,
 vilicam, operarios quinque, bubulcos III, asinarium I, subulcum I, opilionem
 I, summa homines XIII; boves trinos, asinos ornatos clitellarios qui stercus
 vectent tris, asinum molarium I, oves C; vasa olearia instructa iuga V,
@@ -220,7 +220,7 @@ I, seminarium I, qui nucleos succernat I, modium I, semodium I; culcitas
 VIII, instragula VIII, pulvinos XVI, operimenta X, mappas III, centones
 pueris VI.
 
-[11] Quo modo vineae iugera C instruere oporteat. Vilicum,
+[] Quo modo vineae iugera C instruere oporteat. Vilicum,
 vilicam, operarios X, bubulcum I, asinarium I, salictarium I, subulcum
 I, summa homines XVI; boves II, asinos plostrarios II, asinum molarium
 I; vasa torcula instructa III, dolia ubi quinque vindemiae esse possint
@@ -244,14 +244,14 @@ forcipes II, rutabulum I, corbulas Amerinas XX, quala sataria vel alveos
 XL, palas ligneas XL, luntris II, culcitas IIII, instragula IIII, pulvinos
 VI, operimenta VI, mappas III, centones pueris VI.
 
-[12] In torcularium quae opus sunt. Vasis quinis prela temperata
+[] In torcularium quae opus sunt. Vasis quinis prela temperata
 V, supervacanea III, suculas V, supervacaneam I, funes loreos V, subductarios
 V, melipontos V, trochileas X, capistra V, assercula ubi prela sita sinet
 V, serias III, vectes XL, fibulas XL, constibilis ligneas, qui arbores
 conprimat, si dishiascent, et cuneos VI, trapetos V, cupas minusculas X,
 alveos X, palas ligneas X, rutra ferrea V.
 
-[13] In torcularium in usu quod opus est. Urceum unum, ahenum
+[] In torcularium in usu quod opus est. Urceum unum, ahenum
 quod capiat Q. V, uncos ferreos III, orbem aheneum I, molas, cribrum I,
 incerniculum I, securim I, scamnum I, seriam vinariam unam, clavem torculari
 I, lectum stratum ubi duo custodes liberi cubent (tertius servus una cum
@@ -265,7 +265,7 @@ olearium I, labellum I, infidibula II, spongeas II, urceos fictiles II,
 urnales II, trullas ligneas II, claves cum clostris in cellas II, trutinam
 I, centumpondium I, et pondera cetera.
 
-[14] Villam aedificandam si locabis novam ab solo, faber haec
+[] Villam aedificandam si locabis novam ab solo, faber haec
 faciat oportet. Parietes omnes, uti iussitur, calce et caementis, pilas
 ex lapide angulari, tigna omnia, quae opus sunt, limina, postes, iugumenta,
 asseres, fulmentas, praesepis bubus hibernas aestivas faliscas, equile,
@@ -290,18 +290,18 @@ salubri bono domino haec quae supra pretia posita sunt: ex signo manipretium
 erit. Loco pestilenti, ubi aestate fieri non potest, bono domino pars quarta
 preti accedat.
 
-[15] Macerias ex calce caementis silice. Uti dominus omnia
+[] Macerias ex calce caementis silice. Uti dominus omnia
 ad opus praebeat, altam P. V et columen P. I, crassam P. I S, longam P.
 XIV, et uti sublinat locari oportet. Parietes villae si locet in P. C,
 id est P. X quoquo versum, libellis in ped. V et perticam I P. VIC. N.
 X. Sesquipedalem parietem dominus fundamenta faciat et ad opus praebeat
 calcis in P. singulos in longitudinem modium unum, harenae modios duos.
 
-[16] Calcem partiario coquendam qui dant, ita datur. Perficit
+[] Calcem partiario coquendam qui dant, ita datur. Perficit
 et coquit et ex fornace calcem eximit calcarius et ligna conficit ad fornacem.
 Dominus lapidem, ligna ad fornacem, quod opus siet, praebet.
 
-[17] Robus materies item ridica, ubi solstitium fuerit ad brumam
+[] Robus materies item ridica, ubi solstitium fuerit ad brumam
 semper tempestiva est. Cetera materies quae semen habet, cum semen maturum
 habet, tum tempestiva est.
 
@@ -312,7 +312,7 @@ Ibidem sunt nuces bimae, inde semen excidet, et anniculae, eae ubi primum
 incipiunt maturae esse, postea usque adeo sunt plus menses VIII. Hornotinae
 nuces virides sunt. Ulmus, cum folia cadunt, tum iterum tempestiva est.
 
-[18] Torcularium si aedificare voles quadrinis vasis, uti contra
+[] Torcularium si aedificare voles quadrinis vasis, uti contra
 ora sient, ad hunc modum vasa conponito. Arbores crassas P. II, altas P.
 VIIII cum cardinibus, foramina longa P. III S exsculpta digit. VI, ab solo
 foramen primum P. I S, inter arbores et parietes P. II, in II arbores P.
@@ -352,7 +352,7 @@ corneis occludito. In eum orbem tris catenas indito. Eas catenas cum orbi
 clavis ferreis corrigito. Orbem ex ulmo aut ex corylo facito: si utrumque
 habebis, alternas indito.
 
-[19] In vasa vinaria stipites arboresque binis pedibus altiores
+[] In vasa vinaria stipites arboresque binis pedibus altiores
 facito, supra foramina arborum, pedem quaeque uti absiet, unae fibulae
 locum facito. Semipedem quoquo versum in suculam sena foramina indito.
 Foramen quod primum facies semipedem ab cardine facito, cetera dividito
@@ -363,7 +363,7 @@ ut inter arbores bene conveniat, digitum pollicem laxamenti facito. Vectes
 longissimos P. XIIX, secundos P. XVI, tertios P. XV, remissarios P. XII,
 alteros P. X, tertios P. VIII.
 
-[20] Trapetum quo modo concinnare oporteat. Columellam ferream,
+[] Trapetum quo modo concinnare oporteat. Columellam ferream,
 quae in miliario stat, eam rectam stare oportet in medio ad perpendiculum,
 cuneis salignis circumfigi oportet bene, eo plumbum effundere, caveat ni
 labet columella. Si movebitur, eximito; denuo eodem modo facito, ne se
@@ -372,7 +372,7 @@ caveto ne laxi sient. In cupam eos indito. Cunicas solidas latas digitum
 pollicem facito, labeam bifariam faciat habeant, quas figat clavis duplicibus,
 ne cadant.
 
-[21] Cupam facito P. X, tam crassam quam modioli postulabunt,
+[] Cupam facito P. X, tam crassam quam modioli postulabunt,
 media inter orbis quae conveniant. Crassam quam columella ferrea erit,
 eam mediam pertundito, uti columellam indere possis. Eo fistulam ferream
 indito, quae in columellam conveniat et in cupam. Inter cupam dextra sinistra
@@ -394,7 +394,7 @@ in cupam emito HS IIII. Cupam qui concinnet et modiolos qui indat et plumbet,
 operas fabri dumtaxat HS VIII; idem trapetum oportet accommodet. Summa
 sumpti HS LXXII praeter adiutores.
 
-[22] Trapetum hoc modo accommodare oportet. Librator uti statuatur
+[] Trapetum hoc modo accommodare oportet. Librator uti statuatur
 pariter ab labris. Digitum minimum orbem abesse oportet ab solo mortari.
 Orbes cavere oportet nequid mortarium terant. Inter orbem et miliarium
 unum digitum interesse oportet. Si plus intererit atque orbes nimium aberunt,
@@ -412,7 +412,7 @@ I, foramen semipedem quoquo vorsum. Eos cum advexeris, ex trapeto temperato.
 Ii emuntur ad Rufri macerias HS CXXC, temperantur HS XXX. Tantidem Pompeis
 emitur.
 
-[23] Fac ad vindemiam quae opus sunt ut parentur. Vasa laventur,
+[] Fac ad vindemiam quae opus sunt ut parentur. Vasa laventur,
 corbulae sarciantur, picentur, dolia quae opus sunt picentur, quom pluet;
 quala parentur, sarciantur, far molatur, menae emantur, oleae caducae saliantur.
 Uvas miscellas, vinum praeligneum quod operarii bibant, ubi tempus erit,
@@ -426,34 +426,34 @@ Ubi indideris defrutum aut marmor aut resinam, dies XX permisceto crebro,
 tribulato cotidie. Tortivum mustum circumcidaneum suo cuique dolio dividito
 additoque pariter.
 
-[24] Vinum Graecum hoc modo fieri oportet. Uvas Apicias percoctas
+[] Vinum Graecum hoc modo fieri oportet. Uvas Apicias percoctas
 bene legito. Ubi delegeris, is eius musti culleum aquae marinae veteris
 Q. II indito vel salis puri modium; eum in fiscella suspendito sinitoque
 cum musto distabescat. Si helvolum vinum facere voles, dimidium helvoli,
 dimidium Apicii vini indito, defruti veteris partem tricesimam addito.
 Quidquid vini defrutabis, partem tricesimam defruti addito.
 
-[25] Quom vinum coctum erit et quom legetur, facito uti servetur
+[] Quom vinum coctum erit et quom legetur, facito uti servetur
 familiae primum suisque facitoque studeas bene percoctum siccumque legere,
 ne vinum nomen perdat. Vinaceos cotidie recentis succernito lecto restibus
 subtento, vel cribrum illi rei parato. Eos conculcato in dolia picata vel
 in lacum vinarium picatum. Id bene iubeto oblini, quod des bubus per hiemem.
 Indidem, si voles, lavito paulatim. Erit lora familiae quod bibat.
 
-[26] Vindemia facta vasa torcula, corbulas, fiscinas, funis,
+[] Vindemia facta vasa torcula, corbulas, fiscinas, funis,
 patibula, fibulas iubeto quidquid suo loco condi. Dolia cum vino bis in
 die fac extergeantur, privasque scopulas in dolia facito habeas illi rei,
 qui labra doliorum circumfrices. Ubi erit lectum dies triginta, si bene
 dacinata erunt, dolia oblinito, Si voles de faece demere vinum, tum erit
 ei rei optimum tempus.
 
-[27] Sementim facito, ocinum, viciam, faenum Graecum, fabam,
+[] Sementim facito, ocinum, viciam, faenum Graecum, fabam,
 ervum, pabulum bubus. Alteram et tertiam pabuli sationem facito. Deinde
 alias fruges serito. Scrobes in vervacto oleis, ulmis, vitibus, ficis;
 simul cum semine serito. Si erit locus siccus, tum oleas per sementim serito,
 et quae ante satae erunt, teneras tum supputato et arbores ablaqueato.
 
-[28] Oleas, ulmos, ficos, poma, vites, pinos, cupressos cum
+[] Oleas, ulmos, ficos, poma, vites, pinos, cupressos cum
 seres, bene cum radicibus eximito cum terra sua quam plurima circumligatoque,
 uti ferre possis; in alveo aut in corbula ferri iubeto. Caveto, quom ventus
 siet aut imber, effodias aut feras; nam id maxime cavendum est. In scrobe
@@ -462,20 +462,20 @@ deinde calcato pedibus bene, deinde festucis vectibusque calcato quam optime
 poteris; id erit ei rei primum. Arbores crassiores digitis V quae erunt,
 eas praecisas serito oblinitoque fimo summas et foliis alligato.
 
-[29] Stercus dividito sic. Partem dimidiam in segetem, ubi
+[] Stercus dividito sic. Partem dimidiam in segetem, ubi
 pabulum seras, et si ibi olea erit, simul ablaqueato stercusque addito:
 postea pabulum serito. Partem quartam circum oleas ablaqueatas, quom maxime
 opus erit, addito terraque stercus operito. Alteram quartam partem in pratum
 reservato idque, quom maxime opus erit, ubi favonius flabit, evehito luna
 silenti.
 
-[30] Bubus frondem ulmeam, populneam, querneam, ficulneam,
+[] Bubus frondem ulmeam, populneam, querneam, ficulneam,
 usque dum habebis, dato. Ovibus frondem viridem, usque dum habebis, praebeto;
 ubi sementim facturus eris, ibi oves delectato; et frondem usque ad pabula
 matura. Pabulum aridum quod condideris in hiemem quam maxime conservato,
 cogitatoque hiemis quam longa siet.
 
-[31] Ad oleam cogendam quae opus erunt parentur. Vimina matura,
+[] Ad oleam cogendam quae opus erunt parentur. Vimina matura,
 salix per tempus legatur, uti sit unde corbulae fiant et veteres sarciantur.
 Fibulae unde fiant, aridae iligneae, ulmeae, nuceae, ficulneae, fac in
 stercus aut in aquam coniciantur; inde, ubi opus erit, fibulas facito.
@@ -487,7 +487,7 @@ per rorem trahas aut doles. Quae materies semen non habebit, cum glubebit,
 tempestiva erit. Vento austro caveto nequam materiam neve vinum tractes
 nisi necessario.
 
-[32] Vineas arboresque matura face incipias putare. Vites propages
+[] Vineas arboresque matura face incipias putare. Vites propages
 in sulcos; susum vorsum, quod eius facere poteris, vitis facito uti ducas.
 Arbores hoc modo putentur, rami uti divaricentur, quos relinques, et uti
 recte caedantur et ne nimium crebri relinquantur. Vites bene nodentur;
@@ -496,7 +496,7 @@ Arbores facito uti bene maritae sint vitesque uti satis multae adserantur
 et, sicubi opus erit, de arbore deiciantur, uti in terram deprimantur,
 et biennio post praecidito veteres.
 
-[33] Viniam sic facito uti curetur. Vitem bene nodatam deligato
+[] Viniam sic facito uti curetur. Vitem bene nodatam deligato
 recte, fluxuosa uti ne sit, susum vorsum semper ducito, quod eius poteris.
 Vinarios custodesque recte relinquito. Quam altissimam viniam facito alligatoque
 recte, dum ne nimium constringas. Hoc modo eam curato. Capita vitium per
@@ -516,7 +516,7 @@ Salictum suo tempore caedito, glubito arteque alligato. Librum conservato,
 cum opus erit in vinea, ex eo in aquam coicito, alligato. Viminae, unde
 corbulae fiant, conservato.
 
-[34] Redeo ad sementim. Ubi quisque locus frigidissimus aquosissimusque
+[] Redeo ad sementim. Ubi quisque locus frigidissimus aquosissimusque
 erit, ibi primum serito. In caldissimis locis sementim postremum fieri
 oportet. Terram cave cariosam tractes. Ager rubicosus et terra pulla, materina,
 rudecta, harenosa, item quae aquosa non erit, ibi lupinum bonum fiet. In
@@ -524,7 +524,7 @@ creta et uligine et rubrica et ager qui aquosus erit, semen adoreum potissimum
 serito. Quae loca sicca et non herbosa erunt, aperta ab umbra, ibi triticum
 serito.
 
-[35] Fabam in locis validis non calamitosis serito. Viciam
+[] Fabam in locis validis non calamitosis serito. Viciam
 et faenum Graecum quam minime herbosis locis serito. Siliginem, triticum
 in loco aperto celso, ubi sol quam diutissime siet, seri oportet. Lentim
 in rudecto et rubricoso loco, qui herbosus non siet, serito. Hordeum, qui
@@ -533,13 +533,13 @@ in loco sementim maturam facere non potueris et qui locus restibilis crassitudin
 fieri poterit, serri oportet. Rapinam et coles rapicii unde fiant et raphanum
 in loco stercorato bene aut in loco crasso serito.
 
-[36] Quae segetem stercorent. Stercus columbinum spargere oportet
+[] Quae segetem stercorent. Stercus columbinum spargere oportet
 in pratum vel in hortum vel in segetem. Caprinum, ovillum, bubulum, item
 ceterum stercus omne sedulo conservato. Amurcam spargas vel inriges ad
 arbores; circum capita maiora amphoras, ad minora urnas cum aquae dimidio
 addito, ablaqueato prius non alte.
 
-[37] Quae mala in segete sint. Si cariosam terram tractes.
+[] Quae mala in segete sint. Si cariosam terram tractes.
 Cicer, quod vellitur et quod salsum est, eo malum est. Hordeum, faenum
 Graecum, ervum, haec omnia segetem exsugunt et omnia quae vellentur. Nucleos
 in segetem ne indideris.
@@ -561,7 +561,7 @@ runcesque avenamque destringas. De vinea et arboribus putatis sarmenta
 degere et fascinam face et vitis et ligna in cacuminum ficulna et codicillos
 domino in acervum conpone.
 
-[38] Fornacem calcariam pedes latam X facito, altam pedes XX,
+[] Fornacem calcariam pedes latam X facito, altam pedes XX,
 usque ad pedes tres summam latam redigito. Si uno praefurnio coques, lacunam
 intus magnam facito, uti satis siet ubi cinerem concipiat, ne foras sit
 educendus. Fornacemque bene struito; facito fortax totam fornacem infimam
@@ -583,7 +583,7 @@ habebis, unde calcem coquas, de lignis carboreas coquito, virgas et sarmenta,
 quae tibi ustioni supererunt, in segete conburito. Ubi conbusseris, ibi
 papaver serito.
 
-[39] Ubi tempestates malae erunt, cum opus fieri non poterit,
+[] Ubi tempestates malae erunt, cum opus fieri non poterit,
 stercus in stercilinum egerito. Bubile, ovile, cohortem, villam bene purgato.
 Dolia plumbo vincito vel materie quernea vere sicca alligato. Si bene sarseris
 aut bene alligaveris et in rimas medicamentum indideris beneque picaveris,
@@ -597,7 +597,7 @@ in fornace, eum conterito idque inducito.
 Per imbrem in villa quaerito quid fieri possit. Ne cessetur,
 munditias facito. Cogitato, si nihil fiet, nihilo minus sumptum futurum.
 
-[40] Per ver haec fieri oportet. Sulcos et scrobes fieri, seminariis,
+[] Per ver haec fieri oportet. Sulcos et scrobes fieri, seminariis,
 vitariis locum verti, vites propagari, in locis crassis et umectis ulmos,
 ficos, poma, oleas seri oportet. Ficos, olea, mala, pira, vites inseri
 oportet luna silenti post meridiem sine vento austro. Oleas, ficos, pira,
@@ -618,7 +618,7 @@ obtegito, si pluat, ne aqua in librum permanet. Eam linguam insuper libro
 alligato, ne cadat. Postea stramentis circumdato alligatoque, ne gelus
 noceat.
 
-[41] Vitis insitio una est per ver, altera est cum uva floret,
+[] Vitis insitio una est per ver, altera est cum uva floret,
 ea optuma est. Pirorum ac malorum insitio per ver et per solstitium dies
 L et per vindemiam. Oleae et ficorum insitio est per ver. Vitem sic inserito:
 praecidito quam inseres, eam mediam diffindito per medullam; eo surculos
@@ -633,13 +633,13 @@ demittito replicatoque ad vitis caput, medias vitis vinclis in terram defigito
 terraque operito. Haec omnia luto depsto oblinito, alligato integitoque
 ad eundem modum, tamquam oleas.
 
-[42] Ficos et oleas altero modo. Quod genus aut ficum aut oleam
+[] Ficos et oleas altero modo. Quod genus aut ficum aut oleam
 esse voles, inde librum scalptro eximito, alterum librum cum gemma de eo
 fico, quod genus esse voles, eximito, adponito in eum locum unde exicaveris
 in alterum genus facitoque uti conveniat. Librum longum facito digitos
 III S, latum digitos III. Ad eundem modum oblinito, integito, uti cetera.
 
-[43] Sulcos, si locus aquosus erit, alveatos esse oportet,
+[] Sulcos, si locus aquosus erit, alveatos esse oportet,
 latos summos pedes tres, altos pedes quattuor, infimum latum P. I et palmum.
 Eos lapide consternito; si lapis non erit, perticis saligneis viridibus
 controversus conlatis consternito; si pertica non erit, sarmentis conligatis.
@@ -649,13 +649,13 @@ ne minus P. II S quoquo versus facito. Si voles vinea cito crescat et olea,
 quam severis, semel in mense sulcos et circum capita oleaginea quot mensibus,
 usque donec trimae erunt, fodere oportet. Eodem modo ceteras arbores procurato.
 
-[44] Olivetum diebus XV ante aequinoctium vernum incipito putare.
+[] Olivetum diebus XV ante aequinoctium vernum incipito putare.
 Ex eo die dies XLV recte putabis. Id hoc modo putato. Qua locus recte ferax
 erit, quae arida erunt, et siquid ventus interfregerit, ea omnia eximito.
 Qua locus ferax non erit, id plus concidito aratoque. Bene enodato stripesque
 levis facito.
 
-[45] Taleas oleagineas, quas in scrobe saturis eris tripedaneas
+[] Taleas oleagineas, quas in scrobe saturis eris tripedaneas
 decidito diligenterque tractato, ne liber laboret, cum dolabis aut secabis.
 Quas in seminario saturus eris, pedalis facito, eas sic inserito. Locus
 bipalio subactus siet beneque terra tenera siet beneque glittus siet. Cum
@@ -667,7 +667,7 @@ vertet. Si in scrobibus aut in sulcis seres, ternas taleas ponito easque
 divaricato, supra terram ne plus IIII digitos transvorsos emineant; vel
 oculos serito.
 
-[46] Seminarium ad hunc modum facito. Locum quam optimum et
+[] Seminarium ad hunc modum facito. Locum quam optimum et
 apertissimum et stercorosissimum poteris et quam simillimum genus terrae
 eae, ubi semina positurus eris, et uti ne nimis longe semina ex seminario
 ferantur, eum locum bipalio vertito, delapidato circumque saepito bene
@@ -677,13 +677,13 @@ terram facito semina emineant fimoque bubulo summam taleam oblinito signumque
 aput taleam adponito crebroque sarito, si voles cito semina crescant. Ad
 eundem modum alia semina serito.
 
-[47] Harundinem sic serito: ternos pedes oculos disponito.
+[] Harundinem sic serito: ternos pedes oculos disponito.
 Vitiarium eodem modo facito seritoque. Ubi vitis bima erit, resicato; ubi
 trima erit, eximito. Si pecus pascetur, ubi vitem serere voles, ter prius
 resicato, quam in arborem ponas. Ubi V nodos veteres habebit, tum ad arborem
 ponito. Quotannis porrinam serito, quotannis habebis quo eximas.
 
-[48] Pomarium seminarium ad eundem modum atque oleagineum facito.
+[] Pomarium seminarium ad eundem modum atque oleagineum facito.
 Suum quidquid genus talearum serito. Semen cupressi ubi seres, bipalio
 vertito. Vere primo serito. Porcas pedes quinos latas facito, eo stercus
 minutum addito, consarito glebasque conminuito. Porcam planam facito, paulum
@@ -694,14 +694,14 @@ inponito, quae frigus defendant et solem. Uti subtus homo ambulare possit
 facito. Crebro runcato. Simul herbae inceperint nasci, eximito. Nam si
 herbam duram velles, cupressos simul evelles.
 
-[49] Vineam veterem si in alium locum transferre voles, dumtaxat
+[] Vineam veterem si in alium locum transferre voles, dumtaxat
 brachium crassam licebit. Primum deputato, binas gemmas ne amplius relinquito.
 Ex radicibus bene exfodito, usque radices persequito et caveto ne radices
 saucies. Ita uti fuerit, ponito in scrobe aut in sulco operitoque et bene
 occulcato, eodemque modo vineam statuito, alligato flexatoque, uti fuerit,
 crebroque fodito.
 
-[50] Prata primo vere stercorato luna silenti. Quae inrigiva
+[] Prata primo vere stercorato luna silenti. Quae inrigiva
 non erunt, ubi favonius flare coeperit, cum prata defendes, depurgato herbasque
 malas omnis radicitus effodito. Ubi vineam deputaveris, acervum lignorum
 virgarumque facito. Ficos interputato et in vinea ficos subradito alte,
@@ -710,13 +710,13 @@ antequam vineam fodere incipias. Ubi daps profanata comestaque erit, verno
 arare incipito. Ea loca primum arato, quae siccissima erunt, et quae crassissima
 et aquosissima erunt, ea postremum arato, dum ne prius obdurescant.
 
-[51] Propagatio pomorum, aliarum arborum. Ab arbore abs terra
+[] Propagatio pomorum, aliarum arborum. Ab arbore abs terra
 pulli qui nascentur, eos in terram deprimito extollitoque primorem partem,
 uti radicem capiat; inde biennio post effodito seritoque. Ficum, oleam,
 malum Punicum, cotoneum aliaque mala omnia, laurum, murtum, nuces Praenestinas,
 platanum, haec omnia a capite propagari eximique serique eodem modo oportet.
 
-[52] Quae diligentius propagari voles, in aullas aut in qualos
+[] Quae diligentius propagari voles, in aullas aut in qualos
 pertusos propagari oportet et cum iis in scrobem deferri oportet. In arboribus,
 uti radices capiant, calicem pertundito; per fundum aut qualum ramum, quem
 radicem capere voles, traicito; eum qualum aut calicem terra inpleto calcatoque
@@ -725,11 +725,11 @@ Qualum incidito ex ima parte perpetuum, sive calix erit, conquassato. Cum
 eo qualo aut calice in scrobem ponito. Eodem modo vitem facito, eam anno
 post praecidito seritoque cum qualo. Hoc modo quod genus vis propagabis.
 
-[53] Faenum, ubi tempus erit, secato cavetoque ne sero seces.
+[] Faenum, ubi tempus erit, secato cavetoque ne sero seces.
 Priusquam semen maturum siet, secato, et quod optimum faenum erit, seorsum
 condito, per ver cum arabunt, antequam ocinum des, quod edint boves.
 
-[54] Bubus pabulum hoc modo parari darique oportet. Ubi sementim
+[] Bubus pabulum hoc modo parari darique oportet. Ubi sementim
 patraveris, glandem parari legique oportet et in aquam conici. Inde semodios
 singulis bubus in dies dari oportet, et si non laborabunt, pascantur satius
 erit, aut modium vinaceorum, quos in dolium condideris. Interdiu pascito,
@@ -747,15 +747,15 @@ dato. Nihil est quod magis expediat, quam boves bene curare. Boves nisi
 per hiemem, cum non arabunt, pasci non oportet. Nam viride cum edunt, semper
 id exspectant, et fiscellas habere oportet, ne herbam sectentur, cum arabunt.
 
-[55] Ligna domino in tabulato condito, codicillos oleagineos,
+[] Ligna domino in tabulato condito, codicillos oleagineos,
 radices in acervo sub dio metas facito.
 
-[56] Familiae cibaria. Qui opus facient: per hiemem tritici
+[] Familiae cibaria. Qui opus facient: per hiemem tritici
 modios IIII, per aestatem modios IIII S; vilico, vilicae, epistatae, opilioni:
 modios III; compeditis: per hiemem panis p. IIII, ubi vineam fodere coeperint
 panis p. V, usque adeo dum ficos esse coeperint; deinde ad p. IIII redito.
 
-[57] Vinum familiae. Ubi vindemia facta erit, loram bibant
+[] Vinum familiae. Ubi vindemia facta erit, loram bibant
 menses tres; mense quarto: heminas in dies, id est in mense congios II
 S; mense quinto, sexto, septimo, octavo: in dies sextarios, id est in mense
 congios quinque; nono, decimo, undecimo, duodecimo: in dies heminas ternas,
@@ -764,22 +764,22 @@ gongios III S; summa vini in homines singulos inter annum Q. VII. Conpeditis,
 uti quidquid operis facient, pro portione addito; eos non est nimium in
 annos singulos vini Q. X ebibere.
 
-[58] Pulmentarium familiae. Oleae caducae quam plurimum condito;
+[] Pulmentarium familiae. Oleae caducae quam plurimum condito;
 postea oleas tempestivas, unde minimum olei fieri poterit, eas condito:
 parcito uti quam diutissime durent. Ubi oleae comesae erunt, hallacem et
 acetum dato. Oleum dato in menses unicuique s. I; salis unicuique in anno
 modium satis est.
 
-[59] Vestimenta familiae. Tunicam p. III S, saga alternis annis.
+[] Vestimenta familiae. Tunicam p. III S, saga alternis annis.
 Quotiens cuique tunicam aut sagum dabis, prius veterem accipito, unde centones
 fiant. Sculponias bonas alternis annis dare oportet.
 
-[60] Bubus cibaria annua in iuga singula lupini modios centum
+[] Bubus cibaria annua in iuga singula lupini modios centum
 viginti aut glandis modios CCXL, faeni pondo DXX, ocini, fabae M. XX, viciae
 M. XXX. Praeterea granatui videto satis viciae seras. Pabulum cum seres,
 mulas sationes facito.
 
-[61] Quid est agrum bene colere? Bene arare. Quid secundum?
+[] Quid est agrum bene colere? Bene arare. Quid secundum?
 Arare. Quid tertium? Stercorare. Qui oletum saepissime et altissime miscebit,
 is tenuissimas radices exarabit. Si male arabit, radices susum abibunt,
 crassiores fient, et in radices vires oleae abibunt. Agrum frumentarium
@@ -789,15 +789,15 @@ plurimas cum terra ferre; ubi radices bene operueris, calcare bene, ne
 aqua noceat. Siquis quaeret, quod tempus oleae serendae siet, agro sicco
 per sementim, agro laeto per ver.
 
-[62] Quot iuga boverum, mulorum, asinorum habebis, totidem
+[] Quot iuga boverum, mulorum, asinorum habebis, totidem
 plostra esse oportet.
 
-[63] Funem torculum esse oportet extentum pedes LV, funem loreum
+[] Funem torculum esse oportet extentum pedes LV, funem loreum
 in plostrum P. LX, lora retinacula longa P. XXVI, subiugia in plostrum
 P. XIIX, funiculum P. XV, in aratrum subiugia lora P. XVI, funiculum P.
 VIII.
 
-[64] Olea ubi matura erit, quam primum cogi oportet, quam minimum
+[] Olea ubi matura erit, quam primum cogi oportet, quam minimum
 in terra et in tabulato esse oportet. In terra et in tabulato putescit.
 Leguli volunt uti olea caduca quam plurimum sit, quo plus legatur; factores,
 ut in tabulato diu sit, ut fracida sit, quo facilius efficiant. Nolito
@@ -807,7 +807,7 @@ melius. Olea quae diu fuerit in terra aut in tabulato, inde olei minus
 fiet et deterius. Oleum, si poteris, bis in die depleto. Nam oleum quam
 diutissime in amurca et in fracibus erit, tam taeterrimum erit.
 
-[65] Oleum viride sic facito. Oleam quam primum ex terra tollito.
+[] Oleum viride sic facito. Oleam quam primum ex terra tollito.
 Si inquinata erit, lavito a foliis et stercore purgato. Postridie aut post
 diem tertium, quam lecta erit, facito. Olea ubi nigra erit, stringito.
 Quam acerbissima olea oleum facies, tam oleum optimum erit. Domino de matura
@@ -815,7 +815,7 @@ olea oleum fieri maxime expediet. Si gelicidia erunt, cum oleam coges,
 triduum atque quatriduum post oleum facito. Eam oleam, si voles, sale spargito.
 Quam calidissimum torcularium et cellam habeto.
 
-[66] Custodis et capulatoris officia. Servet diligenter cellam
+[] Custodis et capulatoris officia. Servet diligenter cellam
 et torcularium. Caveat quam minimum in torcularium et in cellam introeatur.
 Quam mundissime purissimeque fiat. Vaso aheneo neque nucleis ad oleum ne
 utatur. Nam si utetur, oleum male sapiet. Cortinam plumbeam in lacum ponito,
@@ -825,7 +825,7 @@ Oleum in labrum primum indito, inde in alterum doleum indito. De iis labris
 fraces amurcamque semper subtrahito. Cum oleum sustuleris de cortina, amurcam
 deorito.
 
-[67] Item custodis officia. Qui in torculario erunt vasa pura
+[] Item custodis officia. Qui in torculario erunt vasa pura
 habeant curentque uti olea bene perficiatur beneque siccetur. Ligna in
 torculario ne caedant. Oleum frequenter capiant. Factoribus det in singulos
 factus olei sextarios et in lucernam quod opus siet. Fraces cotidie reiciat.
@@ -834,19 +834,19 @@ pervenerit. Fiscinas spongia effingat. Cotidie oleo locum conmutet, donec
 in dolium pervenerit. In torculario et in cella caveat diligenter nequid
 olei subripiatur.
 
-[68] Ubi vindemia et oletas facta erit, prela extollito; funes
+[] Ubi vindemia et oletas facta erit, prela extollito; funes
 torculos, melipontos, subductarios in carnario aut in prelo suspendito;
 orbes, fibulas, vectes, scutulas, fiscinas, corbulas, quala, scalas, patibula,
 omnia quis usus erit, in suo quidque loco reponito.
 
-[69] Dolia olearia sic inbuito. Amurca inpleto dies VII, facito
+[] Dolia olearia sic inbuito. Amurca inpleto dies VII, facito
 ut amurcam cotidie suppleas. Postea amurcam eximito et afarcito. Ubi arebit,
 cummim pridie in aquam infundito, eam postridie diluito. Postea dolium
 calfacito minus, quam si picare velis, tepeat satis est; lenibus lignis
 facito calescat. Ubi temperate tepebit, tum cummim indito, postea linito.
 Si recte leveris, in dolium quinquagenarium cummim P. IIII satis erit.
 
-[70] Bubus medicamentum. Si morbum metues, sanis dato salis
+[] Bubus medicamentum. Si morbum metues, sanis dato salis
 micas tres, folia laurea III, porri fibras III, ulpici spicas III, alii
 spicas III, turis grana tria, herbae Sabinae plantas tres, rutae folia
 tria, vitis albae caules III, fabulos albos III, carbones vivos III, vini
@@ -855,31 +855,31 @@ dabit. Per triduum de ea potione uni cuique bovi dato. Ita dividito, cum
 ter uni cuique dederis, omnem absumas, bosque ipsus et qui dabit facito
 ut uterque sublimiter stent. Vaso ligneo dato.
 
-[71] Bos si aegrotare coeperit, dato continuo ei unum ovum
+[] Bos si aegrotare coeperit, dato continuo ei unum ovum
 gallinaceum crudum; integrum facito devoret. Postridie caput ulpici conterito
 cum hemina vini facitoque ebibat. Sublimiter terat et vaso ligneo det,
 bosque ipsus et qui dabit sublimiter stet. Ieiunus ieiuno bovi dato.
 
-[72] Boves ne pedes subterant, priusquam in viam quoquam ages,
+[] Boves ne pedes subterant, priusquam in viam quoquam ages,
 pice liquida cornua infima unguito.
 
-[73] Ubi uvae variae coeperint fieri, bubus medicamentum dato
+[] Ubi uvae variae coeperint fieri, bubus medicamentum dato
 quotannis, uti valeant. Pellem anguinam ubi videris, tollito et condito,
 ne quaeras cum opus siet. Eam pellem et far et salem et serpullum, haec
 omnia una conterito cum vino, dato bubus bibant omnibus. Per aestatem boves
 aquam bonam et liquidam bibant semper curato; ut valeant refert.
 
-[74] Panem depsticium sic facito. Manus mortariumque bene lavato.
+[] Panem depsticium sic facito. Manus mortariumque bene lavato.
 Farinam in mortarium indito, aquae paulatim addito subigitoque pulchre.
 Ubi bene subegeris, defingito coquitoque sub testu.
 
-[75] Libum hoc modo facito. Casei P. II bene disterat in mortario.
+[] Libum hoc modo facito. Casei P. II bene disterat in mortario.
 Ubi bene distriverit, farinae siligineae libram aut, si voles tenerius
 esse, selibram similaginis eodem indito permiscetoque cum caseo bene. Ovum
 unum addito et una permisceto bene. Inde panem facito, folia subdito, in
 foco caldo sub testu coquito leniter.
 
-[76] Placentam sic facito. Farinae siligineae L. II, unde solum
+[] Placentam sic facito. Farinae siligineae L. II, unde solum
 facias, in tracta farinae L. IIII et alicae primae L. II. Alicam in aquam
 infundito. Ubi bene mollis erit, in mortarium purum indito siccatoque bene.
 Deinde manibus depsito. Ubi bene subactum erit, farinae L. IIII paulatim
@@ -903,35 +903,35 @@ testo caldo operito, pruna insuper et circum operito. Aperito, dum inspicias,
 bis aut ter. Ubi cocta erit, eximito et melle unguito. Haec erit placenta
 semodialis.
 
-[77] Spiram sic facito. Quantum voles pro ratione, ita uti
+[] Spiram sic facito. Quantum voles pro ratione, ita uti
 placenta fit, eadem omnia facito, nisi alio modo fingito. In solo tracta
 cum melle oblinito bene. Inde tamquam restim tractes facito, ita inponito
 in solo, simplicibus conpleto bene arte. Cetera omnia, quasi placentam
 facias, facito coquitoque.
 
-[78] Scriblitam sic facito. In balteo tractis caseo ad eundem
+[] Scriblitam sic facito. In balteo tractis caseo ad eundem
 modum facito, uti placentam, sine melle.
 
-[79] Globos sic facito. Caseum cum alica ad eundem modum misceto.
+[] Globos sic facito. Caseum cum alica ad eundem modum misceto.
 Inde quantos voles facere facito. In ahenum caldum unguen indito. Singulos
 aut binos coquito versatoque crebro duabus rudibus, coctos eximito, eos
 melle unguito, papaver infriato, ita ponito.
 
-[80] Encytum ad eundem modum facito, uti globos, nisi calicem
+[] Encytum ad eundem modum facito, uti globos, nisi calicem
 pertusum cavum habeat. Ita in unguen caldum fundito. Honestum quasi spiram
 facito idque duabus rudibus vorsato praestatoque. Item unguito coloratoque
 caldum ne nimium. Id cum melle aut cum mulso adponito.
 
-[81] Erneum sic facito tamquam placentam. Eadem omnia indito,
+[] Erneum sic facito tamquam placentam. Eadem omnia indito,
 quae in placentam. Id permisceto in alveo, id indito in irneam fictilem,
 eam demittito in aulam aheneam aquae calidae plenam. Ita coquito ad ignem.
 Ubi coctum erit, irneam confringito, ita ponito.
 
-[82] Spaeritam sic facito, ita uti spiram, nisi sic fingito.
+[] Spaeritam sic facito, ita uti spiram, nisi sic fingito.
 De tractis caseo melle spaeras pugnum altas facito. Eas in solo conponito
 densas, eodem modo conponito atque spiram itemque coquito.
 
-[83] Votum pro bubus, uti valeant, sic facito. Marti Silvano
+[] Votum pro bubus, uti valeant, sic facito. Marti Silvano
 in silva interdius in capita singula boum votum facito. Farris L. III et
 lardi P. IIII S et pulpae P. IIII S, visi S. III, id in unum vas liceto
 coicere, et vinum item in unum vas liceto coicere. Eam rem divinam vel
@@ -939,31 +939,31 @@ servus vel liber licebit faciat. Ubi res divina facta erit, statim ibidem
 consumito. Mulier ad eam rem divinam ne adsit neve videat quo modo fiat.
 Hoc votum in annos singulos, si voles, licebit vovere.
 
-[84] Savillum hoc modo facito. Farinae selibram, casei P. II
+[] Savillum hoc modo facito. Farinae selibram, casei P. II
 S una conmisceto quasi libum, mellis P. * et ovum unum. Catinum fictile
 oleo unguito. Ubi omnia bene conmiscueris, in catinum indito, catinum testo
 operito. Videto ut bene percoquas medium, ubi altissimum erit. Ubi coctum
 erit, catinum eximito, papaver infriato, sub testum subde paulisper, postea
 eximito. Ita pone cum catillo et lingula.
 
-[85] Pultem Punicam sic coquito. Libram alicae in aquam indito,
+[] Pultem Punicam sic coquito. Libram alicae in aquam indito,
 facito uti bene madeat. Id infundito in alveum purum, eo casei recentis
 P. III, mellis P. S, ovum unum, omnia una permisceto bene. Ita insipito
 in aulam novam.
 
-[86] Graneam triticeam sic facito. Selibram tritici puri in
+[] Graneam triticeam sic facito. Selibram tritici puri in
 mortarium purum indat, lavet bene corticemque deterat bene eluatque bene.
 Postea in aulam indat et aquam puram cocatque. Ubi coctum erit, lacte addat
 paulatim usque adeo, donec cremor crassus erit factus.
 
-[87] Amulum sic facito. Siliginem purgato bene, postea in alvum
+[] Amulum sic facito. Siliginem purgato bene, postea in alvum
 indat, eo addat aquam bis in die. Die decimo aquam exsiccato, exurgeto
 bene, in alveo puro misceto bene, facito tamquam faex fiat. Id in linteum
 novum indito, exprimito cremorem in patinam novam aut in mortarium. Id
 omne ita facito et refricato denuo. Eam patinam in sole ponito, arescat.
 Ubi arebit, in aulam novam indito, inde facito cum lacte coquat.
 
-[88] Salem candidum sic facito. Amphoram defracto collo puram
+[] Salem candidum sic facito. Amphoram defracto collo puram
 inpleto aquae purae, in sole ponito. Ibi fiscellam cum sale populari suspendito
 et quassato suppletoque identidem. Id aliquotiens in die cotidie facito,
 usque adeo donec sal desiverit tabescere biduum. Id signi erit: menam aridam
@@ -972,14 +972,14 @@ salsamenta quo condas. Eam muriam in labella vel in patinas in sole ponito.
 Usque adeo in sole habeto, donec concreverit. Inde flos salis fiet. Ubi
 nubilabitur et noctu sub tecto ponito; cotidie, cum sol erit, in sole ponito.
 
-[89] Gallinas et anseres sic farcito. Gallinas teneras, quae
+[] Gallinas et anseres sic farcito. Gallinas teneras, quae
 primum parient, concludat. Polline vel farina hordeacia consparsa turundas
 faciat, eas in aquam intingat, in os indat, paulatim cotidie addat; ex
 gula consideret, quod satis sit. Bis in die farciat et meridie bibere dato;
 ne plus aqua sita siet horam unam. Eodem modo anserem alito, nisi prius
 dato bibere et bis in die, bis escam.
 
-[90] Palumbum recentem sic farcito. Ubi prensus erit, ei fabam
+[] Palumbum recentem sic farcito. Ubi prensus erit, ei fabam
 coctam tostam primum dato, ex ore in eius os inflato, item aquam. Hoc dies
 VII facito. Postea fabam fresam puram et far purum facito et fabae tertia
 pars ut infervescat, tum far insipiat, puriter facito et coquito bene.
@@ -987,28 +987,28 @@ Id ubi excluseris, depsito bene, oleo manum unguito, primum pusillum, postea
 magis depses, oleo tangito depsitoque, dum poterit facere turundas. Ex
 aqua dato, escam temperato.
 
-[91] Aream sic facito. Locum ubi facies confodito. Postea amurca
+[] Aream sic facito. Locum ubi facies confodito. Postea amurca
 conspargito bene sinitoque conbibat. Postea conminuito glebas bene. Deinde
 coaequato et paviculis verberato. Postea denuo amurca conspargito sinitoque
 arescat. Si ita feceris, neque formicae nocebunt neque herbae nascentur.
 
-[92] Frumento ne noceat curculio neu mures tangant. Lutum de
+[] Frumento ne noceat curculio neu mures tangant. Lutum de
 amurca facito, palearum paulum addito, sinito macerescant bene et subigito
 bene; eo granarium totum oblinito crasso luto. Postea conspargito amurca
 omne quod lutaveris. Ubi aruerit, eo frumentum refrigeratum condito; curculio
 non nocebit.
 
-[93] Olea si fructum non feret, ablaqueato. Postea stramenta
+[] Olea si fructum non feret, ablaqueato. Postea stramenta
 circumponito. Postea amurcam cum aqua conmisceto aequas partes. Deinde
 ad oleam circumfundito. Ad arborem maxumam urnam conmixti sat est; ad minores
 arbores pro ratione indito. Et idem hoc si facies ad arbores feraces, eae
 quoque meliores fient. Ad eas stramenta ne addideris.
 
-[94] Fici uti grossos teneant, facito omnia quo modo oleae,
+[] Fici uti grossos teneant, facito omnia quo modo oleae,
 et hoc amplius, cum ver adpetet, terram adaggerato bene. Si ita feceris,
 et grossi non cadent et fici scabrae non fient et multo feraciores erunt.
 
-[95] Convolvolus in vinia ne siet. Amurcam condito, puram bene
+[] Convolvolus in vinia ne siet. Amurcam condito, puram bene
 facito, in vas aheneum indito congios II. Postea igni leni coquito, rudicula
 agitato crebro usque adeo, dum fiat tam crassum quam mel. Postea sumito
 bituminis tertiarium et sulpuris quartarium. Conterito in mortario seorsum
@@ -1018,7 +1018,7 @@ et sulpur additum est, excandescet. Ubi erit tam crassum quam viscum, sinito
 frigescat. Hoc vitem circum caput et sub brachia unguito; convolvus non
 nascetur.
 
-[96] Oves ne scabrae fiant. Amurcam condito, puram bene facito,
+[] Oves ne scabrae fiant. Amurcam condito, puram bene facito,
 aquam in qua lupinus deferverit et faecem de vino bono, inter se omnia
 conmisceto pariter. Postea cum detonderis, unguito totas, sinito biduum
 aut triduum consudent. Deinde lavito in mari; si aquam marinam non habebis,
@@ -1026,49 +1026,49 @@ facito aquam salsam, ea lavito. Si haec sic feceris, neque scabrae fient
 et lanae plus et meliorem habebunt, et ricini non erunt molesti. Eodem
 in omnes quadripedes utito, si scabrae erunt.
 
-[97] Amurca decocta axem unguito et lora et calciamenta et
+[] Amurca decocta axem unguito et lora et calciamenta et
 coria; omnia meliora facies.
 
-[98] Vestimenta ne tiniae tangant. Amurcam decoquito ad dimidium,
+[] Vestimenta ne tiniae tangant. Amurcam decoquito ad dimidium,
 ea unguito fundum arcae et extrinsecus et pedes et angulos. Ubi ea adaruerit,
 vestimenta condito. Si ita feceris, tiniae non nocebunt. Et item ligneam
 supellectilem omnem si ungues, non putescet, et cum ea terseris, splendidior
 fiet. Item ahenea omnia unguito, sed prius extergeto bene. Postea cum unxeris,
 cum uti voles, extergeto. Splendidior erit, et aerugo non erit molesta.
 
-[99] Fici aridae si voles uti integrae sint, in vas fictile
+[] Fici aridae si voles uti integrae sint, in vas fictile
 condito. Id amurca decocta unguito.
 
-[100] Oleum si in metretam novam inditurus eris, amurca, ita
+[] Oleum si in metretam novam inditurus eris, amurca, ita
 uti est cruda, prius conluito agitatoque diu, ut bene conbibat. Id si feceris,
 metreta oleum non bibet, et oleum melius faciet, et ipsa metreta firmior
 erit.
 
-[101] Virgas murteas si voles cum bacis servare et item aliud
+[] Virgas murteas si voles cum bacis servare et item aliud
 genus quod vis, et si ramos ficulneos voles cum foliis, inter se alligato,
 fasciculos facito, eos in amurcam demittito, supra stet amurca facito.
 Sed ea quae demissurus eris sumito paulo acerbiora. Vas, quo condideris,
 oblinito plane.
 
-[102] Si bovem aut aliam quamvis quadrupedem serpens momorderit,
+[] Si bovem aut aliam quamvis quadrupedem serpens momorderit,
 melanthi acetabulum, quod medici vocant zmurnaeum, conterito in vini veteris
 hemina: id per nares indito et ad ipsum morsum stercus suillum apponito.
 Et idem hoc, si usus evenerit, homini facito.
 
-[103] Boves uti valeant et curati bene sint, et qui fastidient
+[] Boves uti valeant et curati bene sint, et qui fastidient
 cibum, uti magis cupide adpetant, pabulum quod dabis amurca spargito; primo
 pabulum, dum consuescant, postea magis, et dato rarenter bibere conmixtam
 cum aqua aequabiliter. Quarto quinto quoque die hoc sic facies. Ita boves
 et corpore curatiores erunt, et morbus aberit.
 
-[104] Vinum familiae per hiemem qui utatur. Musti Q. X in dolium
+[] Vinum familiae per hiemem qui utatur. Musti Q. X in dolium
 indito, aceti acris Q. II eodem infundito, sapae Q. II, aquae dulcis Q.
 L. Haec rude misceto ter in die dies quinque continuos. Eo addito aquae
 marinae veteris sextarios LXIIII et operculum in dolium inponito et oblinito
 post dies X. Hoc vinum durabit tibi usque ad solstitium. Siquid superfuerit
 post solstitium, acetum acerrimum et pulcherrimum erit.
 
-[105] Qui ager longe a mari aderit, ibi vinum Graecum sic facito.
+[] Qui ager longe a mari aderit, ibi vinum Graecum sic facito.
 Musti Q. XX in aheneum aut plumbeum infundito, ignem subdito. Ubi bullabit
 vinum, ignem subducito. Ubi id vinum refrixerit, in dolium quadragenarium
 infundito. Seorsum vas aquae dulcis Q. I infundito, salis M I, sinito muriam
@@ -1078,14 +1078,14 @@ ut odoratum siet. Post dies XXX dolium oblinito. Ad ver diffundito in amphoras.
 Biennium in sole sinito positum esse. Deinde in tectum conferto. Hoc vinum
 deterius non erit quam Coum.
 
-[106] Aquae marinae concinnatio. Aquae marinae Q. I ex alto
+[] Aquae marinae concinnatio. Aquae marinae Q. I ex alto
 sumito, quo aqua dulcis non accedit. Sesquilibram salis frigito, eodem
 indito et rude misceto usque adeo, donec ovum gallinaceum coctum natabit,
 desinito miscere. Eodem vini veteris vel Aminnii vel miscelli albi congios
 II infundito, misceto probe. Postea vas picatum confundito et oblinito.
 Siquid plus voles aquae marinae concinnare, pro portione ea omnia facito.
 
-[107] Quo labra doliorum circumlinas, ut bene odorata sint et
+[] Quo labra doliorum circumlinas, ut bene odorata sint et
 nequid viti in vinum accedat. Sapae congios VI quam optimae infundito in
 aheneum aut in plumbeum et iris aridae contusae heminam et sertam Campanicam
 P. V bene odoratam una cum iri contundas quam minutissime, per cribrum
@@ -1093,31 +1093,31 @@ cernas et una cum sapa coquas sarmentis et levi flamma. Commoveto, videto
 ne aduras. Usque coquito, dum dimidium excoquas. Ubi refrixerit, confundito
 in vas picatum bene odoratum et oblinito et utito in labra doliorum.
 
-[108] Vinum si voles experiri duraturum sit necne, polentam
+[] Vinum si voles experiri duraturum sit necne, polentam
 grandem dimidium acetabuli in caliculum novum indito et vini sextarium
 de eo vino quod voles experiri eodem infundito et inponito in carbones;
 facito bis aut ter inferveat. Tum id percolato, polentam abicito. Vinum
 ponito sub dio. Postridie mane gustato. Si id sapiet, quod in dolio est,
 scito duraturum; si subacidum erit, non durabit.
 
-[109] Vinum asperum quod erit lene et suave si voles facere,
+[] Vinum asperum quod erit lene et suave si voles facere,
 sic facito. De ervo farinam facito libras IIII et vini cyathos IIII conspargito
 sapa. Postea facito laterculos. Sinito conbibant noctem et diem. Postea
 conmisceto cum eo vino in dolio et oblinito post dies LX. Id vinum erit
 lene et suave et bono colore et bene odoratum.
 
-[110] Odorem deteriorem demere vino. Testam de tegula crassam
+[] Odorem deteriorem demere vino. Testam de tegula crassam
 puram calfacito in igni bene. Ubi calebit, eam picato, resticula alligato,
 testam demittito in dolium infimum leniter, sinito biduum oblitum dolium.
 Si demptus erit odor deterior, id optime; si non, saepius facito, usque
 dum odorem malum dempseris.
 
-[111] Si voles scire, in vinum aqua addita sit necne, vasculum
+[] Si voles scire, in vinum aqua addita sit necne, vasculum
 facito de materia hederacia. Vinum id, quod putabis aquam habere, eo demittito.
 Si habebit aquam, vinum effluet, aqua manebit. Nam non continet vinum vas
 hederaceum.
 
-[112] Vinum Coum si voles facere, aquam ex alto marinam sumito
+[] Vinum Coum si voles facere, aquam ex alto marinam sumito
 mari tranquillo, cum ventus non erit, dies LXX ante vindemiam, quo aqua
 dulcis non perveniet. Ubi hauseris de mari, in dolium infundito, nolito
 inplere, quadrantalibus quinque minus sit quam plenum. Operculum inponito,
@@ -1135,7 +1135,7 @@ dolium, operculo operito, relinquito qua interspiret. Ubi triduum praeterierit,
 eximito de dolio et calcato in torculario et id vinum condito in dolia
 lauta et pura et sicca.
 
-[113] Ut odoratum bene sit, sic facito. Sumito testam picatam,
+[] Ut odoratum bene sit, sic facito. Sumito testam picatam,
 eo prunam lenem indito, suffito serta et schoeno et palma, quam habent
 unguentarii, ponito in dolio et operito, ne odor exeat, antequam vinum
 indas. Hoc facito pridie quam vinum infundere voles. De lacu quam primum
@@ -1146,7 +1146,7 @@ nimium, ansarum infimarum fini, et amphoras in sole ponito, ubi herba non
 siet, et amphoras operito, ne aqua accedat, et ne plus quadriennium in
 sole siveris. Post quadriennium in cuneum conponito et instipato.
 
-[114] Vinum si voles concinnare, ut alvum bonam faciat, secundum
+[] Vinum si voles concinnare, ut alvum bonam faciat, secundum
 vindemiam, ubi vites ablaqueantur, quantum putabis ei rei satis esse vini,
 tot vites ablaqueato et signato. Earum radices circumsecato et purgato.
 Veratri atri radices contundito in pila, eas radices dato circum vitem
@@ -1156,7 +1156,7 @@ in vetustatem ad alvum movendam, servato, ne conmisceas cum etero vino.
 De eo vino cyathum sumito et misceto aqua et bibito ante cenam. Sine periculo
 alvum movebit.
 
-[115] In vinum mustum veratri atri manipulum coicito in amphoram.
+[] In vinum mustum veratri atri manipulum coicito in amphoram.
 Ubi satis efferverit, de vino manipulum eicito. Id vinum servato ad alvum
 movendam. Vinum ad alvum movendam concinnare. Vites cum ablaqueabuntur,
 signato rubrica, ne admisceas cum cetero vino. Tris fasciculos veratri
@@ -1164,59 +1164,59 @@ atri circumponito circum radices et terram insuper inicito. Per vindemiam
 de iis vitibus quod delegeris, seorsum servato, cyathum in ceteram potionem
 indito. Alvum movebit et postridie pepurgabit sine periculo.
 
-[116] Lentim quo modo servare oporteat. Laserpicium aceto diluito,
+[] Lentim quo modo servare oporteat. Laserpicium aceto diluito,
 permisceto lentim aceto laserpiciato et ponito in sole. Postea lentim oleo
 perfricato, sinito arescat. Ita integra servabitur recte.
 
-[117] Oleae albae quo modo condiantur. Antequam nigrae fiant,
+[] Oleae albae quo modo condiantur. Antequam nigrae fiant,
 contundantur et in aquam deiciantur. Crebro aquam mutet. Deinde, ubi satis
 maceratae erunt, exprimat et in acetum coiciat et oleum addat, salis selibram
 in modium olearum. Feniculum et lentiscum seorsum condat in acetum. Si
 una admiscere voles, cito utito. In orculam calcato. Manibus siccis, cum
 uti voles, sumito.
 
-[118] Oleam albam, quam secundum vindemiam uti voles, sic condito.
+[] Oleam albam, quam secundum vindemiam uti voles, sic condito.
 Musti tantumdem addito, quantum aceti. Cetera item condito ita, uti supra
 scriptum est.
 
-[119] Epityrum album nigrum variumque sic facito. Ex oleis albis
+[] Epityrum album nigrum variumque sic facito. Ex oleis albis
 nigris variisque nucleos eicito. Sic condito. Concidito ipsas, addito oleum,
 acetum coriandrum, cuminum feniculum rutam, mentam. In orcuam condito,
 oleum supra siet. Ita utito.
 
-[120] Mustum si voles totum annum habere, in amphoram mustum
+[] Mustum si voles totum annum habere, in amphoram mustum
 indito et corticem oppicato, demittito in piscinam. Post dies XXX eximito.
 Totum annum mustum erit.
 
-[121] Mustaceos sic facito. Farinae siligneae modium unum musto
+[] Mustaceos sic facito. Farinae siligneae modium unum musto
 conspargito. Anesum, cuminum, adipis P. II, casei libram, et de virga lauri
 deradito, eodem addito, et ubi definxeris, lauri folia subtus addito, cum
 coques.
 
-[122] Vinum concinnare, si lotium difficilius transibit. Capreidam
+[] Vinum concinnare, si lotium difficilius transibit. Capreidam
 vel iunipirum contundito in pila, libram indito, in duobus congiis vini
 veteris in vase aheneo vel in plumbeo defervefacito. Ubi refrixerit, in
 lagonam indito. Id mane ieiunus sumito cyathum; proderit.
 
-[123] Vinum ad isc[h]iacos sic facito. De iunipiro materiem
+[] Vinum ad isc[h]iacos sic facito. De iunipiro materiem
 semipedem crassam concidito minutim. Eam infervefacito cum congio vini
 veteris. Ubi refrixerit, in lagonam confundito et postea id utito cyathum
 mane ieiunus; proderit.
 
-[124] Canes interdiu clausos esse oportet, ut noctu acriores
+[] Canes interdiu clausos esse oportet, ut noctu acriores
 et vigilantiores sint.
 
-[125] Vinum murteum sic facito. Murtam nigram arfacito in umbra.
+[] Vinum murteum sic facito. Murtam nigram arfacito in umbra.
 Ubi iam passa erit, servato ad vindemiam, in urnam musti contundito murtae
 semodium, id oblinito. Id est ad alvum crudam et ad lateris dolorem et
 ad coeliacum.
 
-[126] Ad tormina, et si alvus non consistet, et si taeniae et
+[] Ad tormina, et si alvus non consistet, et si taeniae et
 lumbrici molesti erunt. XXX mala Punica acerba sumito, contundito, indito
 in urceum et vini nigri austeri congios III. Vas oblinito. Post dies XXX
 aperito et utito; ieiunus heminam bibito.
 
-[127] Ad dyspepsiam et stranguriam mederi. Malum Punicum ubi
+[] Ad dyspepsiam et stranguriam mederi. Malum Punicum ubi
 florebit, conligito, tris minas in amphoram infundito, vini Q. I veteris
 addito et feniculi radicem puram contusam minam. Oblinito amphoram et post
 dies XXX aperito et utito. Ubi voles cibum concoquere et lotium facere,
@@ -1226,25 +1226,25 @@ unam conterito et mel coctum drachmam unam et vini sextarium origaniti.
 Dato ieiuno, et puero pro aetate triobolum et vini hemina. Supra pilam
 inscendat et saliat decies et deambulet.
 
-[128] Habitationem delutare. Terram quam maxime cretosam vel
+[] Habitationem delutare. Terram quam maxime cretosam vel
 rubricosam, eo amurcam infundito, paleas indito. Sinito quadriduum fracescat.
 Ubi bene fracuerit, rutro concidito. Ubi concideris, delutato. Ita neque
 aspergo nocebit, neque mures cava facient, neque herba nascetur, neque
 lutamenta scindent se.
 
-[129] Aream, ubi frumentum teratur, sic facito. Confodiatur
+[] Aream, ubi frumentum teratur, sic facito. Confodiatur
 minute terra, amurca bene conspargatur et conbibat quam plurimum. Conminuito
 terram et cylindro aut pavicula coaequato. Ubi coaequata erit, neque formicae
 molestae erunt, et cum pluerit, lutum non erit.
 
-[130] Codicillos oleagineos et cetera ligna amurca cruda perspargito
+[] Codicillos oleagineos et cetera ligna amurca cruda perspargito
 et in sole ponito, perbibant bene. Ita neque fumosa erunt et ardebunt bene.
 
-[131] Piro florente dapem pro bubus facito. Postea verno arare
+[] Piro florente dapem pro bubus facito. Postea verno arare
 incipito. Ea loca primum arato, quae rudecta harenosaque erunt. Postea
 uti quaeque gravissima et aquosissima erunt, ita postremo arato.
 
-[132] Dapem hoc modo fieri oportet. Iovi dapali culignam vini
+[] Dapem hoc modo fieri oportet. Iovi dapali culignam vini
 quantam vis polluceto. Eo die feriae bubus et bubulcis et qui dapem facient.
 Cum pollucere oportebit, sic facies: "Iuppiter dapalis, quod tibi fieri
 oportet in domo familia mea culignam vini dapi, eius rei ergo macte hac
@@ -1253,7 +1253,7 @@ dapalis, macte istace dape polluenda esto, macte vino inferio esto." Vestae,
 si voles, dato. Daps Iovi assaria pecuina urna vini. Iovi caste profanato
 sua contagione. Postea dape facta serito milium, panicum, alium, lentim.
 
-[133] Propagatio pomorum ceterarumque arborum. Arboribus abs
+[] Propagatio pomorum ceterarumque arborum. Arboribus abs
 terra pulli qui nati erunt, eos in terram deprimito, extollito, uti radicem
 capere possint. Inde, ubi tempus erit, effodito seritoque recte. Ficum,
 oleam, malum Punicum, mala strutea, cotonea aliaque mala omnia, laurum
@@ -1267,7 +1267,7 @@ cum quasillo serito. Eo modo quod vis genus arborum facere poteris uti
 radices bene habeant. Item vitem in quasillum propagato terraque bene operito,
 anno post praecidito, cum qualo serito.
 
-[134] Priusquam messim facies, porcam praecidaneam hoc modo
+[] Priusquam messim facies, porcam praecidaneam hoc modo
 fieri oportet. Cereri porca praecidanea porco femina, priusquam hasce fruges
 condas, far, triticum, hordeum, fabam, semen rapicium. Ture vino Iano Iovi
 Iunoni praefato, priusquam porcum feminam immolabis. Iano struem [c]ommoveto
@@ -1283,7 +1283,7 @@ fertum obmoveto mactatoque item, uti prius feceris. Item Iano vinum dato
 et Iovi vinum dato, item uti prius datum ob struem obmovendam et fertum
 libandum. Postea Cereri exta et vinum dato.
 
-[135] Romae tunicas, togas, saga, centones, sculponeas; Calibus
+[] Romae tunicas, togas, saga, centones, sculponeas; Calibus
 et Minturnis cuculliones, ferramenta, falces, palas, ligones, secures,
 ornamenta, murices, catellas; Venafri palas. Suessae et in Lucanis plostra,
 treblae
@@ -1318,22 +1318,22 @@ trapetum latum P. IIII, inter miliarium et labrum P. I, labrum digitos
 V, orbis altos P. III digitos III, crassos P. I et digitos II. Trapetum
 ubi arvectum erit, ubi statues, ibi accommodato concinnatoque.
 
-[136] Politionem quo pacto partiario dari oporteat. In agro
+[] Politionem quo pacto partiario dari oporteat. In agro
 Casinate et Venafro in loco bono parti octava corbi divicat, satis bono
 septima, tertio loco sexta; si granum modio dividet, parti quinta. In Venafro
 ager optimum nona parti corbi dividat. Si communiter pisunt, qua ex parte
 politori pars est, eam partem in pistrinum politor. Hordeum quinta modio,
 fabam quinta modio dividat.
 
-[137] Vineam curandam partiario. Bene curet fundum, arbustum,
+[] Vineam curandam partiario. Bene curet fundum, arbustum,
 agrum frumentarium. Partiario faenum et pabulum, quod bubus satis siet,
 qui illic sient. Cetera omnia pro indiviso.
 
-[138] Boves feriis coniungere licet. Haec licet facere: arvehant
+[] Boves feriis coniungere licet. Haec licet facere: arvehant
 ligna, fabalia, frumentum, quod conditurus erit. Mulis, equis, asinis feriae
 nullae, nisi si in familia sunt.
 
-[139] Lucum conlucare Romano more sic oportet: porco piaculo
+[] Lucum conlucare Romano more sic oportet: porco piaculo
 facito, sic verba concipito: "Si deus, si dea es, quoiium illud sacrum
 est, uti tibi ius est porco piaculo facere illiusce sacri coercendi ergo
 harumque rerum ergo, sive ego sive quis iussu meo fecerit, uti id recte
@@ -1341,12 +1341,12 @@ factum siet, eius rei ergo hoc porco piaculo immolando bonas preces precor,
 uti sies volens propitius mihi domo familiaeque meae liberisque meis: harumce
 rerum ergo macte hoc porco piaculo immolando esto".
 
-[140] Si fodere voles, altero piaculo eodem modo facito, hoc
+[] Si fodere voles, altero piaculo eodem modo facito, hoc
 amplius dicito: "Operis faciundi causa". Dum opus, cotidie per partes facito.
 Si intermiseris aut feriae publicae aut familiares intercesserint, altero
 piaculo facito.
 
-[141] Agrum lustrare sic oportet. Impera suovitaurilia circumagi:
+[] Agrum lustrare sic oportet. Impera suovitaurilia circumagi:
 "Cum divis volentibus quodque bene eveniat, mando tibi, Mani, uti illace
 suovitaurilia fundum agrum terramque meam quota ex parte sive circumagi
 sive circumferenda censeas, uti cures lustrare." Ianum Iovemque vino praefamino,
@@ -1417,14 +1417,14 @@ in omnis litabit, sic verba concipito:
 "Mars pater, quod tibi illoc porco neque satisfactum
 est, te hoc porco piaculo".
 
-[142] Vilici officia quae sunt, quae dominus praecepit, ea omnia
+[] Vilici officia quae sunt, quae dominus praecepit, ea omnia
 quae in fundo fieri oportet quaeque emi pararique oportet, quo modoque
 cibaria, vestimenta familiae dari oportet, eadem uti curet faciatque moneo
 dominoque dicto audiens sit. Hoc amplius, quo modo vilicam uti oportet
 et quo modo eae imperari oportet, uti adventu domini quae opus sunt parentur
 curenturque diligenter.
 
-[143] Vilicae quae sunt officia curato faciat; si eam tibi dederit
+[] Vilicae quae sunt officia curato faciat; si eam tibi dederit
 dominus uxorem, esto contentus; ea te metuat facito; ne nimium luxuriosa
 siet; vicinas aliasque mulieres quam minimum utatur neve domum neve ad
 sese recipiat; ad coenam ne quo eat neve ambulatrix siet; rem divinam ni
@@ -1440,7 +1440,7 @@ Praenestinas recentes in urceo in terra obrutas habeat. Mala Scantiana
 in doliis et alia quae condi solent et silvatica, haec omnia quotannis
 diligenter uti condita habeat. Farinam bonam et far suptile sciat facere.
 
-[144] Oleam legendam hoc modo locare oportet. Oleam cogito recte
+[] Oleam legendam hoc modo locare oportet. Oleam cogito recte
 omnem arbitratu domini, aut quem custodem fecerit, aut cui olea venierit.
 Oleam ne stringito neve verberato iniussu domini aut custodis. Si adversus
 ea quis fecerit, quod ipse eo die delegerit, pro eo nemo solvet neque debebitur.
@@ -1464,7 +1464,7 @@ Accessiones: in M xx CC accedit oleae salsae M V, olei puri P. VIIII, in
 tota oletate aceti Q. V. Quod oleae salsae non acceperint, dum oleam legent,
 in modios singulos SS. V dabuntur.
 
-[145] Oleam faciundam hac lege oportet locare. Facito recte
+[] Oleam faciundam hac lege oportet locare. Facito recte
 arbitratu domini aut custodis, qui id negotium curabit. Si sex iugis vasis
 opus erit, facito. Homines eos dato, qui placebunt aut custodi aut quis
 eam oleam emerit. Si opus erit trapetis facito. Si operarii conducti erunt
@@ -1479,7 +1479,7 @@ aut custos. Siquid redemptoris opera domino damni datum erit, viri boni
 arbitratu deducetur. Si viride oleum opus siet, facito. Accedet oleum et
 sale suae usioni quod satis siet, vasarium vict. II.
 
-[146] Oleam pendentem hac lege venire oportet. Olea pendens
+[] Oleam pendentem hac lege venire oportet. Olea pendens
 in fundo Venafro venibit. Qui oleam emerit, amplius quam quanti emerit
 omnis pecuniae centesima accedet, praeconium praesens SS. L, et oleum:
 Romanici P. xx D, viridis P. CC, oleae caducae M L, strictivae M X modio
@@ -1496,12 +1496,12 @@ opus fecerint, non solverit, cui dari oportebit, si dominus volet, solvat.
 Emptor domino debeto et id satis dato, proque ea re ita uti S. S. E item
 pignori sunto.
 
-[147] Hac lege vinum pendens venire oportet. Vinaceos inlutos
+[] Hac lege vinum pendens venire oportet. Vinaceos inlutos
 et faecem relinquito. Locus vinis ad K. Octob. primas dabitur. Si non ante
 ea exportaverit, dominus vino quid volet faciet. Cetera lex, quae oleae
 pendenti.
 
-[148] Vinum in doliis hoc modo venire oportet. Vini in culleos
+[] Vinum in doliis hoc modo venire oportet. Vini in culleos
 singulos quadragenae et singulae urnae dabuntur. Quod neque aceat neque
 muceat, id dabitur. In triduo proxumo viri boni arbitratu degustato. Si
 non ita fecerit, vinum pro degustato erit. Quot dies per dominum mora fuerit,
@@ -1512,7 +1512,7 @@ dabit verum fecisse. Locus vinis ad K. Octobres primas dabitur. Si ante
 non deportaverit, dominus vino quid volet faciet. Cetera lex, quae oleae
 pendenti.
 
-[149] Qua lege pabulum hibernum venire oporteat. Qua vendas
+[] Qua lege pabulum hibernum venire oporteat. Qua vendas
 fini dicito. Pabulum frui occipito ex Kal. Septembribus. Prato sicco decedat,
 ubi prius florere coeperit; prato inriguo, ubi super inferque vicinus permittet,
 tum decedito, vel diem certam utrique facito. Cetero pabulo Kal. Martiis
@@ -1525,7 +1525,7 @@ pecuniam solverit aut satisfecerit aut deligarit, pecus et familia, quae
 illic erit, pigneri sunto. Siquid de iis rebus controversiae erit, Romae
 iudicium fiat.
 
-[150] Fructum ovium hac lege venire oportet. In singulas casei
+[] Fructum ovium hac lege venire oportet. In singulas casei
 P. I S dimidium aridum, lacte feriis quod mulserit dimidium et praeterea
 lactis urnam unam; hisce legibus, agnus diem et noctem qui vixerit in fructum;
 et Kal. Iun. emptor fructu decedat; si interkalatum erit, K. Mais. Agnos
@@ -1534,7 +1534,7 @@ fructu cedent. Ex quo die lanam et agnos vendat menses X ab coactore releget.
 Porcos serarios in oves denas singulos pascat. Conductor duos menses pastorem
 praebeat. Donec domino satisfecerit aut solverit, pignori esto.
 
-[151] Semen cupressi quo modo legi seri propagarique oporteat
+[] Semen cupressi quo modo legi seri propagarique oporteat
 et quo pacto cupresseta seri oporteat, Minius Percennius Nolanus ad hunc
 modum monstravit. Semen cupressi Tarentinae per ver legi oportet; materiem,
 ubi hordeum flavescit. Id ubi legeris, in sole ponito, semen purgato. Id
@@ -1553,22 +1553,22 @@ aquam addas. Si herbae natae erunt, facito uti ab herbis purges. Per aestatem
 ita uti dictum est fieri oportet, et ubi semen satum siet, stramentis operiri;
 ubi germinascere coeperit, tum demi.
 
-[152] De scopis virgeis, Q. A. M. Manlii monstraverunt. In diebus
+[] De scopis virgeis, Q. A. M. Manlii monstraverunt. In diebus
 XXX, quibus vinum legeris, aliquotiens facito scopas virgeas ulmeas aridas,
 in asserculo alligato, eabus latera doliis intrinsecus usque bene perfricato,
 ne faex in lateribus adhaerescat.
 
-[153] Vinum faecatum sic facito. Fiscinas olearias Campanicas
+[] Vinum faecatum sic facito. Fiscinas olearias Campanicas
 duas illae rei habeto. Eas faecis inpleto sub prelumque subdito exprimitoque.
 
-[154] Vinum emptoribus sine molestia quo modo admetiaris. Labrum
+[] Vinum emptoribus sine molestia quo modo admetiaris. Labrum
 culleare illae rei facito. Id habeat ad summum ansas IIII, uti transferri
 possitur. Id imum pertundito; ea fistulam subdito, uti opturarier recte
 possit; et ad summum, qua fini culleum capiet, pertundito. Id in suggestu
 inter dolia positum habeto, uti in culleum de dolio vinum salire possit.
 Id inpleto, postea obturato.
 
-[155] Per hiemen aquam de agro depelli oportet. In monte fossas
+[] Per hiemen aquam de agro depelli oportet. In monte fossas
 inciles puras habere oportet. Prima autumnitate cum pulvis est, tum maxime
 ab aqua periculum est. Cum pluere incipiet, familiam cum ferreis sarculisque
 exire oportet, incilia aperire, aquam diducere in vias et curare oportet
@@ -1577,7 +1577,7 @@ signare carbone, cum desierit pluere, uti tegula mutetur. Per segetem in
 frumentis aut in segete aut in fossis sicubi aqua sonstat aut aliquid aquae
 obstat, id emittere, patefieri removerique oportet.
 
-[156] De brassica quod concoquit. Brassica est quae omnibus
+[] De brassica quod concoquit. Brassica est quae omnibus
 holeribus antistat. Eam esto vel coctam vel crudam. Crudam si edes, in
 acetum intinguito. Mirifice concoquit, alvum bonam facit, lotiumque ad
 omnes res salubre est. Si voles in convivio multum bibere cenareque libenter,
@@ -1614,7 +1614,7 @@ non omnem. Eo addito oleum bene et salem et cumini paululum, infervefacito
 paulisper. Postea inde iusculum frigidum sorbere et ipsam brassicam esse,
 uti quam primum excoquatur. Cotidie id facito.
 
-[157] De brassica Pythagorea, quid in ea boni sit salubritatisque.
+[] De brassica Pythagorea, quid in ea boni sit salubritatisque.
 Principium te cognoscere oportet, quae genera brassicae sint et cuius modi
 naturam habeant. Omnia ad salutem temperat conmutatque sese semper cum
 calore, arida simul et umida et dulcis et amara et acris. Sed quae vocantur
@@ -1695,7 +1695,7 @@ terito cum vino brassicam, sucum exprimito, in aurem intro tepidum instillato;
 cito te intelleges plus audire. Depetigini spurcae brassicam opponito,
 sanam faciet et ulcus non faciet.
 
-[158] Alvum deicere hoc modo oportet, si vis bene tibi deicere.
+[] Alvum deicere hoc modo oportet, si vis bene tibi deicere.
 Sume tibi ollam, addito eo aquae sextarios sex et eo addito ungulam de
 perna. Si ungulam non habebis, addito de perna frustum P. S quam minime
 pingue. Ubi iam coctum incipit esse, eo addito brassicae coliculos duos,
@@ -1709,10 +1709,10 @@ licebit bibas. Ex iis tot rebus quod scriptum est unum, quod eorum vis,
 alvum deicere potest. Verum ea re tot res sunt, uti bene deicias, et suave
 est.
 
-[159] Intertigini remedium. In viam cum ibis, apsinthi Pontici
+[] Intertigini remedium. In viam cum ibis, apsinthi Pontici
 surculum sub anulo habeto.
 
-[160] Luxum siquod est, hac cantione sanum fiet. Harundinem
+[] Luxum siquod est, hac cantione sanum fiet. Harundinem
 prende tibi viridem P. IIII aut quinque longam, mediam diffinde, et duo
 homines teneant ad coxendices. Incipe cantare: "Motas uaeta daries dardares
 astaries dissunapiter" usque dum coeant. Ferrum insuper iactato. Ubi coierint
@@ -1720,7 +1720,7 @@ et altera alteram tetigerint, id manu prehende et dextera sinistra praecide,
 ad luxum aut ad fracturam alliga, sanum fiet. Et tamen cotidie cantato
 et luxato vel hoc modo: "huat haut haut istasis tarsis ardannabou dannaustra".
 
-[161] Asparagus quo modo seratur. Locum subigere oportet bene
+[] Asparagus quo modo seratur. Locum subigere oportet bene
 qui habeat humorem aut loco crasso; ubi erit subactus, areas facito, uti
 possis dextra sinistraque sarire, runcare, ne calcetur; cum areas deformabis,
 intervallum facito inter areas semipedem latum in omnes partes; deinde
@@ -1741,7 +1741,7 @@ ne minus pedes singulos inter radices asparagi. Evellito, sed circumfodito,
 ut facile vellere possis; caveto ne frangatur. Stercus ovillum quam plurimum
 fac ingeras; id est optimum ad eam rem; aliud stercus herbas creat.[
 
-[162] Salsura pernarum ofellae Puteolanae. Pernas sallire sic
+[] Salsura pernarum ofellae Puteolanae. Pernas sallire sic
 oportet in dolio aut in seria. Cum pernas emeris, ungulas earum praecidito.
 Salis Romaniensis moliti in singulas semodios. In fundo dolii aut seriae
 sale sternito, deinde pernam ponito, cutis deorsum spectet, sale obruito
