@@ -132,8 +132,9 @@ class manipulateText():
             return string[1:]
         return string
     def addNewLine(self,string):
-        if len(string)<80:
-            return string
+        print("running\n")
+        #if len(string)<80:
+            #return string
         punctuation = set(",.;!?:")
         #increment down through string
         for i in range (len(string) - 1, -1, -1):

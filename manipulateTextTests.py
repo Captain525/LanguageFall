@@ -1,5 +1,6 @@
 from manipulateText import manipulateText
-
+def main():
+        runTests()
 
 
 def runTests():
@@ -7,6 +8,7 @@ def runTests():
         testParenthesesRemove()
         testBracketsRemove()
         testRemoveBlankLine()
+        testRemoveDividers()
 
 def testAddNewLine():
         string =  "hello there. I don't know what your problem is, but i want it to stop!\n"
@@ -31,3 +33,11 @@ def testRemoveBlankLine():
         newString = text.removeBlankLine(string)
         #print(newString)
         assert(newString == "Hi hello how are you")
+def testRemoveDividers():
+        string = "c teh thing is that what i want is b what you can do to stop me."
+        text = manipulateText();
+        newString = text.removeDividers(string, 'c', 'b')
+        print(newString)
+        assert(newString == " what you can do to stop me.");
+if __name__== "__main__":
+    main()

@@ -127,9 +127,9 @@ def main():
     #print(latinList);
     #remove(frenchList, "Old French")
     #remove(fileList, "Old English")
-    #count = manipulateText()
+    count = manipulateText()
     #test = manipulateTextTests.runTests()
-   #subDirectory = os.getcwd() + "/" + "Old French"
+    subDirectory = os.getcwd() + "/" + "Old Latin"
    # for i in range (24,28):
         #count.remove(subDirectory + "/" + frenchList[i], 2)
     #file = subDirectory + "/" + frenchList[1]
@@ -138,7 +138,7 @@ def main():
     #print(count.countWords(fileList, os.getcwd() + "/Old English"))
     #print(count.countWords(frenchList, os.getcwd() + "/Old French"))
     #print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
-
+    count.remove(subDirectory +"/"+ latinList[28],0)
     cv = makeCSV
     list = []
     list.append(cv.makeTuple(fileList, "Old English"))
