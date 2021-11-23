@@ -140,6 +140,7 @@ def main():
     #print(count.countWords(frenchList, os.getcwd() + "/Old Latin"))
     for i in range(0, 25):
         count.remove(subDirectory +"/"+ fileList[i],6)
+        count.remove(subDirectory + "/" + fileList[i], 5)
     cv = makeCSV
     list = []
     list.append(cv.makeTuple(fileList, "Old English"))

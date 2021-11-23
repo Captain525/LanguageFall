@@ -1,5 +1,5 @@
 Ðā cwæð hē,
-'For ðȳ wē sceoldon ealle mægene spyrian æfter Gode,
+For ðȳ wē sceoldon ealle mægene spyrian æfter Gode,
 þæt wē wissen hwæt hē wǣre.
 Ðēah hit ūre mǣð ne sīe þæt wē witen hwylc hē sīe,
 wē sculon þēah be þæs andgites mǣþ,
@@ -11,10 +11,10 @@ For ðǣm nǣfre swā manega gesceafta,
 on swā micla on swā fǣgra,
 hī ne underðīodden lǣssan gesceafte ond lǣssan anwalde þonne hī ealle sindon,
 nē furðum emne miclum.
-'  Ðā cwæð ic,
-'Hwæt is ēcnes?
-'  Ðā cwæð hē,
-'Þū mē āhsast micles earfoðes tō ongitanne.
+  Ðā cwæð ic,
+Hwæt is ēcnes?
+  Ðā cwæð hē,
+Þū mē āhsast micles earfoðes tō ongitanne.
 Gif þū hit witan wilt,
 ðū scealt habban ǣr þīnes mōdes ēagan clǣne ond hlūtor.
 Ne mæg ic ðē nāuht helan þæs þe ic wāt.
@@ -38,9 +38,9 @@ Gif wit þæt eall sculon tōsmēagian,
 oððe nǣfre.
 Ac ān þing ðū scealt nēde þǣr ǣr witan,
 for hwȳ God is gehāten sīo hēhste ēcnes.
-'  Ðā cwæð ic 'Hwȳ?
-'  Ðā cwæð hē,
-'For ðon þe wē witon swīðe lȳtel ðæs ðe ǣr ūs wæs,
+  Ðā cwæð ic Hwȳ?
+  Ðā cwæð hē,
+For ðon þe wē witon swīðe lȳtel ðæs ðe ǣr ūs wæs,
 būton be gemynde ond be geāscunge;
 ond gēt lǣsse þæs ðe æfter ūs bið.
 Þæt ān ūs is gewislīce andweard,
@@ -95,4 +95,4 @@ Gē habbað micle nēdðearfe þæt gē symle wel dōn,
 for ðǣm gē symle beforan þǣm ēcan ond þǣm ælmihtigan Gode dōð eall þæt þæt gē dōð.
 Eall hē hit gesihð,
 ond eall hē hit forgilt.
-'
+
