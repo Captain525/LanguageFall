@@ -6,6 +6,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 #import seaborn as sns
 #import matplotlib.pyplot as plt
 #import warningswarnings.simplefilter("ignore")
+from sklearn.preprocessing import MinMaxScaler
+
+
 class machineLearningLanguages():
     def __init__(self, listLangs):
         self.languageList = listLangs
@@ -15,9 +18,9 @@ class machineLearningLanguages():
         self.train =pd.DataFrame(columns = ['text', 'language'])
         self.validation = pd.DataFrame(columns = ['text', 'language'])
         self.test = pd.DataFrame(columns = ['text', 'language'])
-        self.trainFM
-        self.validFM
-        self.testFM
+        self.trainFM = None
+        self.validFM = None
+        self.testFM = None
     """
         
     trainingPercent = .7
@@ -34,7 +37,7 @@ class machineLearningLanguages():
     def makeDataSet(self):
         #header = 0 to show to skip the first line bc those are names of columns.
         data = pd.read_csv('languageData.csv', header=0,skip_blank_lines=True, encoding='utf-8')
-        global languageList
+
 
         #does this matter?
         conditionalLength = [True if 10<=len(s) else False for s in data['text']]
@@ -42,8 +45,8 @@ class machineLearningLanguages():
         print(data)
 
         dataRandom = pd.DataFrame(columns = ['text', 'language'])
-        print(len(languageList))
-        for lang in languageList:
+        print(len(self.languageList))
+        for lang in self.languageList:
             langSubset = data[data['language']==lang]
             print("Num lines for: " + lang + " is " + str(len(langSubset)) )
             #not using all the data.
@@ -95,20 +98,42 @@ class machineLearningLanguages():
         #transform the corpus into an array of samples by features, each row being one sample.
         X = vectorizer.fit_transform(corpus)
         #gets the list of those amount most common trigrams.
-        featureNames = vectorizer.get_feature_names()
-        print(featureNames)
+        featureNames = vectorizer.get_feature_names_out()
+        #print(featureNames)
         return featureNames
     """
     Scales the feature matrix using minMax scaling. 
     """
     def scaleFM(self, featureMatrix, min, max):
         #to show its the training set
-        if(min==None and max==None):
-            min = featureMatrix.min()
-            max = featureMatrix.max()
+        """
+        if(min is None and max is None):
+            min = featureMatrix.min(axis=0)
+            print(min)
+            print('next')
+            max = featureMatrix.max(axis=0)
+            print(max)
         #scale the values in the matrix by subtracting the minimum, then dividing by range.
         scaledFeature = (featureMatrix - min)/(max - min)
+        print(scaledFeature)
         return scaledFeature
+
+        scaler = MinMaxScaler()
+        scaledData = scaler.fit_transform(featureMatrix)
+
+        scaledData = pd.DataFrame(scaledData)
+        return scaledData
+        """
+        arr = featureMatrix.to_numpy()
+        if min is None and max is None:
+            min = np.amin(arr, axis=None)
+            max = np.amax(arr,axis=None)
+            #print (min)
+            #print(max)
+        scaledFeature = (featureMatrix - min) / (max - min)
+        #add this? xfinal = scaledFeature *(maxChosen -minChosen) + minChosen - this is range you want them to go to, don't have to do if 0 to 1.
+        return scaledFeature
+
     """
     Given some data and a vectorizer, it makes a feature matrix of the given 
     data. The vectorizer has already been set up with the vocab list, so all it does 
@@ -118,9 +143,10 @@ class machineLearningLanguages():
     def makeFeatureMatrix(self, data, vectorizer,featureNames, min, max):
         corpus = data['text']
         X = vectorizer.fit_transform(corpus)
+
         #not sure if only do this once, or many times?
-        if featureNames==None:
-            featureNames= vectorizer.get_feature_names()
+        if featureNames is None:
+            featureNames= vectorizer.get_feature_names_out()
         # get the feature matrix as a dataframe.
         dataFeat = pd.DataFrame(data=X.toarray(), columns=featureNames)
         dataScaled = self.scaleFM(dataFeat, min, max)
@@ -139,11 +165,20 @@ class machineLearningLanguages():
             # dictionary with keys as the string and the value as the index in the feature matrix.
             vocabList[value] = count
 
+        #print(vocabList)
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3), vocabulary=vocabList)
         self.trainFM = self.makeFeatureMatrix(self.train, vectorizer,None, None, None)
-        min = self.trainFM.min()
-        max = self.trainFM.max()
-        featureNames = vectorizer.get_feature_names
+        # doing this just to pass the min and max of train to the other functions.
+        x = vectorizer.fit_transform(self.train['text'])
+        dataArr = pd.DataFrame(data=x.toarray())
+        arr = dataArr.to_numpy()
+
+        min = np.amin(arr, axis=None)
+        max = np.amax(arr, axis=None)
+        #print(min)
+        #print(max)
+
+        featureNames = vectorizer.get_feature_names_out()
         self.validFM = self.makeFeatureMatrix(self.validation, vectorizer, featureNames, min, max)
         self.testFM = self.makeFeatureMatrix(self.test, vectorizer, featureNames, min, max)
 
@@ -152,6 +187,8 @@ class machineLearningLanguages():
     def doClassification(self):
         self.makeDataSet()
         trigramSet = self.makeTrigrams(self.train, 200)
+        self.makeAllFeatureMatrices(trigramSet)
+
 
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
