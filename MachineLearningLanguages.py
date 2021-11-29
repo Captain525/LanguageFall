@@ -206,9 +206,9 @@ class machineLearningLanguages():
     def trainModel(self, inputDim):
         #this gets the feature matrix of trigrams without the result.
         #why axis = 1?
-        x = self.trainFM.drop('lang',axis=1)
+        x = self.trainFM.drop('language',axis=1)
         #put the category of each input through the encoder, into variable y.
-        y = self.oneHotEncode(self.trainFM['lang'])
+        y = self.oneHotEncode(self.trainFM['language'])
 
         #sequential model has one input matrix and one output vector
         model = Sequential()
