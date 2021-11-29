@@ -1,12 +1,16 @@
 import pandas as pd
 import numpy as np
 import re
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.utils import np_utils
+
 
 from sklearn.feature_extraction.text import CountVectorizer
 #import seaborn as sns
 #import matplotlib.pyplot as plt
 #import warningswarnings.simplefilter("ignore")
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
 
 class machineLearningLanguages():
@@ -37,8 +41,6 @@ class machineLearningLanguages():
     def makeDataSet(self):
         #header = 0 to show to skip the first line bc those are names of columns.
         data = pd.read_csv('languageData.csv', header=0,skip_blank_lines=True, encoding='utf-8')
-
-
         #does this matter?
         conditionalLength = [True if 10<=len(s) else False for s in data['text']]
         data = data[conditionalLength]
@@ -172,23 +174,64 @@ class machineLearningLanguages():
         x = vectorizer.fit_transform(self.train['text'])
         dataArr = pd.DataFrame(data=x.toarray())
         arr = dataArr.to_numpy()
-
+        print(self.trainFM)
         min = np.amin(arr, axis=None)
         max = np.amax(arr, axis=None)
-        #print(min)
-        #print(max)
+        print(min)
+        print(max)
 
         featureNames = vectorizer.get_feature_names_out()
         self.validFM = self.makeFeatureMatrix(self.validation, vectorizer, featureNames, min, max)
         self.testFM = self.makeFeatureMatrix(self.test, vectorizer, featureNames, min, max)
 
+        print(self.validFM)
+    """
+    Makes a categorical variable into something the model can use by encoding them 
+    as vectors, with the number of dimensions being the number of categories and each
+    index having a value of 0 or 1, 1 meaning it is the given language. A OHE vector
+    can only have ONE 1 in this scenario, since you can't be two languages. 
+    so, "Old English" becomes [1 0 0], "Old French" becomes [0 1 0], and "Old latin" becomes
+    [0 0 1]. 
+    """
+    def oneHotEncode(self, dataList):
+        encoder = LabelEncoder()
+        #fits the encoder based on the list of languages we have established.
+        encoder.fit(self.languageList)
+        #this turns each category into a number between 0 and num_cat -1, so OE is 0, OF is 1, OL is 2.
+        encoded = encoder.transform(dataList)
+        #converts list of nums between 0 and numCat-1 to a list of vectors(matrix) with a 1 indicating the category.
+        vector = np_utils.to_categorical(encoded)
+        return vector
+
+    def trainModel(self, inputDim):
+        #this gets the feature matrix of trigrams without the result.
+        #why axis = 1?
+        x = self.trainFM.drop('lang',axis=1)
+        #put the category of each input through the encoder, into variable y.
+        y = self.oneHotEncode(self.trainFM['lang'])
+
+        #sequential model has one input matrix and one output vector
+        model = Sequential()
+        layerSize = 500
+        #pick the features of the neural Net.
+        model.add(Dense(layerSize, input_dim=inputDim,activation='relu'))
+        model.add(Dense(layerSize,activation='relu'))
+        model.add(Dense(layerSize/2, activation='relu'))
+        model.add(Dense(len(self.languageList), activation='softmax'))
+        model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+        #train model. Not sure which parameters to use.
+        model.fit(x,y, epochs=4, batch_size=100)
+
 
 
     def doClassification(self):
         self.makeDataSet()
+        #make trigrams only works if self.train is set, which comes from makeDataSet.
         trigramSet = self.makeTrigrams(self.train, 200)
+        inputDim =len(trigramSet)
         self.makeAllFeatureMatrices(trigramSet)
-
+        self.trainModel(inputDim)
 
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
