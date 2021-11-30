@@ -163,13 +163,8 @@ class machineLearningLanguages():
     and one for testing. 
     """
     def makeAllFeatureMatrices(self, featureSet):
-        vocabList = dict()
-        # enumerate
-        # what does this do?
-        for count, value in enumerate(featureSet):
-            # dictionary with keys as the string and the value as the index in the feature matrix.
-            vocabList[value] = count
 
+        vocabList = self.getVocabList(featureSet)
         #print(vocabList)
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3), vocabulary=vocabList)
         self.trainFM = self.makeFeatureMatrix(self.train, vectorizer,None, None, None)
@@ -188,6 +183,14 @@ class machineLearningLanguages():
         self.testFM = self.makeFeatureMatrix(self.test, vectorizer, featureNames, min, max)
 
         print(self.validFM)
+    def getVocabList(self, featureSet):
+        vocabList = dict()
+        # enumerate
+        # what does this do?
+        for count, value in enumerate(featureSet):
+            # dictionary with keys as the string and the value as the index in the feature matrix.
+            vocabList[value] = count
+        return vocabList
     """
     Makes a categorical variable into something the model can use by encoding them 
     as vectors, with the number of dimensions being the number of categories and each
@@ -255,11 +258,26 @@ class machineLearningLanguages():
         self.modelTrained = trainedModel
         testResults = self.testModel(trainedModel)
         print("accuracy is: " + str(testResults))
-
+    def inputModel(self):
+        text1 = input("Enter a string of  text, we will guess the language\n")
+        text2 = input("Enter more text")
+        text = [text1, text2]
+        print(text)
+        trigramSet = self.trainFM.columns
+        vocabList = self.getVocabList(trigramSet)
+        vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3), vocabulary=vocabList)
+        featureNames = vectorizer.get_feature_names_out()
+        transformed = pd.DataFrame(vectorizer.fit_transform(text).toarray(), columns=featureNames)
+        print(transformed)
+        labels = self.modelTrained.predict(transformed.drop('language', axis=1))
+        label = np.argmax(labels, axis=1)
+        predictions = self.encoder.inverse_transform(label)
+        print(predictions)
 
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
     mll.doClassification()
+    mll.inputModel()
 
 if __name__== "__main__":
     main()
