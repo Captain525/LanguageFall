@@ -10,6 +10,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 #import seaborn as sns
 #import matplotlib.pyplot as plt
 #import warningswarnings.simplefilter("ignore")
+from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
 
@@ -25,6 +26,8 @@ class machineLearningLanguages():
         self.trainFM = None
         self.validFM = None
         self.testFM = None
+        self.modelTrained = None
+        self.encoder= None
     """
         
     trainingPercent = .7
@@ -199,6 +202,7 @@ class machineLearningLanguages():
         encoder.fit(self.languageList)
         #this turns each category into a number between 0 and num_cat -1, so OE is 0, OF is 1, OL is 2.
         encoded = encoder.transform(dataList)
+        self.encoder = encoder
         #converts list of nums between 0 and numCat-1 to a list of vectors(matrix) with a 1 indicating the category.
         vector = np_utils.to_categorical(encoded)
         return vector
@@ -222,8 +226,24 @@ class machineLearningLanguages():
 
         #train model. Not sure which parameters to use.
         model.fit(x,y, epochs=4, batch_size=100)
+        return model
+    def validateModel(self):
+        """
+        use this to fine tune parameters of the model.
+        """
+    def testModel(self, model):
+        """
+        test the accuracy of the model.
+        """
+        xTest = self.testFM.drop('language', axis=1)
+        yTest = self.testFM['language']
 
+        labels = model.predict(xTest)
+        label = np.argmax(labels, axis=1)
+        predictions = self.encoder.inverse_transform(label)
 
+        accuracy = accuracy_score(yTest, predictions)
+        return accuracy
 
     def doClassification(self):
         self.makeDataSet()
@@ -231,7 +251,11 @@ class machineLearningLanguages():
         trigramSet = self.makeTrigrams(self.train, 200)
         inputDim =len(trigramSet)
         self.makeAllFeatureMatrices(trigramSet)
-        self.trainModel(inputDim)
+        trainedModel = self.trainModel(inputDim)
+        self.modelTrained = trainedModel
+        testResults = self.testModel(trainedModel)
+        print("accuracy is: " + str(testResults))
+
 
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
