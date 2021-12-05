@@ -4,13 +4,14 @@ import re
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.utils import np_utils
+import matplotlib.pyplot as plt
+import seaborn as sea
+from keras_visualizer import visualizer
 
 
 from sklearn.feature_extraction.text import CountVectorizer
-#import seaborn as sns
-#import matplotlib.pyplot as plt
 #import warningswarnings.simplefilter("ignore")
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix,accuracy_score
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
 
@@ -219,7 +220,7 @@ class machineLearningLanguages():
 
         #sequential model has one input matrix and one output vector
         model = Sequential()
-        layerSize = 500
+        layerSize = 100
         #pick the features of the neural Net.
         model.add(Dense(layerSize, input_dim=inputDim,activation='relu'))
         model.add(Dense(layerSize,activation='relu'))
@@ -230,10 +231,16 @@ class machineLearningLanguages():
         #train model. Not sure which parameters to use.
         model.fit(x,y, epochs=4, batch_size=100)
         return model
-    def validateModel(self):
+    def validateModel(self, model):
         """
         use this to fine tune parameters of the model.
         """
+        xValidate = self.testFM.drop('language', axis=1)
+        yValidate = self.testFM['language']
+
+        #print(model.summary())
+        return
+
     def testModel(self, model):
         """
         test the accuracy of the model.
@@ -246,6 +253,15 @@ class machineLearningLanguages():
         predictions = self.encoder.inverse_transform(label)
 
         accuracy = accuracy_score(yTest, predictions)
+        confusionMatrix = confusion_matrix(yTest, predictions)
+        confusionMatrixDF = pd.DataFrame(confusionMatrix, columns=self.languageList, index=self.languageList)
+        plt.figure(figsize=(10,10), facecolor='w', edgecolor='k')
+        sea.set(font_scale=1.5)
+        sea.heatmap(confusionMatrixDF, cmap='coolwarm', annot=True, fmt='.5g', cbar=False)
+        plt.xlabel('Predicted', fontsize=22)
+        plt.ylabel('Actual', fontsize=22)
+        plt.show()
+
         return accuracy
 
     def doClassification(self):
@@ -256,6 +272,9 @@ class machineLearningLanguages():
         self.makeAllFeatureMatrices(trigramSet)
         trainedModel = self.trainModel(inputDim)
         self.modelTrained = trainedModel
+
+        self.validateModel(trainedModel)
+        self.visualize(trainedModel)
         testResults = self.testModel(trainedModel)
         print("accuracy is: " + str(testResults))
     def inputModel(self):
@@ -270,14 +289,17 @@ class machineLearningLanguages():
         transformed = pd.DataFrame(vectorizer.fit_transform(text).toarray(), columns=featureNames)
         print(transformed)
         labels = self.modelTrained.predict(transformed.drop('language', axis=1))
+        print(labels)
         label = np.argmax(labels, axis=1)
-        predictions = self.encoder.inverse_transform(label)
-        print(predictions)
 
+        predictions = self.encoder.inverse_transform(label)
+        print(text,predictions)
+    def visualize(self,model):
+        visualizer(model, format='png', view=True)
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
     mll.doClassification()
-    mll.inputModel()
+    #mll.inputModel()
 
 if __name__== "__main__":
     main()
