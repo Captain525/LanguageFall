@@ -228,6 +228,8 @@ class machineLearningLanguages():
         """
         xValidate = self.testFM.drop('language', axis=1)
         yValidate = self.testFM['language']
+        labels = model.predict(xValidate)
+        label = np.argmax(labels, axis=1)
 
         #print(model.summary())
         return
@@ -236,14 +238,20 @@ class machineLearningLanguages():
         """
         test the accuracy of the model.
         """
+
         xTest = self.testFM.drop('language', axis=1)
         yTest = self.testFM['language']
-
+        #for each test data, it gets a list of the relative probabilities it gives to each. This is a matrix.
         labels = model.predict(xTest)
+        #gets just the maximum result of that list of relative probabilities to get the formal "guess".
         label = np.argmax(labels, axis=1)
+        #gets the guesses back into the language string, like "Old English" or "Old French", from [1 0 0]
         predictions = self.encoder.inverse_transform(label)
 
+        self.printTestsToFile(predictions, yTest)
+
         accuracy = accuracy_score(yTest, predictions)
+        """
         confusionMatrix = confusion_matrix(yTest, predictions)
         confusionMatrixDF = pd.DataFrame(confusionMatrix, columns=self.languageList, index=self.languageList)
         plt.figure(figsize=(10,10), facecolor='w', edgecolor='k')
@@ -252,6 +260,7 @@ class machineLearningLanguages():
         plt.xlabel('Predicted', fontsize=22)
         plt.ylabel('Actual', fontsize=22)
         plt.show()
+        """
 
         return accuracy
 
@@ -287,6 +296,23 @@ class machineLearningLanguages():
         print(text,predictions)
     def visualize(self,model):
         visualizer(model, format='png', view=True)
+    def printTestsToFile(self, predictions, yTest):
+        text = self.test
+        with open("testPredictions", "w", encoding='utf-8')as file:
+            listWrong = []
+            file.write("each string, then guess, then actual result.\n")
+            for i in range (0, len(text)):
+                string = "Text :" + str(text['text'].iloc[i] )+ " , prediction: " + str(predictions[i]) + " , actual: " +str(yTest.iloc[i]) + "\n"
+
+                if predictions[i] !=yTest.iloc[i]:
+                    listWrong.append(string)
+                else:
+                    file.write(string)
+            file.write("Wrong guesses: \n")
+            for string in listWrong:
+                file.write(string)
+        return
+
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
     mll.doClassification()
