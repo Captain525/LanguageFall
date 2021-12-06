@@ -29,16 +29,7 @@ class machineLearningLanguages():
         self.testFM = None
         self.modelTrained = None
         self.encoder= None
-    """
-        
-    trainingPercent = .7
-    validationPercent = .2
-    testPercent = .1
-    train = pd.DataFrame(columns = ['text', 'language'])
-    validation = pd.DataFrame(columns = ['text', 'language'])
-    test = pd.DataFrame(columns = ['text', 'language'])
-    languageList = ["Old English", "Old French", "Old Latin"]
-    """
+
 
 
     #make the data set.
@@ -220,7 +211,7 @@ class machineLearningLanguages():
 
         #sequential model has one input matrix and one output vector
         model = Sequential()
-        layerSize = 100
+        layerSize = 500
         #pick the features of the neural Net.
         model.add(Dense(layerSize, input_dim=inputDim,activation='relu'))
         model.add(Dense(layerSize,activation='relu'))
@@ -299,7 +290,7 @@ class machineLearningLanguages():
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
     mll.doClassification()
-    #mll.inputModel()
+    mll.inputModel()
 
 if __name__== "__main__":
     main()
