@@ -8,7 +8,18 @@ from urllib.request import Request
 import manipulateTextTests
 import makeCSV
 from manipulateText import manipulateText
+"""
+This class does many things, all related to setting up the data for Machine Learning. Don't need to call it again 
+because i already did all of this. 
 
+1. it goes through the list of websites for each language, makes the folder for that language, then accesses
+the html of the website and uses that to get the text data from the website. 
+
+Also calls the make csv method as well as the manipulate text stuff to cut out the website data. 
+
+This method and stuff related to it took a very long time because it was really hard to cut/edit the text files to make them 
+good for use. That was a lot of work. 
+"""
 
 class textData:
 

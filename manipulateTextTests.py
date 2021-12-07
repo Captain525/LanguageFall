@@ -1,4 +1,7 @@
 from manipulateText import manipulateText
+"""
+This file runs tests to test the functions which edit the text to make sure they work properly. 
+"""
 def main():
         runTests()
 

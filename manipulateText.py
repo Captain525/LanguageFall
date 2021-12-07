@@ -1,3 +1,11 @@
+"""
+This class is designed to manipulate and edit the text obtained from the websites, to put it in a form which can be
+easily transmitted into data. It also counts the words in all of the files.
+
+Cuts out stuff like numbers, parentheses, brackets, makes new lines, etc.
+"""
+
+
 class manipulateText():
     def __init__(self):
         pass

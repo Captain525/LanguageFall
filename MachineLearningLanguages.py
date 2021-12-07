@@ -75,6 +75,13 @@ class machineLearningLanguages():
             #add trigrams to dictionary.
             features[language] = trigramList
             featureSet.update(trigramList)
+        #print all trigrams to the file.
+        with open("TrigramListFull", "w", encoding='utf-8') as file:
+            file.write("Total number of trigrams: " + str(len(featureSet)) + "\n")
+            for element in featureSet:
+                file.write(element + "\n")
+
+
         return featureSet
 
 
@@ -94,13 +101,14 @@ class machineLearningLanguages():
         X = vectorizer.fit_transform(corpus)
         #gets the list of those amount most common trigrams.
         featureNames = vectorizer.get_feature_names_out()
+
         #print(featureNames)
         return featureNames
     def getTop10ForEach(self,corpus,amount, language):
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3,3), max_features=10)
         X=vectorizer.fit_transform(corpus)
         featureNames =vectorizer.get_feature_names_out()
-        with open("TrigramList", "a", encoding='utf-8') as file:
+        with open("TrigramList", "w", encoding='utf-8') as file:
             file.write("language: " + language + "\n")
             for i in range(0, len(featureNames)):
                 file.write(featureNames[i])
@@ -287,19 +295,19 @@ class machineLearningLanguages():
         text1 = input("Enter a string of  text, we will guess the language\n")
         text2 = input("Enter more text")
         text = [text1, text2]
-        print(text)
+        #print(text)
         trigramSet = self.trainFM.columns
         vocabList = self.getVocabList(trigramSet)
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3), vocabulary=vocabList)
         featureNames = vectorizer.get_feature_names_out()
         transformed = pd.DataFrame(vectorizer.fit_transform(text).toarray(), columns=featureNames)
-        print(transformed)
+        #print(transformed)
         labels = self.modelTrained.predict(transformed.drop('language', axis=1))
-        print(labels)
+       # print(labels)
         label = np.argmax(labels, axis=1)
 
         predictions = self.encoder.inverse_transform(label)
-        print(text,predictions)
+        #print(text,predictions)
     def visualize(self,model):
         visualizer(model, format='png', view=True)
     def printTestsToFile(self, predictions, yTest):

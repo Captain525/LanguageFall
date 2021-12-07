@@ -1,7 +1,11 @@
 import csv
 import pandas as pd
 import os
-
+"""
+This file makes the csv(sheet with data on it), by going through the folders for each language, copying the text by 
+line, and pairing that with the line's classification, then doing this for ALL the specified files. This then puts these
+pairs into the languageData.csv
+"""
 #want to make a csv with 2 columns. First column is text, second is language.
 def makeCSV(listOfTuples):
     headers = ["text", "language"]
@@ -24,6 +28,7 @@ def makeCSV(listOfTuples):
     data.dropna(subset=["text"], inplace=True)
     return data.to_csv('languageData.csv', index=False)
 
+#gets the list of tuples containing each line, combined with its classification.
 def getListLinesFile(file, category):
     listOfLineTuples = []
     try:
@@ -41,14 +46,14 @@ def getListLinesFile(file, category):
     return listOfLineTuples
 
 
-
+#makes pairs of (category, listFiles)
 def makeTuple(category, listFiles):
     pair= (category, listFiles)
     return pair
 
 
 
-#returns the path to a given file in a give category.
+#returns the path to a given file in a given category.
 def getPath(category, file):
     subDirectory = os.getcwd() + "/" + category
     path = subDirectory + "/" + file
