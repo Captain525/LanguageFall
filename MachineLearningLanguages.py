@@ -14,7 +14,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import confusion_matrix,accuracy_score
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
-
+"""
+Put the data into the right form, make and train the neural network, test it. 
+"""
 class machineLearningLanguages():
     def __init__(self, listLangs):
         self.languageList = listLangs
@@ -108,7 +110,7 @@ class machineLearningLanguages():
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3,3), max_features=10)
         X=vectorizer.fit_transform(corpus)
         featureNames =vectorizer.get_feature_names_out()
-        with open("TrigramList", "w", encoding='utf-8') as file:
+        with open("TrigramList", "a", encoding='utf-8') as file:
             file.write("language: " + language + "\n")
             for i in range(0, len(featureNames)):
                 file.write(featureNames[i])
@@ -225,7 +227,7 @@ class machineLearningLanguages():
 
         #sequential model has one input matrix and one output vector
         model = Sequential()
-        layerSize = 500
+        layerSize = inputDim
         #pick the features of the neural Net.
         model.add(Dense(layerSize, input_dim=inputDim,activation='relu'))
         model.add(Dense(layerSize,activation='relu'))
@@ -303,11 +305,11 @@ class machineLearningLanguages():
         transformed = pd.DataFrame(vectorizer.fit_transform(text).toarray(), columns=featureNames)
         #print(transformed)
         labels = self.modelTrained.predict(transformed.drop('language', axis=1))
-       # print(labels)
+        print(labels)
         label = np.argmax(labels, axis=1)
 
         predictions = self.encoder.inverse_transform(label)
-        #print(text,predictions)
+        print(text,predictions)
     def visualize(self,model):
         visualizer(model, format='png', view=True)
     def printTestsToFile(self, predictions, yTest):
@@ -330,7 +332,7 @@ class machineLearningLanguages():
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
     mll.doClassification()
-    #mll.inputModel()
+    mll.inputModel()
 
 if __name__== "__main__":
     main()

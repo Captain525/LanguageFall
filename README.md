@@ -102,3 +102,8 @@ predictions were, which comes out in the accuracy of the model, as a percent cor
 For this model, our accuracy was somewhere between 97 and 98% which i thought was very good ,considering i wasn't even 
 sure this would work before trying it. 
 
+
+used this article to help guide the ML part of my project:
+https://towardsdatascience.com/deep-neural-network-language-identification-ae1c158f6a7d
+
+
