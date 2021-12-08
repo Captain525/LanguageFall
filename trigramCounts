@@ -49,7 +49,6 @@ ode     284
 e m     275
  tō     265
 ra      262
-Name: total_count, dtype: int64
 Language: Old French
 nt     1436
 es     1022
@@ -101,7 +100,6 @@ par     382
 ns      377
 e p     373
  vo     370
-Name: total_count, dtype: int64
 Language: Old Latin
  qu    1496
 um     1302
@@ -153,4 +151,4 @@ si      360
  tu     358
 ist     356
 ego     355
-Name: total_count, dtype: int64
+

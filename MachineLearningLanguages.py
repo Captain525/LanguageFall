@@ -6,7 +6,10 @@ from keras.layers import Dense
 from keras.utils import np_utils
 import matplotlib.pyplot as plt
 import seaborn as sea
+
 from keras_visualizer import visualizer
+import scikeras
+from scikeras.wrappers import KerasClassifier, KerasRegressor
 
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -32,6 +35,7 @@ class machineLearningLanguages():
         self.testFM = None
         self.modelTrained = None
         self.encoder= None
+        self.trig = None
 
 
 
@@ -234,11 +238,12 @@ class machineLearningLanguages():
         model.add(Dense(layerSize,activation='relu'))
         model.add(Dense(layerSize/2, activation='relu'))
         model.add(Dense(len(self.languageList), activation='softmax'))
-        model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-
+        #model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+        clf = KerasClassifier(model=model, loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         #train model. Not sure which parameters to use.
-        model.fit(x,y, epochs=4, batch_size=100)
-        return model
+        #model.fit(x,y, epochs=4, batch_size=100)
+        clf.fit(x,y,epochs=4, batch_size=100)
+        return clf
     def validateModel(self, model):
         """
         use this to fine tune parameters of the model.
@@ -291,7 +296,7 @@ class machineLearningLanguages():
         self.modelTrained = trainedModel
 
         self.validateModel(trainedModel)
-        self.calcImportance()
+        #self.calcImportance()
         #self.visualize(trainedModel)
         testResults = self.testModel(trainedModel)
         print("accuracy is: " + str(testResults))
@@ -301,6 +306,7 @@ class machineLearningLanguages():
         text = [text1, text2]
         #print(text)
         trigramSet = self.trainFM.columns
+        self.trig = trigramSet
         vocabList = self.getVocabList(trigramSet)
         vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3), vocabulary=vocabList)
         featureNames = vectorizer.get_feature_names_out()
@@ -357,11 +363,19 @@ class machineLearningLanguages():
            #print(new)
     def calcImportance(self):
         xVal = self.validFM.drop('language', axis=1)
-        yVal = self.validFM['language']
-        r = permutation_importance(self.modelTrained, xVal, yVal, n_repeats=30, random_state=0)
+
+        yVal = self.oneHotEncode(self.validFM['language'])
+        print(yVal)
+        set = self.trainFM.columns
+        print(set)
+        r = permutation_importance(self.modelTrained, xVal, yVal, n_repeats=5, random_state=0)
+        print("got here\n")
+        print(r.importances_mean)
+
         for i in r.importances_mean.argsort()[::-1]:
+            print("iteration " + str(i))
             if r.importances_mean[i]-2*r.importances_std[i]>0:
-                print(f"{self.validation.feature_names[i]:<8}"
+                print(f"{set[i]:<8}"
                       f"{r.importances_mean[i]:.3f}"
                       f"+/-{r.importances_std[i]:.3f}")
 
