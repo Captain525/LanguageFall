@@ -1,0 +1,156 @@
+Language: Old English
+ ge    1198
+nd     1135
+on     1006
+an      973
+ne      930
+ on     824
+and     824
+ hi     746
+um      642
+de      586
+æt      498
+eal     487
+es      481
+ond     468
+e h     454
+ he     437
+ þæ     430
+ an     422
+eor     412
+þæt     409
+re      401
+ hē     401
+nde     396
+e g     384
+ þā     382
+e þ     381
+ sw     364
+ear     362
+e s     350
+is      345
+þā      344
+hē      343
+for     323
+end     318
+e w     314
+er      311
+ þe     309
+d h     306
+n þ     297
+nne     295
+t h     293
+ be     291
+n h     286
+ode     284
+þe      281
+ ea     279
+ mi     279
+e m     275
+ tō     265
+ra      262
+Name: total_count, dtype: int64
+Language: Old French
+nt     1436
+es     1022
+ de     964
+ent     959
+et      887
+en      797
+ qu     686
+est     682
+ne      658
+li      634
+de      628
+ en     607
+ant     606
+ le     602
+le      593
+t l     590
+re      575
+st      571
+ li     565
+us      536
+ la     533
+ es     523
+la      511
+ a      499
+it      490
+ se     488
+que     488
+e l     477
+ et     457
+ co     449
+is      446
+ier     445
+il      444
+ui      442
+or      440
+ pa     437
+ont     433
+ so     432
+ ne     426
+tre     412
+ue      405
+s e     399
+t d     389
+ l'     389
+t e     387
+t a     387
+par     382
+ns      377
+e p     373
+ vo     370
+Name: total_count, dtype: int64
+Language: Old Latin
+ qu    1496
+um     1302
+am     1158
+qui    1061
+ in     751
+is      721
+ me     703
+qua     696
+em      665
+us      609
+que     600
+ si     561
+ es     559
+uid     534
+ere     518
+est     501
+per     492
+id      483
+ co     466
+et      462
+tum     459
+ue      449
+eri     444
+ mi     434
+ ad     430
+ no     429
+in      424
+ se     403
+e a     401
+ fa     401
+ vi     397
+ter     395
+quo     393
+ te     392
+iam     390
+ent     384
+ pr     381
+ut      381
+uam     379
+re      378
+ su     377
+ pa     374
+t,      372
+s,      363
+te      363
+si      360
+ di     360
+ tu     358
+ist     356
+ego     355
+Name: total_count, dtype: int64

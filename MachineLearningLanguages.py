@@ -11,6 +11,7 @@ from keras_visualizer import visualizer
 
 from sklearn.feature_extraction.text import CountVectorizer
 #import warningswarnings.simplefilter("ignore")
+from sklearn.inspection import permutation_importance
 from sklearn.metrics import confusion_matrix,accuracy_score
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
@@ -290,6 +291,7 @@ class machineLearningLanguages():
         self.modelTrained = trainedModel
 
         self.validateModel(trainedModel)
+        self.calcImportance()
         #self.visualize(trainedModel)
         testResults = self.testModel(trainedModel)
         print("accuracy is: " + str(testResults))
@@ -328,11 +330,46 @@ class machineLearningLanguages():
             for string in listWrong:
                 file.write(string)
         return
+    def countTrigrams(self):
+        self.makeDataSet()
+        data = self.train
+        print(data)
+        for language in self.languageList:
+            # get only the rows with language == language
+            corpus = data['text'][data['language'] == language]
+            # we want to count how many trigrams were in all of these samples as a whole.
+            vectorizer = CountVectorizer(analyzer='char', ngram_range=(3, 3),max_features=200)
+            x=vectorizer.fit_transform(corpus)
+            #print(x)
+            textDoc = pd.DataFrame(x.todense())
+            textDoc.columns = vectorizer.get_feature_names_out()
+            textDocMatrix = textDoc.T
+            textDocMatrix.columns = ["Line" + str(i) for i in range(0,len(corpus))]
+            textDocMatrix['total_count'] = textDocMatrix.sum(axis=1)
+            textDocMatrix = textDocMatrix.sort_values(by="total_count", ascending=False)[:50]
+            with open("trigramCounts", "a", encoding='utf-8') as file:
+                file.write("Language: " + language + '\n')
+                file.writelines(str(textDocMatrix['total_count']))
+                file.write("\n")
+            print(textDocMatrix['total_count'].head(50))
+
+            #new = vectorizer.inverse_transform(x)
+           #print(new)
+    def calcImportance(self):
+        xVal = self.validFM.drop('language', axis=1)
+        yVal = self.validFM['language']
+        r = permutation_importance(self.modelTrained, xVal, yVal, n_repeats=30, random_state=0)
+        for i in r.importances_mean.argsort()[::-1]:
+            if r.importances_mean[i]-2*r.importances_std[i]>0:
+                print(f"{self.validation.feature_names[i]:<8}"
+                      f"{r.importances_mean[i]:.3f}"
+                      f"+/-{r.importances_std[i]:.3f}")
 
 def main():
     mll = machineLearningLanguages(["Old English", "Old French", "Old Latin"])
+    #mll.countTrigrams()
     mll.doClassification()
-    mll.inputModel()
+    #mll.inputModel()
 
 if __name__== "__main__":
     main()
